@@ -1,0 +1,51 @@
+---
+import Site from '../layouts/Site.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+---
+
+<Site title="Helmgast">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div id="zoombrand-from">
+				</div>
+			</div>
+			<div class="col-md-6 page-header">
+				<h1 class="publisher-header">HELMGAST</h1>
+				<h2 class="publisher-tagline">Rollspel på allvar</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-offset-6 col-md-5">
+				<a href="#latestnews" class="pull-right news-link">
+					<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> Senaste nytt
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="container content">
+		<div class="row">
+			<h3 id="latestnews" class="anchor">Latest news</h3>
+			<div class="col-md-12 cards margin-above">
+				<ArticleCard 
+					title="Eon 5: omslagen"
+					date="2016-01-01"
+					href="blog/eon-5-omslagen"
+					backgroundImage='https://res.cloudinary.com/helmgast/image/fetch/w_800,c_limit,q_auto,fl_lossy,f_auto/https%3A//helmgast.se/asset/image/thumbs/eon5-mockup-regelboken.png'
+				/>
+				<ArticleCard 
+					title="Ifyllbara formulär" 
+					date="2016-01-02" 
+					href="blog/ifyllbara-formular"
+				/>
+				<ArticleCard 
+					title="An update on the English version of Neotech Edge"
+					date="2016-01-03"
+					href="blog/an-update-on-the-english-version-of-neotech-edge"
+				/>
+			</div>
+			<a href="blog" class="pull-right"> Read more</a>
+		</div>
+	</div>
+</Site>
+
