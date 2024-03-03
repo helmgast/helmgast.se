@@ -2,7 +2,6 @@
 import '../styles/custom_bootstrap.less';
 import '../styles/app.less';
 import Footer from './Footer.astro';
-import Header from './Header.astro';
 import Nav from './Nav.astro';
 interface Props {
 	title: string;
@@ -31,17 +30,12 @@ const { url } = Astro;
 
 	<body>
 		<Nav />
-		<Header />
-		<div class="container">
-			<div class="row">
-				<slot />
-			</div>
-		</div>
+		<slot />
 		<Footer />
 	</body>
 </html>
 
-<style>
+<style is:global>
 	.content {
 		font-family: 'Gentium Book Basic', 'Georgia', sans-serif;
 		font-size: 18px;

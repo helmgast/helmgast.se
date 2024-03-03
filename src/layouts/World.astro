@@ -1,0 +1,28 @@
+---
+import { getEntry } from 'astro:content';
+import WorldIntro from './WorldIntro.astro';
+import Header from './Header.astro';
+import Site from './Site.astro';
+
+const { world } = Astro.props;
+const { Content, headings } = await world.render();
+
+---
+
+<Site title={world.data.title}>
+    <Header 
+        title={world.data.title} 
+        backgroundImage={world.data.images?.[0]}
+        tagline={world.data.tagline}
+    />
+    <div class="container">
+        <div class="row">
+            <WorldIntro world={world} />
+            <div class="col-lg-9 col-md-12 col-sm-12 content">
+                <article class="article-text drop-caps">
+                    <Content />
+                </article>
+            </div>
+        </div>
+    </div>
+</Site>

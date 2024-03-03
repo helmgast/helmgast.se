@@ -1,0 +1,50 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import fbIcon from '../media/fb_like_icon_144px.png';
+
+interface Props {
+	world: CollectionEntry<World>;
+}
+
+const { world } = Astro.props;
+---
+
+<aside class="col-lg-2 col-md-12 col-sm-12 intro-aside margin-below">
+    {world.data.product_url && (
+    <p class="text-center">
+        <a class="btn btn-lg btn-info" href={world.data.product_url}>
+            Buy in shop
+        </a>
+    </p>
+    )}
+    {world.data.facebook_url && (
+    <a class="center-block margin-below" href={world.data.facebook_url}>
+        <img class="center-block" src={fbIcon.src}>
+    </a>
+    )}
+    <table class="table" id="tour-worlddetails">
+        {world.data.external_host && (
+        <tr>
+            <td colspan=2>
+                <a href={world.data.external_host}><span class="glyphicon glyphicon-globe"></span> External homepage</a>
+            </td>
+        </tr>
+        )}
+        {world.data.rule_system && (
+        <tr>
+            <th>Rule System</th>
+            <td>
+                <small>{world.data.rule_system}</small>
+            </td>
+        </tr>
+        )}
+        {world.data.publishing_year && (
+        <tr>
+            <th>Created</th>
+            <td>
+                <small class="nobr">{world.data.publishing_year}</small>
+            </td>
+        </tr>
+        )}
+    </table>
+</aside>

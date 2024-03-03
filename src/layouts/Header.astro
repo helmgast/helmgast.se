@@ -1,8 +1,19 @@
-<header class="page-header margin-below-large">
+---
+interface Props {
+    title?: string;
+    backgroundImage?: string;
+    tagline?: string;
+}
+
+const { title, backgroundImage, tagline } = Astro.props;
+---
+
+<header class="page-header margin-below-large page-header-hero" style={backgroundImage && `background: url(${backgroundImage}) center top/cover`}>
     <div class="container">
         <div class="row">
             <h1 class="col-lg-12 col-md-12 col-sm-12">
-                <small></small>
+                {title}
+                <small>{tagline}</small>
             </h1>
         </div>
     </div>
