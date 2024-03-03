@@ -1,6 +1,17 @@
 ---
 import Site from '../layouts/Site.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+
+import { getCollection } from 'astro:content';
+let latestNews = await getCollection('articles', ({ data}) => {
+	return data.status === 'published' && data.type === 'blogpost'
+});
+latestNews = latestNews.sort((a, b) => a.data.created_date < b.data.created_date ? 1 : -1).slice(0, 8);
+
+const worlds = await getCollection('worlds', ({ data}) => {
+	return data.status === 'published'
+});
+
 ---
 
 <Site title="Helmgast">
@@ -23,26 +34,31 @@ import ArticleCard from '../components/ArticleCard.astro';
 			</div>
 		</div>
 	</div>
+	{worlds.map(world => (
+		<a href={world.slug}>
+			<div class="page-header page-header-hero parallax-border"
+					style={world.data.images?.[0] && `background: url(${world.data.images?.[0]}) center top/cover`}>
+				<div class="container">
+					<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+						{ world.data.title }
+						<small>{ world.data.tagline }</small>
+					</h1>
+				</div>
+			</div>
+		</a>
+	))}
 	<div class="container content">
 		<div class="row">
 			<h3 id="latestnews" class="anchor">Latest news</h3>
 			<div class="col-md-12 cards margin-above">
-				<ArticleCard 
-					title="Eon 5: omslagen"
-					date="2016-01-01"
-					href="blog/eon-5-omslagen"
-					backgroundImage='https://res.cloudinary.com/helmgast/image/fetch/w_800,c_limit,q_auto,fl_lossy,f_auto/https%3A//helmgast.se/asset/image/thumbs/eon5-mockup-regelboken.png'
+				{latestNews.map(article => (
+					<ArticleCard 
+					title={article.data.title}
+					date={article.data.created_date.toISOString()}
+					href={`blog/${article.slug}`}
+					backgroundImage={article.data.images?.[0]}
 				/>
-				<ArticleCard 
-					title="Ifyllbara formulär" 
-					date="2016-01-02" 
-					href="blog/ifyllbara-formular"
-				/>
-				<ArticleCard 
-					title="An update on the English version of Neotech Edge"
-					date="2016-01-03"
-					href="blog/an-update-on-the-english-version-of-neotech-edge"
-				/>
+				))}
 			</div>
 			<a href="blog" class="pull-right"> Read more</a>
 		</div>

@@ -1,0 +1,11 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+
+import Site from '../../layouts/Site.astro';
+const world = await getEntry('worlds', 'eon');
+
+---
+
+<Site title={world.data.title}>
+    <h1>{world.data.title}</h1>
+</Site>

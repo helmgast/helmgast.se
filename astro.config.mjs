@@ -4,11 +4,11 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     site: "https://helmgast.se",
     image: {
-        domains: ["helmgast.se", "fablr.co"],
+        domains: ["fablr.co"],
     },
     i18n: {
         defaultLocale: "sv",
-        locales: ["en", "sv"],
+        locales: ["en", "sv", "fr"],
         routing: {
             prefixDefaultLocale: false
         }
