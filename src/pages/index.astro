@@ -1,6 +1,7 @@
 ---
 import Site from '../layouts/Site.astro';
-import ArticleCard from '../components/ArticleCard.astro';
+import ArticleCardList from '../layouts/ArticleCardList.astro';
+
 
 import { getCollection } from 'astro:content';
 let latestNews = await getCollection('articles', ({ data}) => {
@@ -18,7 +19,8 @@ const worlds = await getCollection('worlds', ({ data}) => {
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<div id="zoombrand-from">
+				<div>
+					<img src="/favicon.svg" class="img-responsive" alt="Helmgast logo" />
 				</div>
 			</div>
 			<div class="col-md-6 page-header">
@@ -49,18 +51,11 @@ const worlds = await getCollection('worlds', ({ data}) => {
 	))}
 	<div class="container content">
 		<div class="row">
-			<h3 id="latestnews" class="anchor">Latest news</h3>
-			<div class="col-md-12 cards margin-above">
-				{latestNews.map(article => (
-					<ArticleCard 
-					title={article.data.title}
-					date={article.data.created_date.toISOString()}
-					href={`blog/${article.slug}`}
-					backgroundImage={article.data.images?.[0]}
-				/>
-				))}
-			</div>
-			<a href="blog" class="pull-right"> Read more</a>
+			<ArticleCardList 
+				articles={latestNews}
+				title="Senaste nytt"
+				readMoreHref="/blog"
+			/>
 		</div>
 	</div>
 </Site>

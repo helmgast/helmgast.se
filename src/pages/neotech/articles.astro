@@ -1,0 +1,8 @@
+---
+import ArticleTable from '@layouts/ArticleTable.astro';
+import { latestArticlesForWorld } from '../../utils/helpers';
+
+let allArticles = await latestArticlesForWorld("neotech");
+---
+
+<ArticleTable allArticles={allArticles} title="Neotech"/>

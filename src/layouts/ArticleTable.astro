@@ -1,0 +1,58 @@
+---
+import Header from './Header.astro';
+import Site from './Site.astro';
+import { typeToIcon, typeToTitle } from 'src/utils/helpers';
+
+const { allArticles, title, backgroundImage } = Astro.props;
+
+---
+
+<Site title={title}>
+    <Header 
+        title={title} 
+        backgroundImage={backgroundImage}
+    />
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-8 col-sm-12 content">
+                <table class="table table-hover">
+                    <thead>
+                        <tr><th>
+                            Titel
+                        </th>
+                        <th>
+                            Typ
+                        </th>
+                        <th>
+                            Skapare
+                        </th>
+                        <th>
+                            Skapad
+                        </th>
+                        <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {allArticles.map( article => 
+                        <tr>
+                            <td>
+                                <a href={`/${article.data.world}/${article.slug}`}>{article.data.title}</a>
+                            </td>
+                            <td><span class={typeToIcon[article.data.type]}></span> {typeToTitle[article.data.type]}
+                            </td>
+                            <td>{article.data.creator}</td>
+                            <td>{article.data.created_date.toISOString().slice(0,10)}
+                            </td>
+                            <td style="position: relative">
+                                <ul class="flag-list">
+                                    <!-- <li><img title="Tillgänglig på svenska" src="/static/img/icon/SE.png"></li>  -->
+                                </ul>        
+                            </td>
+                        </tr>
+                        )}
+                    </tbody>
+                </table>           
+            </div>
+        </div>
+    </div>
+</Site>

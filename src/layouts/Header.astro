@@ -6,9 +6,11 @@ interface Props {
 }
 
 const { title, backgroundImage, tagline } = Astro.props;
+const bg = backgroundImage ? `background: url(${backgroundImage}) center top/cover` : '';
+const classes = backgroundImage ? "page-header margin-below-large page-header-hero" : "page-header margin-below-large";
 ---
 
-<header class="page-header margin-below-large page-header-hero" style={backgroundImage && `background: url(${backgroundImage}) center top/cover`}>
+<header class={classes} style={bg}>
     <div class="container">
         <div class="row">
             <h1 class="col-lg-12 col-md-12 col-sm-12">

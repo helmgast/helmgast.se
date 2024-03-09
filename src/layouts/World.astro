@@ -1,11 +1,15 @@
 ---
-import { getEntry } from 'astro:content';
 import WorldIntro from './WorldIntro.astro';
+import ArticleCardList from './ArticleCardList.astro';
 import Header from './Header.astro';
 import Site from './Site.astro';
 
+import { latestArticlesForWorld } from '../utils/helpers';
+
 const { world } = Astro.props;
 const { Content, headings } = await world.render();
+
+const articles = await latestArticlesForWorld(world.slug, 6);
 
 ---
 
@@ -22,6 +26,11 @@ const { Content, headings } = await world.render();
                 <article class="article-text drop-caps">
                     <Content />
                 </article>
+                <ArticleCardList 
+				    articles={articles}
+				    title="Senaste nytt"
+				    readMoreHref={`${world.slug}/articles`}
+			    />
             </div>
         </div>
     </div>

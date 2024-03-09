@@ -1,14 +1,18 @@
 ---
+
+import { typeToIcon, typeToTitle, worldToTitle } from 'src/utils/helpers';
+
 interface Props {
 	title: string;
   backgroundImage?: string;
   extraClass?: string;
 	href: string;
   description?: string;
-  date: string
+  date: string;
+  type: string;
 }
 
-const { href, title, extraClass, backgroundImage, description, date } = Astro.props;
+const { href, title, extraClass, backgroundImage, description, date, type } = Astro.props;
 ---
 
 <div class={'card ' + (extraClass || '')}>
@@ -25,7 +29,7 @@ const { href, title, extraClass, backgroundImage, description, date } = Astro.pr
     </h3>
     <ul class="card-details">
       <li class="product-type">
-        <span class="glyphicon glyphicon-record"></span> Article { date }
+        <span class={typeToIcon[type || 'default']}></span> Article { date }
       </li>
     </ul>
   </div>

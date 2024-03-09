@@ -1,0 +1,29 @@
+---
+import { unified } from 'unified';
+import remarkParse from 'remark-parse';
+import remarkStringify from 'remark-stringify';
+import {toString} from 'mdast-util-to-string'
+
+const processor = unified()
+  .use(remarkParse)
+  .use(remarkStringify);
+
+
+
+const { article } = Astro.props;
+
+const tree = processor.parse(article.body);
+
+let excerpt = '';
+for (const node of tree.children) {
+  if (node.type === 'paragraph') {
+    excerpt = toString(node).substring(0, 200);
+    break;
+  }
+}
+
+
+---
+
+<p class="dobr">{excerpt}
+</p>

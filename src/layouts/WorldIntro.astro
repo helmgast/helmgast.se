@@ -3,7 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import fbIcon from '../media/fb_like_icon_144px.png';
 
 interface Props {
-	world: CollectionEntry<World>;
+	world: CollectionEntry<'worlds'>;
 }
 
 const { world } = Astro.props;
@@ -22,6 +22,12 @@ const { world } = Astro.props;
         <img class="center-block" src={fbIcon.src}>
     </a>
     )}
+    <p class="text-center">
+        <a class="btn btn-lg btn-primary" href={`${world.slug}/articles`}>
+            All articles
+        </a>
+    </p>
+
     <table class="table" id="tour-worlddetails">
         {world.data.external_host && (
         <tr>

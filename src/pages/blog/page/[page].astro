@@ -1,0 +1,78 @@
+---
+import Site from '@layouts/Site.astro';
+import Header from '@layouts/Header.astro';
+import PostExcerpt from '@layouts/PostExcerpt.astro';
+
+import { latestBlogposts, entryToArticle } from 'src/utils/helpers';
+
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths( { paginate }) {
+    let blogposts = (await latestBlogposts()).map(entryToArticle);
+    return paginate(blogposts, { pageSize: 5 });
+}
+const { page } = Astro.props;
+---
+
+<Site title="Blog">
+    <Header 
+        title="Helmgast-bloggen" 
+    />
+    <div class="container">
+        <div class="row">
+            <aside class="col-lg-2 col-md-12 col-sm-12 intro-aside margin-below">
+            
+            <a class="socialtw" href="https://twitter.com/share?url=https://helmgast.se/meta/blog/" target="_blank">
+            <svg class="lore-icon lore-icon-twitter">
+                <use xlink:href="#lore-twitter"></use>
+            </svg>
+            </a>
+            
+            <a class="socialfb" href="https://www.facebook.com/sharer.php?u=https://helmgast.se/meta/blog/" target="_blank">
+            <svg class="lore-icon lore-icon-facebook">
+                <use xlink:href="#lore-facebook2"></use>
+            </svg>
+            </a>
+            
+            </aside>
+
+            <div class="col-lg-9 col-md-12 col-sm-12 content">
+                <h1>Page {page.currentPage}</h1>
+                {page.data.map(( {props} ) => {
+                const href = `/${props.article?.data?.world || "meta"}/${props.article.slug}`;
+                return (
+                    <div class="media margin-below-large">
+                    <div class="media-left media-top">
+                        <a href={href}>
+                        <img class="media-object" src={props.article.data.images?.[0]}>
+                        </a>
+                    </div>
+                    <div class="media-body">
+                        <h3 class="blog-header">
+                        <a href={href}>{props.article.data.title}</a>
+                        </h3>
+                        <ul class="nav imprint fullwidth">
+                        <li title="Skapad">
+                            <span class="glyphicon glyphicon-calendar"></span> {props.article.data.created_date.toISOString().slice(0,10)}
+                        </li>
+                        <li title="Skapare">
+                            <span class="glyphicon glyphicon-user"></span> {props.article.data.creator}
+                        </li>
+                        
+                        <li title="Värld">
+                            <span class="glyphicon glyphicon-globe"></span> {props.article.data.world}
+                        </li>
+                        
+                        </ul>
+                        <PostExcerpt article={props.article} />
+                        <a href={href}>
+                        <em class="nobr">Läs mer</em>
+                        </a>
+                    </div>
+                </div>
+                )})}
+                {page.url.prev ? <a href={page.url.prev}>Previous</a> : null}
+                {page.url.next ? <a href={page.url.next}>Next</a> : null}
+            </div>
+        </div>
+    </div>
+</Site>

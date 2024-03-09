@@ -1,0 +1,15 @@
+---
+
+import Article from '@layouts/Article.astro';
+import { entryToArticle, latestArticlesForWorld } from '../../utils/helpers';
+
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+    const worldArticles = await latestArticlesForWorld('eon');
+    return worldArticles.map(entryToArticle);
+}
+const { article } = Astro.props;
+
+---
+
+<Article article={article} />

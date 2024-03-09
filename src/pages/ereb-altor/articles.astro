@@ -1,0 +1,8 @@
+---
+import ArticleTable from '@layouts/ArticleTable.astro';
+import { latestArticlesForWorld } from '../../utils/helpers';
+
+let allArticles = await latestArticlesForWorld("ereb-altor");
+---
+
+<ArticleTable allArticles={allArticles} title="Ereb Altor"/>

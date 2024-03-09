@@ -1,0 +1,23 @@
+---
+import ArticleCard from '../layouts/ArticleCard.astro';
+
+const { title, icon, articles, readMoreHref } = Astro.props;
+
+---
+
+<div class="row">
+    <h3 id="latestnews" class="anchor">
+        <span class="glyphicon glyphicon-exclamation-sign"></span>
+        {title}</h3>
+    <div class="col-md-12 cards margin-above">
+        {articles.map(article => (
+            <ArticleCard 
+                title={article.data.title}
+                date={article.data.created_date.toISOString()}
+                href={`${article.data.world || "meta"}/${article.slug}`}
+                backgroundImage={article.data.images?.[0]}
+            />
+        ))}
+    </div>
+    <a href={readMoreHref} class="pull-right"> Läs mer</a>
+</div>
