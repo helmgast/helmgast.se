@@ -4,12 +4,18 @@ import Header from '@layouts/Header.astro';
 import PostExcerpt from '@layouts/PostExcerpt.astro';
 
 import { latestBlogposts, entryToArticle } from 'src/utils/helpers';
+import type { Page } from 'astro';
 
 // 1. Generate a new path for every collection entry
-export async function getStaticPaths( { paginate }) {
+export async function getStaticPaths( { paginate }: { paginate: any }) {
     let blogposts = (await latestBlogposts()).map(entryToArticle);
     return paginate(blogposts, { pageSize: 5 });
 }
+
+interface Props {
+	page: Page;
+}
+
 const { page } = Astro.props;
 ---
 

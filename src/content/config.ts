@@ -1,5 +1,6 @@
 // 1. Import utilities from `astro:content`
 import { z, defineCollection } from 'astro:content';
+import { worldSlugs } from 'src/utils/helpers';
 
 // 2. Define a `type` and `schema` for each collection
 const articles = defineCollection({
@@ -10,7 +11,7 @@ const articles = defineCollection({
     type: z.enum(['default', 'blogpost', 'material', 'person', 'place', 'character',]),
     status: z.enum(['draft', 'published', 'private']),
     creator: z.string(),
-    world: z.string().optional(),
+    world: z.enum(["eon", "kult", "jarn", "ereb-altor", "hjaltarnas-tid", "kopparhavets-hjaltar", "neotech", "noir", "the-troubleshooters"]).optional(),
     license: z.string().optional(),
     language: z.enum(['sv', 'en', 'fr']),
     created_date: z.string().transform((str) => new Date(str)),
@@ -31,6 +32,7 @@ const worlds = defineCollection({
       product_url: z.string().optional(),
       facebook_url: z.string().optional(),
       publishing_year: z.string(),
+      external_host: z.string().optional(),
       language: z.enum(['sv', 'en', 'fr']).optional(),
       created_date: z.string().transform((str) => new Date(str)),
       theme: z.string().optional(),

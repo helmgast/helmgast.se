@@ -6,7 +6,7 @@ import { exampleRemarkPlugin } from './src/excerpt-remark-plugin.mjs';
 export default defineConfig({
     site: "https://helmgast.se",
     image: {
-        domains: ["fablr.co"],
+        domains: ["fablr.co", "helmgast.se"],
     },
     redirects: {
         "/blog": "/blog/page/1",

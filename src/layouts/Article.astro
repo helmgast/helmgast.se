@@ -1,10 +1,15 @@
 ---
+import type { CollectionEntry } from 'astro:content';
 import ArticleIntro from './ArticleIntro.astro';
 import Header from './Header.astro';
 import Site from './Site.astro';
 
+interface Props {
+	article: CollectionEntry<'articles'>;
+}
+
 const { article } = Astro.props;
-const { Content, headings } = await article.render();
+const { Content } = await article.render();
 
 ---
 

@@ -1,7 +1,15 @@
 ---
-import ArticleCard from '../layouts/ArticleCard.astro';
+import type { CollectionEntry } from 'astro:content';
 
-const { title, icon, articles, readMoreHref } = Astro.props;
+import { typeToIcon } from 'src/utils/helpers';
+
+interface Props {
+	articles: CollectionEntry<'articles'>[];
+    title: string;
+    readMoreHref?: string;
+}
+
+const { title, articles, readMoreHref } = Astro.props;
 
 ---
 
@@ -10,14 +18,30 @@ const { title, icon, articles, readMoreHref } = Astro.props;
         <span class="glyphicon glyphicon-exclamation-sign"></span>
         {title}</h3>
     <div class="col-md-12 cards margin-above">
-        {articles.map(article => (
-            <ArticleCard 
-                title={article.data.title}
-                date={article.data.created_date.toISOString()}
-                href={`${article.data.world || "meta"}/${article.slug}`}
-                backgroundImage={article.data.images?.[0]}
-            />
-        ))}
+        {articles.map(article => {
+            const backgroundImage = article.data.images?.[0];
+            const href = `/${article.data.world}/${article.slug}`;
+            return (
+            <div class="card">
+                <a
+                    class="card-cover icon150px"
+                    href={href}
+                    style={backgroundImage && `background: url(${backgroundImage}) center top/cover`}
+                >
+                    {backgroundImage ? null : '\ue165'}
+                </a>
+                <div class="card-text">
+                    <h3 class="card-title dobr">
+                    <a href={href} >{title}</a>
+                    </h3>
+                    <ul class="card-details">
+                    <li class="product-type">
+                        <span class={typeToIcon[article.data.type || 'default']}></span> Article { article.data.created_date.toISOString() }
+                    </li>
+                    </ul>
+                </div>
+            </div>
+        )})}
     </div>
     <a href={readMoreHref} class="pull-right"> Läs mer</a>
 </div>

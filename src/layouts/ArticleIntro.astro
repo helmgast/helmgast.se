@@ -17,9 +17,10 @@ const { article } = Astro.props;
             <span class="imprint-info">{typeToTitle[article.data.type]}</span>
         </li>
         
+        {article.data.world && (
         <li title="Värld"><span class="glyphicon glyphicon-globe"></span>
             <a href={`/${article.data.world || 'meta'}`}>{worldToTitle[article.data.world]}</a>
-        </li>
+        </li>)}
         
         <li title="Skapare"><span class="glyphicon glyphicon-user"></span>
             {article.data.creator || "Unknown"}

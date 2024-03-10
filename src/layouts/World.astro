@@ -7,7 +7,7 @@ import Site from './Site.astro';
 import { latestArticlesForWorld } from '../utils/helpers';
 
 const { world } = Astro.props;
-const { Content, headings } = await world.render();
+const { Content } = await world.render();
 
 const articles = await latestArticlesForWorld(world.slug, 6);
 

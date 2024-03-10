@@ -1,7 +1,15 @@
 ---
+import type { CollectionEntry } from 'astro:content';
+
 import Header from './Header.astro';
 import Site from './Site.astro';
 import { typeToIcon, typeToTitle } from 'src/utils/helpers';
+
+interface Props {
+	allArticles: CollectionEntry<'articles'>[];
+    title: string;
+    backgroundImage?: string;
+}
 
 const { allArticles, title, backgroundImage } = Astro.props;
 
