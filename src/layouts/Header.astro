@@ -1,6 +1,5 @@
 ---
-
-import { Image } from 'astro:assets';
+import { getImage } from "astro:assets";
 
 interface Props {
     title?: string;
@@ -9,8 +8,15 @@ interface Props {
 }
 
 const { title, backgroundImage, tagline } = Astro.props;
-const bg = backgroundImage ? `background: url(${backgroundImage}) center top/cover` : '';
-const classes = backgroundImage ? "page-header margin-below-large page-header-hero" : "page-header margin-below-large";
+
+let bg = '';
+let classes = "page-header margin-below-large";
+if (backgroundImage) {
+    const optimizedBackground = await getImage({src: backgroundImage, width: 2400, height: 600, format: 'webp'})
+    bg = `background: url(${optimizedBackground.src}) center top/cover`;
+    classes += " page-header-hero";
+}
+
 ---
 
 <header class={classes} style={bg}>

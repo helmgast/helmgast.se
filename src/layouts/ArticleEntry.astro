@@ -1,0 +1,54 @@
+---
+
+import { worldToTitle, typeToIconCharacter } from 'src/utils/helpers';
+import type { CollectionEntry } from 'astro:content';
+import { getImage } from "astro:assets";
+import PostExcerpt from '@layouts/PostExcerpt.astro';
+
+interface Props {
+	article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const backgroundImage = article.data.images?.[0];
+
+// Hacky but works to fill out the blog entry
+let bg = 'width: 100%; min-width: 80px; height: 100%; min-height: 120px;';
+if (backgroundImage) {
+    const optimizedBackground = await getImage({src: backgroundImage, width: 516, height: 612, format: 'webp'})
+    bg += `background: url(${optimizedBackground.src}) center top/cover`;
+}
+const world = article.data.world || "meta";
+
+const href = `/${article.data.world}/${article.slug}`;
+---
+
+<div class="media margin-below-large">
+    <div class="media-left media-top">
+        <div style={bg}>
+            {backgroundImage ? null : (<div class="icon64px" >{typeToIconCharacter[article.data.type]}</div>)}
+        </div>
+    </div>
+    <div class="media-body">
+        <h3 class="blog-header">
+        <a href={href}>{article.data.title}</a>
+        </h3>
+        <ul class="nav imprint fullwidth">
+        <li title="Skapad">
+            <span class="glyphicon glyphicon-calendar"></span> {article.data.created_date.toISOString().slice(0,10)}
+        </li>
+        <li title="Skapare">
+            <span class="glyphicon glyphicon-user"></span> {article.data.creator}
+        </li>
+        
+        <li title="Värld">
+            <span class="glyphicon glyphicon-globe"></span> <a href={`/${world}`}>{worldToTitle[world]}</a>
+        </li>
+        
+        </ul>
+        <PostExcerpt article={article} />
+        <a href={href}>
+        <em class="nobr">Läs mer</em>
+        </a>
+    </div>
+</div>

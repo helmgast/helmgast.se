@@ -1,0 +1,37 @@
+---
+
+import { typeToIcon, typeToIconCharacter } from 'src/utils/helpers';
+import type { CollectionEntry } from 'astro:content';
+import { getImage } from "astro:assets";
+
+interface Props {
+	article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const backgroundImage = article.data.images?.[0];
+
+let bg = '';
+if (backgroundImage) {
+    const optimizedBackground = await getImage({src: backgroundImage, width: 516, height: 612, format: 'webp'})
+    bg = `background: url(${optimizedBackground.src}) center top/cover`;
+}
+
+const href = `/${article.data.world}/${article.slug}`;
+---
+
+<div class="card">
+  <a class="card-cover icon150px" href={href} style={bg}>
+    {bg ? null : typeToIconCharacter[article.data.type]}
+  </a>
+  <div class="card-text">
+    <h3 class="card-title dobr">
+      <a href={href} >{article.data.title}</a>
+    </h3>
+    <ul class="card-details">
+      <li class="product-type">
+        <span class={typeToIcon[article.data.type || 'default']}></span> Article { article.data.created_date.toISOString() }
+      </li>
+    </ul>
+  </div>
+</div>

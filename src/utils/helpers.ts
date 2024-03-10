@@ -5,6 +5,7 @@ export const entryToArticle = (entry: any) => ({ params: { slug: entry.slug }, p
 export const worldSlugs = ["eon", "kult", "jarn", "ereb-altor", "hjaltarnas-tid", "kopparhavets-hjaltar", "neotech", "noir", "the-troubleshooters"];
 
 export const worldToTitle = {
+    meta: "Meta",
     eon: "Eon",
     kult: "Kult",
     jarn: "Järn",
@@ -14,6 +15,20 @@ export const worldToTitle = {
     neotech: "Neotech",
     noir: "Noir",
     "the-troubleshooters": "The Troubleshooters",
+}
+
+export const typeToIconCharacter = {
+    'default': '\ue165',
+    'topic': '\ue111',
+    'blogpost': '\ue111',
+    'material': '\ue139',
+    'person': '\ue105',
+    'fraction': '\ue105',
+    'place': '\ue062',
+    'event': '\ue101',
+    'campaign': '\ue034',
+    'chronicle': '\ue044',
+    'character': '\ue005'
 }
 
 export const typeToIcon = {

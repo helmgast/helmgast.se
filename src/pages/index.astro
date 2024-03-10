@@ -1,7 +1,7 @@
 ---
 import Site from '../layouts/Site.astro';
 import ArticleCardList from '../layouts/ArticleCardList.astro';
-
+import { Image } from 'astro:assets';
 
 import { getCollection } from 'astro:content';
 let latestNews = await getCollection('articles', ({ data}) => {

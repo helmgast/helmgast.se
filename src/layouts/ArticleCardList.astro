@@ -1,7 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-
-import { typeToIcon } from 'src/utils/helpers';
+import ArticleCard from './ArticleCard.astro';
 
 interface Props {
 	articles: CollectionEntry<'articles'>[];
@@ -18,30 +17,7 @@ const { title, articles, readMoreHref } = Astro.props;
         <span class="glyphicon glyphicon-exclamation-sign"></span>
         {title}</h3>
     <div class="col-md-12 cards margin-above">
-        {articles.map(article => {
-            const backgroundImage = article.data.images?.[0];
-            const href = `/${article.data.world}/${article.slug}`;
-            return (
-            <div class="card">
-                <a
-                    class="card-cover icon150px"
-                    href={href}
-                    style={backgroundImage && `background: url(${backgroundImage}) center top/cover`}
-                >
-                    {backgroundImage ? null : '\ue165'}
-                </a>
-                <div class="card-text">
-                    <h3 class="card-title dobr">
-                    <a href={href} >{title}</a>
-                    </h3>
-                    <ul class="card-details">
-                    <li class="product-type">
-                        <span class={typeToIcon[article.data.type || 'default']}></span> Article { article.data.created_date.toISOString() }
-                    </li>
-                    </ul>
-                </div>
-            </div>
-        )})}
+        {articles.map(article => <ArticleCard article={article} />)}
     </div>
     <a href={readMoreHref} class="pull-right"> Läs mer</a>
 </div>

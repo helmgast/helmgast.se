@@ -36,7 +36,7 @@ const { article } = Astro.props;
         {article.data.tags && (
         <li title="Taggar"><span class="glyphicon glyphicon-tag"></span>
             {article.data.tags?.map( tag => (
-                <a href="/eon/articles/?tags=Eon"><span class="badge">{tag}</span></a>
+                <span class="badge">{tag}</span>
             ))}
         </li>
         )}
