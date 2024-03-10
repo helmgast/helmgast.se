@@ -59,6 +59,16 @@ export const typeToTitle = {
     'character': 'Character'
 }
 
+export const latestMetaArticles = async (limit: number = 0) => {
+    let latestNews = await getCollection('articles', ({ data}) => {
+        return data.status === 'published' && (data.world === "meta" || !data.world);
+    });
+    latestNews = latestNews.sort((a, b) => a.data.created_date < b.data.created_date ? 1 : -1)
+    if (limit > 0)
+        latestNews = latestNews.slice(0, limit);
+    return latestNews;
+};
+
 export const latestArticlesForWorld = async (worldSlug: string, limit: number = 0) => {
     let latestNews = await getCollection('articles', ({ data}) => {
         return data.status === 'published' && data.world === worldSlug;

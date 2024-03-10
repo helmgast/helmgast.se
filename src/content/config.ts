@@ -11,7 +11,7 @@ const articles = defineCollection({
     type: z.enum(['default', 'blogpost', 'material', 'person', 'place', 'character',]),
     status: z.enum(['draft', 'published', 'private']),
     creator: z.string(),
-    world: z.enum(["eon", "kult", "jarn", "ereb-altor", "hjaltarnas-tid", "kopparhavets-hjaltar", "neotech", "noir", "the-troubleshooters"]).optional(),
+    world: z.enum(["eon", "kult", "jarn", "ereb-altor", "hjaltarnas-tid", "kopparhavets-hjaltar", "neotech", "noir", "the-troubleshooters", "meta"]).optional(),
     license: z.string().optional(),
     language: z.enum(['sv', 'en', 'fr']),
     created_date: z.string().transform((str) => new Date(str)),

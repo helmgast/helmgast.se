@@ -1,11 +1,11 @@
 ---
 import Article from '@layouts/Article.astro';
-import { entryToArticle, latestArticlesForWorld } from '../../utils/helpers';
+import { entryToArticle, latestMetaArticles } from '../../utils/helpers';
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
-    const worldArticles = await latestArticlesForWorld('meta');
-    return worldArticles.map(entryToArticle);
+    const metaArticles = await latestMetaArticles();
+    return metaArticles.map(entryToArticle);
 }
 const { article } = Astro.props;
 

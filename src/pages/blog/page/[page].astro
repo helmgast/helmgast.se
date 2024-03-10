@@ -42,10 +42,16 @@ const { page } = Astro.props;
             </aside>
 
             <div class="col-lg-9 col-md-12 col-sm-12 content">
-                <h1>Page {page.currentPage}</h1>
+                <h3>Page {page.currentPage}</h3>
                 {page.data.map(( {props} ) => <ArticleEntry article={props.article} />)}
-                {page.url.prev ? <a href={page.url.prev}>Previous</a> : null}
-                {page.url.next ? <a href={page.url.next}>Next</a> : null}
+                
+                <nav aria-label="...">
+                    <ul class="pager">
+                      {page.url.prev && <li class="previous"><a href={page.url.prev}><span aria-hidden="true">&larr;</span> Newer</a></li>}
+
+                      {page.url.next && <li class="next"><a href={page.url.next}>Older <span aria-hidden="true">&rarr;</span></a></li>}
+                    </ul>
+                </nav>
             </div>
         </div>
     </div>

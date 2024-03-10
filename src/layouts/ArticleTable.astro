@@ -44,7 +44,7 @@ const { allArticles, title, backgroundImage } = Astro.props;
                         {allArticles.map( article => 
                         <tr>
                             <td>
-                                <a href={`/${article.data.world}/${article.slug}`}>{article.data.title}</a>
+                                <a href={`/${article.data.world || "meta"}/${article.slug}`}>{article.data.title}</a>
                             </td>
                             <td><span class={typeToIcon[article.data.type]}></span> {typeToTitle[article.data.type]}
                             </td>
