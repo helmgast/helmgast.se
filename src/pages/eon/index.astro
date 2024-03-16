@@ -1,8 +1,10 @@
 ---
 import { getEntry } from 'astro:content';
 import World from '@layouts/World.astro';
+import '../../styles/eon_theme.css';
 
 const world = await getEntry('worlds', 'eon');
 
 ---
+
 <World world={world} />
