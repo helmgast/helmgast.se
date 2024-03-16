@@ -12,6 +12,8 @@ publishing_year: '2016'
 description: Hjältarnas tid är ett fantasyrollspel som öppnar porten till fantastiska äventyr.
 tagline: Ett fantasyrollspel för nya och gamla rollspelare.
 title: Hjältarnas Tid
+languages:
+  - sv
 ---
 Du tar rollen av en hjälte som försöker nå ära och berömmelse genom att överkomma faror, besegra fiender, och finna skatter. Tillsammans med dina vänner skapar du berättelsen och äventyret.
 
@@ -107,16 +109,15 @@ Aprilskämt
 Produktbilder
 =============
 
-*   gallery-center
-*   ![](https://helmgast.se/asset/image/dummy-box.png)
-*   ![](https://helmgast.se/asset/image/ht-bok-mockup.jpg)
-*   ![](https://helmgast.se/asset/image/ht-starthafte-mockup.jpg)
-*   ![](https://helmgast.se/asset/image/ht-starthafte-inlaga.jpg)
-*   ![](https://helmgast.se/asset/image/54-55-mockup.jpg)
-*   ![](https://helmgast.se/asset/image/starthafte-scen-3.jpg)
-*   ![](https://helmgast.se/asset/image/dummy-magi-final.png)
-*   ![](https://helmgast.se/asset/image/dummy-trollskogen-final.png)
-*   ![](https://helmgast.se/asset/image/mockup-kallarys-skatt-final.png)
-*   ![](https://helmgast.se/asset/image/mockup-dod-kvinnas-kista.png)
-*   ![](https://helmgast.se/asset/link/mockup-hjaltarnas-vag-square.png)
-*   ![](https://helmgast.se/asset/link/mockup-sorgeveden-square.png)
+*   ![](https://helmgast.se/asset/image/dummy-box.png#thumb)
+*   ![](https://helmgast.se/asset/image/ht-bok-mockup.jpg#thumb)
+*   ![](https://helmgast.se/asset/image/ht-starthafte-mockup.jpg#thumb)
+*   ![](https://helmgast.se/asset/image/ht-starthafte-inlaga.jpg#thumb)
+*   ![](https://helmgast.se/asset/image/54-55-mockup.jpg#thumb)
+*   ![](https://helmgast.se/asset/image/starthafte-scen-3.jpg#thumb)
+*   ![](https://helmgast.se/asset/image/dummy-magi-final.png#thumb)
+*   ![](https://helmgast.se/asset/image/dummy-trollskogen-final.png#thumb)
+*   ![](https://helmgast.se/asset/image/mockup-kallarys-skatt-final.png#thumb)
+*   ![](https://helmgast.se/asset/image/mockup-dod-kvinnas-kista.png#thumb)
+*   ![](https://helmgast.se/asset/link/mockup-hjaltarnas-vag-square.png#thumb)
+*   ![](https://helmgast.se/asset/link/mockup-sorgeveden-square.png#thumb)

@@ -2,6 +2,13 @@ import { getCollection} from 'astro:content';
 
 export const entryToArticle = (entry: any) => ({ params: { slug: entry.slug }, props: {article: entry}});
 
+export const langToFlag = {
+    "sv": "🇸🇪",
+    "en": "🇺🇸",
+    "fr": "🇫🇷",
+    "de": "🇩🇪",
+}
+
 export const worldSlugs = ["eon", "kult", "jarn", "ereb-altor", "hjaltarnas-tid", "kopparhavets-hjaltar", "neotech", "noir", "the-troubleshooters"];
 
 export const worldToTitle = {

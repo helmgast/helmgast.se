@@ -23,8 +23,7 @@ Med *Järn *har Krister Sundelin uppdaterat det klassiska *Basic Roleplaying*-sy
 
 För att spela *Järn *behöver man papper, penna samt tio- och sexsidiga tärningar.
 
-* gallery-center
-* ![](https://fablr.co/asset/image/jarn.jpg)
+* ![](https://fablr.co/asset/image/jarn.jpg#thumb)
 
 # Läs mer
 * [Material till Järn](https://helmgast.se/jarn/material-till-jarn)

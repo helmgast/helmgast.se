@@ -33,7 +33,7 @@ const worlds = defineCollection({
       facebook_url: z.string().optional(),
       publishing_year: z.string(),
       external_host: z.string().optional(),
-      language: z.enum(['sv', 'en', 'fr']).optional(),
+      languages: z.array(z.enum(['sv', 'en', 'fr', 'de'])).optional(),
       created_date: z.string().transform((str) => new Date(str)),
       theme: z.string().optional(),
       images: z.array(z.string()).optional(),

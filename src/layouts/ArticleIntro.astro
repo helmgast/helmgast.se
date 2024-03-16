@@ -12,29 +12,25 @@ const { article } = Astro.props;
 
 <aside class="col-lg-2 col-md-12 col-sm-12 intro-aside margin-below">
     <ul class="nav imprint">
-        <li title="Artikeltyp">
+        <li title="Article type">
             <span class={typeToIcon[article.data.type]}></span>
             <span class="imprint-info">{typeToTitle[article.data.type]}</span>
         </li>
         
         {article.data.world && (
-        <li title="Värld"><span class="glyphicon glyphicon-globe"></span>
+        <li title="World"><span class="glyphicon glyphicon-globe"></span>
             <a href={`/${article.data.world || 'meta'}`}>{worldToTitle[article.data.world]}</a>
         </li>)}
         
-        <li title="Skapare"><span class="glyphicon glyphicon-user"></span>
+        <li title="Creator"><span class="glyphicon glyphicon-user"></span>
             {article.data.creator || "Unknown"}
         </li>
-        <li title="Skapad"><span class="glyphicon glyphicon-calendar"></span>
+        <li title="Created"><span class="glyphicon glyphicon-calendar"></span>
             <span class="imprint-info">{article.data.created_date.toISOString().slice(0,10)}</span>
         </li>
         
-        <li title="Synlighet"><span class="glyphicon glyphicon-eye-open"></span>
-            <span class="imprint-info">Publicerad</span>   
-        </li>
-        
         {article.data.tags && (
-        <li title="Taggar"><span class="glyphicon glyphicon-tag"></span>
+        <li title="Tags"><span class="glyphicon glyphicon-tag"></span>
             {article.data.tags?.map( tag => (
                 <span class="badge">{tag}</span>
             ))}

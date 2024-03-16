@@ -14,6 +14,8 @@ images:
 facebook_url: https://www.facebook.com/syndensdiplomater/
 tagline: En dystopisk tid för ovilliga hjältar
 title: Noir
+languages:
+  - sv
 ---
 Det är en tid av världsligt förfall, mysterier, våld och mörk erotik. Scenen är mångmiljonstaden Sandukar, det jättelika Imperiets hjärta. Det är en plats för hårdkokta män, farliga kvinnor och fallna kämpar – individer som skapar sina egna regler och som genom sina handlingar visar vad som är rätt eller fel.
 

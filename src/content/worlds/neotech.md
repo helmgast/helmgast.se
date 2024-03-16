@@ -17,6 +17,8 @@ theme: neotech-theme
 product_url: https://webshop.helmgast.se/neotech/
 tagline: Realtid är för långsamt
 title: Neotech
+languages:
+  - sv
 ---
 #### Neotech Edge är en total remake av det klassiska cyberpunkspelet från 90-talet, centrerat runt konceptet _”hur skulle cyberpunk se ut om den skapades idag?”_
 

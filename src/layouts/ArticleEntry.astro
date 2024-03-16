@@ -1,6 +1,6 @@
 ---
 
-import { worldToTitle, typeToIconCharacter } from 'src/utils/helpers';
+import { worldToTitle, typeToIconCharacter, langToFlag } from 'src/utils/helpers';
 import type { CollectionEntry } from 'astro:content';
 import { getImage } from "astro:assets";
 import PostExcerpt from '@layouts/PostExcerpt.astro';
@@ -44,11 +44,15 @@ const href = `/${article.data.world}/${article.slug}`;
         <li title="Värld">
             <span class="glyphicon glyphicon-globe"></span> <a href={`/${world}`}>{worldToTitle[world]}</a>
         </li>
+
+        <li>
+            {langToFlag[article.data.language]}
+        </li>
         
         </ul>
         <PostExcerpt article={article} />
         <a href={href}>
-        <em class="nobr">Läs mer</em>
+        <em class="nobr">Read more</em>
         </a>
     </div>
 </div>

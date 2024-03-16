@@ -1,6 +1,6 @@
 ---
 
-import { typeToIcon, typeToIconCharacter } from 'src/utils/helpers';
+import { typeToIcon, typeToIconCharacter, langToFlag } from 'src/utils/helpers';
 import type { CollectionEntry } from 'astro:content';
 import { getImage } from "astro:assets";
 
@@ -28,6 +28,11 @@ const href = `/${article.data.world}/${article.slug}`;
     <h3 class="card-title dobr">
       <a href={href} >{article.data.title}</a>
     </h3>
+    <ul class="flag-list">
+      <li>
+        {langToFlag[article.data.language]}
+      </li>
+    </ul>
     <ul class="card-details">
       <li class="product-type">
         <span class={typeToIcon[article.data.type || 'default']}></span> Article { article.data.created_date.toISOString() }

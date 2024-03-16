@@ -15,6 +15,8 @@ tagline: 25 år av äventyr
 title: Eon
 images:
   - https://helmgast.se/asset/image/90b92b341c7b5508a684eafda7dc4c75-omslag-spelledarskarm-cut.jpg
+languages:
+  - sv
 ---
 Eon är ett fantasyrollspel fyllt av smutsig realism med fantastiska inslag. Det är en värld som trots drakar, häxmästare, vandöda fasor och gudar känns trovärdig. Det är en värld av gråskalor. Det finns ingen absolut ondska och det finns ingen absolut godhet. Det finns individer, deras handlingar och dess konsekvenser.
 

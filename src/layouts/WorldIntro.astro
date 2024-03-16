@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import fbIcon from '../media/fb_like_icon_144px.png';
+import {langToFlag} from '../utils/helpers';
 
 interface Props {
 	world: CollectionEntry<'worlds'>;
@@ -46,9 +47,17 @@ const { world } = Astro.props;
         )}
         {world.data.publishing_year && (
         <tr>
-            <th>Created</th>
+            <th>Published</th>
             <td>
                 <small class="nobr">{world.data.publishing_year}</small>
+            </td>
+        </tr>
+        )}
+        {world.data.languages && (
+        <tr>
+            <th>Languages</th>
+            <td>
+                {world.data.languages.map(lang => (<span>{langToFlag[lang]}</span>))}
             </td>
         </tr>
         )}

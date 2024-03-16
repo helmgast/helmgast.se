@@ -1,17 +1,22 @@
 ---
 import Site from '../layouts/Site.astro';
 import ArticleCardList from '../layouts/ArticleCardList.astro';
-import { Image } from 'astro:assets';
 
-import { getCollection } from 'astro:content';
+import { getEntry, getCollection } from 'astro:content';
 let latestNews = await getCollection('articles', ({ data}) => {
 	return data.status === 'published' && data.type === 'blogpost'
 });
 latestNews = latestNews.sort((a, b) => a.data.created_date < b.data.created_date ? 1 : -1).slice(0, 8);
 
-const worlds = await getCollection('worlds', ({ data}) => {
-	return data.status === 'published'
-});
+const eon = await getEntry('worlds', 'eon');
+const neotech = await getEntry('worlds', 'neotech');
+const kult = await getEntry('worlds', 'kult');
+const ereb = await getEntry('worlds', 'ereb-altor');
+const noir = await getEntry('worlds', 'noir');
+const hjaltarnas = await getEntry('worlds', 'hjaltarnas-tid');
+const tbs = await getEntry('worlds', 'the-troubleshooters');
+const koppar = await getEntry('worlds', 'kopparhavets-hjaltar');
+const jarn = await getEntry('worlds', 'jarn');
 
 ---
 
@@ -25,35 +30,131 @@ const worlds = await getCollection('worlds', ({ data}) => {
 			</div>
 			<div class="col-md-6 page-header">
 				<h1 class="publisher-header">HELMGAST</h1>
-				<h2 class="publisher-tagline">Rollspel på allvar</h2>
+				<h2 class="publisher-tagline">Serious about games{}</h2>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-offset-6 col-md-5">
 				<a href="#latestnews" class="pull-right news-link">
-					<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> Senaste nytt
+					<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> Latest news
 				</a>
 			</div>
 		</div>
 	</div>
-	{worlds.map(world => (
-		<a href={world.slug}>
-			<div class="page-header page-header-hero parallax-border"
-					style={world.data.images?.[0] && `background: url(${world.data.images?.[0]}) center top/cover`}>
-				<div class="container">
-					<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
-						{ world.data.title }
-						<small>{ world.data.tagline }</small>
-					</h1>
-				</div>
+	<div class="container content">
+		<div class="row">
+			<h3><span class="glyphicon glyphicon-exclamation-sign"></span> International games</h3>
+		</div>
+	</div>
+	<a href={kult.slug}>
+		<div class="page-header page-header-hero parallax-border page-header-hide-text"
+				style={kult.data.images?.[0] && `background: url(${kult.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ kult.data.title }
+					<small>{ kult.data.tagline }</small>
+				</h1>
 			</div>
-		</a>
-	))}
+		</div>
+	</a>
+	<a href={tbs.slug}>
+		<div class="page-header page-header-hero parallax-border page-header-hide-text"
+				style={tbs.data.images?.[0] && `background: url(${tbs.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ tbs.data.title }
+					<small>{ tbs.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
+	<div class="container content">
+		<div class="row">
+			<h3>🇸🇪 Swedish games</h3>
+		</div>
+	</div>
+	<a href={eon.slug}>
+		<div class="page-header page-header-hero parallax-border"
+				style={eon.data.images?.[0] && `background: url(${eon.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ eon.data.title }
+					<small>{ eon.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
+	<a href={ereb.slug}>
+		<div class="page-header page-header-hero parallax-border page-header-hide-text"
+				style={ereb.data.images?.[0] && `background: url(${ereb.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ ereb.data.title }
+					<small>{ ereb.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
+	<a href={neotech.slug}>
+		<div class="page-header page-header-hero parallax-border"
+				style={neotech.data.images?.[0] && `background: url(${neotech.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ neotech.data.title }
+					<small>{ neotech.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
+	<a href={koppar.slug}>
+		<div class="page-header page-header-hero parallax-border"
+				style={koppar.data.images?.[0] && `background: url(${koppar.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ koppar.data.title }
+					<small>{ koppar.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
+	<a href={hjaltarnas.slug}>
+		<div class="page-header page-header-hero parallax-border"
+				style={hjaltarnas.data.images?.[0] && `background: url(${hjaltarnas.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ hjaltarnas.data.title }
+					<small>{ hjaltarnas.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
+	<a href={jarn.slug}>
+		<div class="page-header page-header-hero parallax-border"
+				style={jarn.data.images?.[0] && `background: url(${jarn.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ jarn.data.title }
+					<small>{ jarn.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
+	<a href={noir.slug}>
+		<div class="page-header page-header-hero parallax-border"
+				style={noir.data.images?.[0] && `background: url(${noir.data.images?.[0]}) center top/cover`}>
+			<div class="container">
+				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
+					{ noir.data.title }
+					<small>{ noir.data.tagline }</small>
+				</h1>
+			</div>
+		</div>
+	</a>
 	<div class="container content">
 		<div class="row">
 			<ArticleCardList 
 				articles={latestNews}
-				title="Senaste nytt"
+				title="Latest news"
 				readMoreHref="/blog"
 			/>
 		</div>

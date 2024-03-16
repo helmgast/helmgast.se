@@ -1186,16 +1186,16 @@ article a[href*=".txt"] {
 article,
 .gallery {
   a[href*=".pdf"] {
-    background-image: url(/static/img/icon/application_pdf-icon.svg);
+    background-image: url(/icon/application_pdf-icon.svg);
   }
   a[href*=".rtf"] {
-    background-image: url(/static/img/icon/application_rtf-icon.svg);
+    background-image: url(/icon/application_rtf-icon.svg);
   }
   a[href*=".zip"] {
-    background-image: url(/static/img/icon/application_zip-icon.svg);
+    background-image: url(/icon/application_zip-icon.svg);
   }
   a[href*=".txt"] {
-    background-image: url(/static/img/icon/text_plain-icon.svg);
+    background-image: url(/icon/text_plain-icon.svg);
   }
 }
 
@@ -1713,6 +1713,46 @@ article {
   position: absolute;
   top: -15px;
   right: 20px;
+}
+
+ul:has(li > img[src$="thumb"]) {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  list-style: none;
+}
+
+li:has(img[src$="thumb"]) {
+  flex-basis: 350px;
+}
+
+li:only-child:has(img[src$="thumb"]) {
+  flex-basis: 100%;
+}
+
+img[src$="thumb"] {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 5px;
+}
+
+img[src$="rthumb"] {
+  float: right;
+  width: auto;
+  max-width: 180px;
+  position: relative;
+  left: 30px;
+}
+
+img[src$="lthumb"] {
+  float: left;
+  width: auto;
+  max-width: 180px;
+  position: relative;
+  left: -30px;
 }
 
 .gallery {

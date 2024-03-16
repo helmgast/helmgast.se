@@ -17,6 +17,9 @@ description: A reboot of the highly acclaimed and infamous contemporary horror
     stay alive in a world full of pain, torture, and death.
 tagline: Divinity Lost
 title: Kult
+languages:
+  - en
+  - sv
 ---
 In KULT: Divinity Lost, the world around us is a lie. Mankind is trapped in an Illusion. We do not see the great citadels of Metropolis towering over our highest skyscrapers. We do not hear the screams from the forgotten cellar where hidden stairs take us to Inferno. We do not smell the blood and burnt flesh from those sacrificed to long forgotten Gods. But some of us see glimpses from beyond the veil. We have this strange feeling that something is not right—the ramblings of a madman in the subway seems to carry a hidden message, and, when thinking about it, our reclusive neighbor doesn’t appear to be completely human when we pass in the hallway. By slowly discovering the truth about our prison, our captors, and our hidden pasts, we can finally awaken from our induced sleep and take control of our destiny.
 

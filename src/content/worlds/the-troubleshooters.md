@@ -15,6 +15,10 @@ custom_css: h3 { clear:none !important}
 description: The Troubleshooters is an action-adventure tabletop roleplaying game set in an exciting and adventurous 1960s in the style of Franco-Belgian comics. 
 tagline: Roleplaying in the Belgian-French Comic Tradition
 title: The Troubleshooters
+languages:
+  - en
+  - fr
+  - de
 ---
 Where in the world will your next adventure take you?
 =====================================================
