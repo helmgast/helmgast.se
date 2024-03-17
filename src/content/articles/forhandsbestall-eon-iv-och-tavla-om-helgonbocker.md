@@ -12,7 +12,7 @@ editors:
 world: eon
 language: sv
 ---
-![](https://fablr.co/asset/image/forhandsbestall-eon-tavling.png) Välj från bibliotek
+![](https://helmgast.se/asset/image/forhandsbestall-eon-tavling.png) Välj från bibliotek
 
 Efter hårt arbete är nu Eon IV som bekant skickat till tryck och boken kan redan nu förhandsbeställas. Vi har två Helgonböcker över, så alla som förhandsbeställer Eon IV innan 31 oktober deltar i utlottandet av dessa två rariteter! Givetvis gäller kampanjen även för alla dem som har förhandsbeställt hittills.
 

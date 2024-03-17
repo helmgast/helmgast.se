@@ -18,4 +18,4 @@ Kom och fira att Eon IV är släppt med oss Eonskribenter.
 
 Anmäl dig på [http://releasefest.eon4.se](http://releasefest.eon4.se/)
 
-![](https://fablr.co/asset/image/eon-releasefest.jpg)/ Anton
+![](https://helmgast.se/asset/image/eon-releasefest.jpg)/ Anton

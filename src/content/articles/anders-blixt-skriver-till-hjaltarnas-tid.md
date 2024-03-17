@@ -18,8 +18,7 @@ language: sv
 ---
 Helmgast presenterar ***Sorgeveden***, en kampanjmiljö till *Hjältarnas tid* av **Anders Blixt**!
 
-* gallery-center
-* ![](https://fablr.co/asset/image/mockup-sorgeveden.png)
+* ![](https://helmgast.se/asset/image/mockup-sorgeveden.png#thumb)
 
 Anders Blixt skriver en kampanjmiljö till Hjältarnas tid för släpp sommaren 2018.
 

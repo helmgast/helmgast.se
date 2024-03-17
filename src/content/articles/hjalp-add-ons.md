@@ -18,9 +18,9 @@ För att göra detta behöver du fylla i en **personlig rabattkod** och du behö
 
 ### Så här gör du
 
-*   Gå till [https://helmgast.se/shop/orders/my\_orders/](https://helmgast.se/shop/orders/my_orders/) och hitta din crowdfunder-order (den kan ligga en bit ner i listan). **Viktigt**: Logga in med den email du använt för Kickstartern, annars finns det risk att din order inte hittas. Om du loggat in med olika konton kan du höra av dig till [info@helmgast.se](mailto:info@helmgast.se) för hjälp att slå ihop kontona.
+*   Gå till [https://helmgast.se/shop/orders/my\_orders/](https://helmgast.se/shop/orders/my_orders/) och hitta din crowdfunder-order (den kan ligga en bit ner i listan). **Viktigt**: Logga in med den email du använt för Kickstartern, annars finns det risk att din order inte hittas. Om du loggat in med olika konton kan du höra av dig till [info@helmgast.se](mailto:info@helmgast.se) för hjälp att slå ihop kontona.
 *   Klicka in på den beställningen och verifiera att allt ser rätt ut (annars kontakta oss med knappen uppe till höger). Notera din personliga rabattkod och eventuella presentkort från extra pledge du lade till under crowdfundern.
-*   Om det ser rätt ut, gå till [webshoppen](https://webshop.helmgast.se) och lägg de extra addon-produkter du vill ha i varukorgen. Obs: du ser inte rabatterna förrän i kassan, och du behöver **inte** logga in på webshoppen.
+*   Om det ser rätt ut, gå till [webshoppen](https://webshop.helmgast.se) och lägg de extra addon-produkter du vill ha i varukorgen. Obs: du ser inte rabatterna förrän i kassan, och du behöver **inte** logga in på webshoppen.
 *   När du är i kassan, lägg in din personliga rabattkod från ovan, samt eventuellt presentkort. Se nedan hur du gör:
 
 ![Hur man lägger till koder](https://helmgast.se/asset/link/use-codes-addons.gif)

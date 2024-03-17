@@ -6,7 +6,7 @@ import Site from './Site.astro';
 
 import { latestArticlesForWorld } from '../utils/helpers';
 
-const { world } = Astro.props;
+const { world, classes } = Astro.props;
 const { Content } = await world.render();
 
 const articles = await latestArticlesForWorld(world.slug, 6);
@@ -16,8 +16,9 @@ const articles = await latestArticlesForWorld(world.slug, 6);
 <Site title={world.data.title}>
     <Header 
         title={world.data.title} 
-        backgroundImage={world.data.images?.[0]}
+        backgroundImage={world.data.landscape_image}
         tagline={world.data.tagline}
+        classes={classes}
     />
     <div class="container">
         <div class="row">

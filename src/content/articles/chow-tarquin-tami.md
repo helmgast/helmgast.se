@@ -6,7 +6,7 @@ world: neotech
 creator: Jacob Ericsson
 created_date: '2018-04-19T12:32:58Z'
 title: Chow Tarquin Tami
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar27.jpg
 license: ccby4

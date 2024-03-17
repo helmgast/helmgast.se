@@ -11,6 +11,6 @@ editors:
   - Niklas Fröjd
 language: sv
 ---
-![](https://fablr.co/asset/image/xantokarta.jpg) 
+![](https://helmgast.se/asset/image/xantokarta.jpg) 
 
 Här kan ni ladda ned Xantokartan som tillhör äventyret Avgrundens parlament som är publicerat i tidningen Fenix.

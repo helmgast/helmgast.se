@@ -17,38 +17,38 @@ language: sv
 Printervänliga formulär
 =======================
 
-[Rollpersonen](https://fablr.co/asset/download/rollperson-v2.pdf). 2-sidigt rollformulär.
+[Rollpersonen](https://helmgast.se/asset/download/rollperson-v2.pdf). 2-sidigt rollformulär.
 
-[Rollpersonen strid](https://fablr.co/asset/download/rollperson-v2-strid.pdf). 4-sidigt rollformulär. Utrymme för detaljerad rustning, stridskonster och riddjur. [Exempel på hur det används](https://fablr.co/asset/download/rollperson-v2-strid-exempel.pdf)
+[Rollpersonen strid](https://helmgast.se/asset/download/rollperson-v2-strid.pdf). 4-sidigt rollformulär. Utrymme för detaljerad rustning, stridskonster och riddjur. [Exempel på hur det används](https://helmgast.se/asset/download/rollperson-v2-strid-exempel.pdf)
 
-[Hjälpformuläret](https://fablr.co/asset/download/skapa-rollperson.pdf). Hjälpmedel när man skapar sin rollperson.
+[Hjälpformuläret](https://helmgast.se/asset/download/skapa-rollperson.pdf). Hjälpmedel när man skapar sin rollperson.
 
-[Utrustning & kontaktformulär](https://fablr.co/asset/download/utrustning-v2.pdf).
+[Utrustning & kontaktformulär](https://helmgast.se/asset/download/utrustning-v2.pdf).
 
 ### Äldre formulär
 
-[Spelledarpersonsformuläret](https://fablr.co/asset/download/rollperson-light.pdf). För viktiga spelledarpersoner.
+[Spelledarpersonsformuläret](https://helmgast.se/asset/download/rollperson-light.pdf). För viktiga spelledarpersoner.
 
-[Personformuläret](https://fablr.co/asset/download/form-rollperson-familj-1.pdf). Porträtt, familj, bakgrund och kontakter. 2 sidor.
+[Personformuläret](https://helmgast.se/asset/download/form-rollperson-familj-1.pdf). Porträtt, familj, bakgrund och kontakter. 2 sidor.
 
-[Motståndarformuläret](https://fablr.co/asset/download/motstandare.pdf). För spelledaren som vill hålla kolla på rollpersonernas motståndare. Mycket kompakt med fyra stridande på en sida.
+[Motståndarformuläret](https://helmgast.se/asset/download/motstandare.pdf). För spelledaren som vill hålla kolla på rollpersonernas motståndare. Mycket kompakt med fyra stridande på en sida.
 
-[Utrustningsformulär](https://fablr.co/asset/download/utrustning.pdf). Håll reda på grejerna.
+[Utrustningsformulär](https://helmgast.se/asset/download/utrustning.pdf). Håll reda på grejerna.
 
-[Krönikeformulär](https://fablr.co/asset/download/kronika.pdf). Dokumentera spelgruppens äventyr.
+[Krönikeformulär](https://helmgast.se/asset/download/kronika.pdf). Dokumentera spelgruppens äventyr.
 
-[Dramakrokformulär](https://fablr.co/asset/download/dramakrokar.pdf). Enligt beskrivningen på sida 266 i grundboken.
+[Dramakrokformulär](https://helmgast.se/asset/download/dramakrokar.pdf). Enligt beskrivningen på sida 266 i grundboken.
 
-[Interaktivt rollformulär](https://fablr.co/asset/download/rollperson-interaktivt.pdf). Ett interaktivt rollformulär där man kan fylla i direkt. Gjort av Emil "duncan" Forslund. Baserat på en äldre version av rollformuläret.
+[Interaktivt rollformulär](https://helmgast.se/asset/download/rollperson-interaktivt.pdf). Ett interaktivt rollformulär där man kan fylla i direkt. Gjort av Emil "duncan" Forslund. Baserat på en äldre version av rollformuläret.
 
 Regler grundboken
 =================
 
-[Sammanfattning av stridsregler](https://fablr.co/asset/download/strid-sammanfattning.pdf).
+[Sammanfattning av stridsregler](https://helmgast.se/asset/download/strid-sammanfattning.pdf).
 
-[Samlade skadetabeller](https://fablr.co/asset/download/skadetabeller.pdf).
+[Samlade skadetabeller](https://helmgast.se/asset/download/skadetabeller.pdf).
 
-[Konvertera Eon 3 till Eon IV](https://fablr.co/asset/download/konvertering.pdf).
+[Konvertera Eon 3 till Eon IV](https://helmgast.se/asset/download/konvertering.pdf).
 
 Regler strid
 ============
@@ -60,7 +60,7 @@ Regler magi
 
 [Sammanfattning av magiregler](https://helmgast.se/asset/download/magi-sammanfattning.pdf).
 
-[Egna besvärjelser och ritualer](https://fablr.co/asset/download/egen-magi.pdf).
+[Egna besvärjelser och ritualer](https://helmgast.se/asset/download/egen-magi.pdf).
 
 Håll koll på vilka mysterier och besvärjelse din magiker kan med följande sammanfattningar.
 

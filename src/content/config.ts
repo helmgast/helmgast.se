@@ -36,7 +36,8 @@ const worlds = defineCollection({
       languages: z.array(z.enum(['sv', 'en', 'fr', 'de'])).optional(),
       created_date: z.string().transform((str) => new Date(str)),
       theme: z.string().optional(),
-      images: z.array(z.string()).optional(),
+      landscape_image: z.string().optional(),
+      portrait_image: z.string().optional(),
     }),
   });
 

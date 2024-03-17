@@ -43,7 +43,7 @@ Material och länkar
 Här är material som nämnts eller länkats från Kapitel 1, eller som annars kan vara bra att kolla in:
 
 *   [Intro till hur man spelar Neotech](https://helmgast.se/neotech/hur-spelar-man-neotech)
-*   Ifyllningsbara [rollformulär i PDF](https://helmgast.se/neotech/neotech-rollformular), inklusive en lathund för att skapa avatarer,  bra för nya spelare!
+*   Ifyllningsbara [rollformulär i PDF](https://helmgast.se/neotech/neotech-rollformular), inklusive en lathund för att skapa avatarer,  bra för nya spelare!
 *   [Ordlistan](https://helmgast.se/neotech/ordlista), för att kolla upp all lingo och slang
 *   [Världskartan](https://lore.pub/+nevarld) som syns på insidan av pärmen
 *   Böckerna [Pearl River Delta](https://webshop.helmgast.se/neotech/neotech-edge-pearl-river-delta.html) och [anon](https://webshop.helmgast.se/neotech/neotech-edge-anon.html) som innehåller en massa matnyttigt innehåll, bland annat plugin-erfarenhetstabeller för att spela en avatar från Pearl River Delta eller från sfären anon.

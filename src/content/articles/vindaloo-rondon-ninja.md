@@ -6,7 +6,7 @@ world: neotech
 creator: Johan Nyqvist
 created_date: '2018-04-20T14:39:34Z'
 title: Vindaloo Rondon Ninja
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar1.jpg
 license: ccby4

@@ -12,7 +12,7 @@ editors:
 world: eon
 language: sv
 ---
-![](https://fablr.co/asset/image/odesvaven-fragor-till-dan-johansson.jpg)
+![](https://helmgast.se/asset/image/odesvaven-fragor-till-dan-johansson.jpg)
 
 *Dan Johansson är en av Eons mest etablerade författare. Han ligger bakom ett flertal böcker, bland annat Asharien & Soldarn, Legender & Hemligheter, Tiraker, Krigsherren, Vapenmästaren och så klart äventyren Diamantäpplet, Katres gåtor och Av blod komna som alla ingår i kampanjen Sylfens vrede. Nu är den fjärde delen på gång till Eon IV och vi har ställt Dan mot väggen för att ställa några frågor.*
 

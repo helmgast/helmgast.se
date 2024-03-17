@@ -19,9 +19,7 @@ editors:
   - Krister Sundelin
 language: sv
 ---
-* gallery-center
-* ![](https://fablr.co/asset/image/annons-ht-love-tove-ny.jpg)
-
+![](https://helmgast.se/asset/image/annons-ht-love-tove-ny.jpg)
 
 Med sitt engagemang och sin värme är Tove Gillbring en hjälte för rollspels-Sverige. Därför vill vi ge något särskilt tillbaka.
 

@@ -10,7 +10,7 @@ editors:
   - Niklas Fröjd
 language: sv
 ---
-![](https://fablr.co/asset/image/uppdatering-helmgast.jpg)
+![](https://helmgast.se/asset/image/uppdatering-helmgast.jpg)
 
 Här kommer en liten uppdatering av vad som är på gång hos Helmgastarna.
 

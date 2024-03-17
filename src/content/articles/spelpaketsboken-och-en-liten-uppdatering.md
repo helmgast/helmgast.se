@@ -12,7 +12,7 @@ editors:
 world: eon
 language: sv
 ---
-![](https://fablr.co/asset/image/spelpaketsboken-dummy.jpg)
+![](https://helmgast.se/asset/image/spelpaketsboken-dummy.jpg)
 
 De sista fixarna läggs nu på Spelpaketsboken - det vill säga den som man kunde beställa under crowdfundingen och som innehåller materialet i tryckt och fint förpackad form. Bilden är en dummy på hur den kommer att se ut. Spelpaketsboken kommer bli nästan lika tjock som regelboken.
 

@@ -7,10 +7,8 @@ external_host: http://noir.nu
 publishing_year: '2006'
 product_url: https://webshop.helmgast.se/noir/
 license: ccby4
-images:
-  - https://helmgast.se/asset/image/noir-omslag-back1920x1200px.jpg
-  - https://helmgast.se/asset/image/noir-symbol1920x1200px.jpg
-  - https://helmgast.se/asset/image/163085101-origpic-0ddb25.jpg
+landscape_image: https://helmgast.se/asset/image/noir-omslag-back1920x1200px.jpg
+portrait_image: https://helmgast.se/asset/image/163085101-origpic-0ddb25.jpg
 facebook_url: https://www.facebook.com/syndensdiplomater/
 tagline: En dystopisk tid för ovilliga hjältar
 title: Noir

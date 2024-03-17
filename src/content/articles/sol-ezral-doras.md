@@ -6,7 +6,7 @@ world: neotech
 creator: danilow82@gmail.com
 created_date: '2018-04-19T19:44:12Z'
 title: Sol Ezral Doras
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar29.jpg
 license: ccby4

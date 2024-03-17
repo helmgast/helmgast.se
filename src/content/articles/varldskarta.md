@@ -13,6 +13,6 @@ editors:
   - Martin F
 language: sv
 ---
-Världskartan 2070 visar på många förändringar de senaste 50 åren. Logga en lågupplöst version här nedan, och om du vill ha något större, köp [kartpaketet här (som inkluderar PDF)](https://webshop.helmgast.se/neotech/neotech-edge-kartpaket.html). Om du redan har köpt det kan du ladda ner den högupplösta digitala kartan här: [Högupplöst kartpaket](https://helmgast.se/asset/download/neotech/neo-151/kartpaket-block-a4.pdf) .
+Världskartan 2070 visar på många förändringar de senaste 50 åren. Logga en lågupplöst version här nedan, och om du vill ha något större, köp [kartpaketet här (som inkluderar PDF)](https://webshop.helmgast.se/neotech/neotech-edge-kartpaket.html). Om du redan har köpt det kan du ladda ner den högupplösta digitala kartan här: [Högupplöst kartpaket](https://helmgast.se/asset/download/neotech/neo-151/kartpaket-block-a4.pdf) .
 
-![Världskarta 2070](https://res.cloudinary.com/helmgast/image/upload/w_2400,c_limit,q_auto,fl_lossy,f_auto/v1609704299/hgse/Monde_2070_map.png)
+![Världskarta 2070](https://helmgast.se/asset/link/monde-2070-map.png)

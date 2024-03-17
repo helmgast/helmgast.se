@@ -6,7 +6,7 @@ world: neotech
 creator: Anders Thuresson
 created_date: '2018-04-19T10:00:45Z'
 title: Kair0s Anvil
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar14.jpg
 license: ccby4

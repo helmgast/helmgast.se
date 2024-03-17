@@ -34,13 +34,13 @@ System
 
 **Sid 059** #Avståndsförsvar säger att “du kan lägga till bonusen från en närstridsedge”, men edgen som ska användas är avståndsstridsedge. Exemplena med #CQB, #Prickskytte och #Gunfu är korrekta.
 
-**Sid 062** Blödarsjuka botas av augment med #Regeneration, inte #Köttfabbare.
+**Sid 062** Blödarsjuka botas av augment med #Regeneration, inte #Köttfabbare.
 
 **Sid 252** Pwnyn som medföljer Concrete Shinobi Bundle ska ha sploited Trigga level 1, inte level 2.
 
 ### The Requiem TV Guide to Life on the Edge
 
-**Sid 103** Triqet “Mastermind” har felaktiga formler för #Initiativ. Ska vara #Primal/2 + edge & #Cortex/2 + edge, inte de felaktiga #Primal + edge & #Cortex + edge.
+**Sid 103** Triqet “Mastermind” har felaktiga formler för #Initiativ. Ska vara #Primal/2 + edge & #Cortex/2 + edge, inte de felaktiga #Primal + edge & #Cortex + edge.
 
 ### Samsundai Happiness Advisor
 
@@ -56,17 +56,17 @@ System
 
 ### Ikeda Trauma Center
 
-**Sid 199** (Förtydligande) Vid elskada ska endast den cybern som är i den träffade skadan / augment-slotten går #Sönder eller bli #Buggad.
+**Sid 199** (Förtydligande) Vid elskada ska endast den cybern som är i den träffade skadan / augment-slotten går #Sönder eller bli #Buggad.
 
 ### Eqip.Free
 
-**Sid 303** #Geni ska inte finnas som tagg på Hercules Egeria. Augmentets korrekta taggar är #Frontallob #Svårbanat.
+**Sid 303** #Geni ska inte finnas som tagg på Hercules Egeria. Augmentets korrekta taggar är #Frontallob #Svårbanat.
 
 **Sid 305** GA Chief Special ska ha taggen #PointBlank som alla andra pistoler och revolvrar.
 
-**Sid 306** 8mm SABOT ska ha #Pen+5, inte #Pen+10.
+**Sid 306** 8mm SABOT ska ha #Pen+5, inte #Pen+10.
 
-**Sid 304, 306** Vapen med kalibern #6,5mmC ska ha #Pen+1.
+**Sid 304, 306** Vapen med kalibern #6,5mmC ska ha #Pen+1.
 
 ### Profil (rollformulär)
 
@@ -84,11 +84,11 @@ Inga fel i plexet! (hittills...)
 anon
 ====
 
-**Sid 137** Den korrekta skadan för en level 4 Laceburn är **52 Hjärntrauma**, inte **53 Hjärntrauma**. 
+**Sid 137** Den korrekta skadan för en level 4 Laceburn är **52 Hjärntrauma**, inte **53 Hjärntrauma**. 
 
-**Sid 146** Antisos & Anarki, erfarenhet 5 Lace-inducerad Amnesi, lacen ska installeras i slot H52, inte H53.
+**Sid 146** Antisos & Anarki, erfarenhet 5 Lace-inducerad Amnesi, lacen ska installeras i slot H52, inte H53.
 
 Kontakta oss!
 =============
 
-Hittar ni fler fel eller tycker att någon regel är otydlig? Var en aibo och kontakta oss antingen på vårt [forum](https://forum.helmgast.se/t/neotech) eller pinga oss på [facebook](https://www.facebook.com/neotechrpg/).
+Hittar ni fler fel eller tycker att någon regel är otydlig? Var en aibo och kontakta oss antingen på vårt [forum](https://forum.helmgast.se/t/neotech) eller pinga oss på [facebook](https://www.facebook.com/neotechrpg/).

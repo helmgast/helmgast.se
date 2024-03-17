@@ -18,6 +18,6 @@ Eftersom vi inte vill lämna den som inte har tillgång till Stolta riken & gåt
 
 Erfarna Eonspelare och Mundanakännare uppmuntras, för att undvika förvirring eller ifrågasättande av konstruktörernas omdöme, att lägga märke till att de nya ländernas invånarantal är anpassade efter den kommande revideringen av Mundanas folkmängd.
 
-[Introduktion till Nermada](https://fablr.co/asset/download/sammanfattning-nermada.pdf).
+[Introduktion till Nermada](https://helmgast.se/asset/download/sammanfattning-nermada.pdf).
 
-[Introduktion till Cermira](https://fablr.co/asset/download/sammanfattning-cermira.pdf).
+[Introduktion till Cermira](https://helmgast.se/asset/download/sammanfattning-cermira.pdf).

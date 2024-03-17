@@ -32,12 +32,11 @@ _Om du hellre vill ha dessa resurser i proffsigt tryck så passa på nu - för a
 
 Många har frågat om ifyllningsbara digitala rollformulär. Tack vare en hjälteinsats från Neotech-fansen Stefan Björk och Robin Nilsson finns det nu en uppsättning på [vår sida med rollformulär](https://helmgast.se/neotech/neotech-rollformular). Vi nöjer oss inte med PDF:er dock, vårt mål har alltid varit helt interaktiva formulär som kan sparas till molnet. Vi är allt närmare något ni kan pröva (som teaser kan man kika på karaktärerna som byggts med en [preview av webappen](https://helmgast.se/neotech/articles/?type=character) eller varför inte vår iOS-app under konstruktion här intill).
 
-*   gallery-center
-*   ![](https://helmgast.se/asset/image/neotech-rpgen-previews.png)
+![](https://helmgast.se/asset/image/neotech-rpgen-previews.png)
 
 #### Scenarier
 
-Många har också efterfrågat scenarion att spela. Även om vi fyllt Neotech med uppslag och olika sätt att generera egna stories kring karaktärer eller platser så vet vi att det saknats helt färdiga scenarion att spela - men under året har en hel del hänt. För er som inte skaffat Fenix så finns Afghanistan som kampanjplats och ett virus-relaterat äventyr [här](https://helmgast.se/neotech/scenarier-och-artiklar-i-fenix), och utanför Fenix har vi byggt [startscenariot Den perfekta stormen](https://helmgast.se/neotech/den-perfekta-stormen) och vunnit pris med [enbladsscenariot Röd snö](https://helmgast.se/neotech/prisade-enbladsscenariot-rod-sno). Äventyret Alla vill ha Evi som var ett stretchgoal är inte klart ännu, men den goda nyheten är att det arbetas på tillsammans med ytterligare två scenarion inför den engelska utgivningen.
+Många har också efterfrågat scenarion att spela. Även om vi fyllt Neotech med uppslag och olika sätt att generera egna stories kring karaktärer eller platser så vet vi att det saknats helt färdiga scenarion att spela - men under året har en hel del hänt. För er som inte skaffat Fenix så finns Afghanistan som kampanjplats och ett virus-relaterat äventyr [här](https://helmgast.se/neotech/scenarier-och-artiklar-i-fenix), och utanför Fenix har vi byggt [startscenariot Den perfekta stormen](https://helmgast.se/neotech/den-perfekta-stormen) och vunnit pris med [enbladsscenariot Röd snö](https://helmgast.se/neotech/prisade-enbladsscenariot-rod-sno). Äventyret Alla vill ha Evi som var ett stretchgoal är inte klart ännu, men den goda nyheten är att det arbetas på tillsammans med ytterligare två scenarion inför den engelska utgivningen.
 
 #### QR-koder
 

@@ -13,12 +13,10 @@ editors:
   - Martin F
 world: neotech
 ---
-*   gallery-center
-*   ![](https://res.cloudinary.com/helmgast/image/fetch/w_800,c_limit,q_auto,fl_lossy,f_auto/https%3A//cdn.abicart.com/shop/ws51/49251/art51/h6491/170416491-origpic-303473.png)
+
+![](https://cdn.abicart.com/shop/ws51/49251/art51/h6491/170416491-origpic-303473.png)
 
 Här hittar du PDF-versioner av de olika delarna av Resurspaketet för Neotech Edge. Om du vill ha dessa tryckta i färg på proffsigt papper, plus en massa rollformulär, köp det [fysiska Resurspaketet](https://webshop.helmgast.se/neotech/neotech-edge-resurspaket.html).
-
-<br>
 
 #### Resurspaket
 
@@ -26,7 +24,7 @@ Här hittar du PDF-versioner av de olika delarna av Resurspaketet för Neotech E
 
 [Lathund – Downtime](https://helmgast.se/asset/link/lathund-downtime.pdf)
 
-[Lathund – Avatar](https://helmgast.se/asset/link/nimrod-headhunter-lathund.pdf) (extra, finns ej i tryckt format)
+[Lathund – Avatar](https://helmgast.se/asset/link/nimrod-headhunter-lathund.pdf) (extra, finns ej i tryckt format)
 
 [Initiativbräde](https://helmgast.se/asset/link/initiativbrade.pdf)
 
@@ -34,6 +32,4 @@ Här hittar du PDF-versioner av de olika delarna av Resurspaketet för Neotech E
 
 [Initiativmarkörer](https://helmgast.se/asset/link/initiativmarkers.pdf)
 
-<br>
-
-Digitala och utskrivningsbara rollformulär i olika färger hittar du [här](https://helmgast.se/neotech/neotech-rollformular).
+Digitala och utskrivningsbara rollformulär i olika färger hittar du [här](https://helmgast.se/neotech/neotech-rollformular).

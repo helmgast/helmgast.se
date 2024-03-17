@@ -6,7 +6,7 @@ world: neotech
 creator: Rikard Jespersen
 created_date: '2018-04-19T19:10:51Z'
 title: Ayaa Melkor Puttbuck
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar2.jpg
 license: ccby4

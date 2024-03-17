@@ -6,7 +6,7 @@ world: neotech
 creator: jonas.gabrielson@me.com
 created_date: '2018-04-20T11:36:01Z'
 title: Chocolate Box Onaya
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar20.jpg
 license: ccby4

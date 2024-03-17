@@ -6,7 +6,7 @@ world: neotech
 creator: Niklas Gripenstam
 created_date: '2018-04-21T10:55:55Z'
 title: Gregory Maldus
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar4.jpg
 license: ccby4

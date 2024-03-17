@@ -28,11 +28,8 @@ Därtill släpps även en spelledarskärm i samband med Eon 5!
 
 Kickstartern är planerad till november 2023, och släpp under våren 2024. Skriv upp dig på [Helmgasts nyhetsbrev](https://helmgast.us8.list-manage.com/subscribe?u=4412a3ce4ac556de77513666b&id=8cef8e8de6 "Helmgasts nyhetsbrev") så håller du dig uppdaterad!
 
-  
-
 _Motivet på omslagen? En grupp alver på jakt efter heavéägg i bergen i norra Sunari. De verkar ha blivit påkomna..._  
 
-*   ![](https://res.cloudinary.com/helmgast/image/fetch/w_800,c_limit,q_auto,fl_lossy,f_auto/https%3A//helmgast.se/asset/image/thumbs/eon5-mockup-rollpersonen.png)
-*   ![](https://res.cloudinary.com/helmgast/image/fetch/w_800,c_limit,q_auto,fl_lossy,f_auto/https%3A//helmgast.se/asset/image/thumbs/eon5-mockup-regelboken.png)
-
-![](https://helmgast.se/asset/image/spelledarskarm-mockup-transp.png)
+*   ![](https://helmgast.se/asset/image/thumbs/eon5-mockup-rollpersonen.png#thumb)
+*   ![](https://helmgast.se/asset/image/thumbs/eon5-mockup-regelboken.png#thumb)
+*   ![](https://helmgast.se/asset/image/spelledarskarm-mockup-transp.png#thumb)

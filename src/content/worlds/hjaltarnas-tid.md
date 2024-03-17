@@ -4,8 +4,7 @@ slug: hjaltarnas-tid
 rule_system: Smitt av Järn
 status: published
 created_date: '2017-06-08T19:58:19Z'
-images:
-  - https://helmgast.se/asset/image/ht-2400x500.png
+landscape_image: https://helmgast.se/asset/image/ht-2400x500.png
 product_url: http://webshop.helmgast.se/sv/hjaltarnas-tid/
 facebook_url: https://www.facebook.com/hjaltarnastid/
 publishing_year: '2016'
@@ -51,7 +50,7 @@ Hjälpmedel till äventyr
 =======================
 
 *   [Sagor från Trollskogen: stentavlan i Abyssos](http://helmgast.se/asset/link/hjalpmedel-stentavla.pdf)
-*   [Greve Kallarys Skatt: brev, tankenötter, kartor och illustrationer](https://fablr.co/asset/link/hjalpmedel-kallary-a4.pdf)
+*   [Greve Kallarys Skatt: brev, tankenötter, kartor och illustrationer](https://helmgast.se/asset/link/hjalpmedel-kallary-a4.pdf)
 *   [Död Kvinnas Kista: kartor och monsterlista](https://helmgast.se/asset/link/hjalpmedel-dod-kvinnas-kista-20180325.pdf)
 *   [Spelarkompendium till Sorgeveden](https://helmgast.se/asset/link/sorgeveden-spelarkompendium-2080909.pdf)
 *   [Goidel, ett typsnitt för druidisk kod i Sorgeveden](https://helmgast.se/asset/download/drucode.zip) Ladda ner, packa upp och installera som ett typsnitt.

@@ -16,4 +16,4 @@ Vi kan inte riktigt bestämma oss för vilket omslag vi vill ha på Eon IV så v
 
 [Rösta här och välj mellan Templet och Slagfältet!](https://docs.google.com/forms/d/1ODpie7ppEStTbAastgAeQSA5Zd4SWRnnFdwNdirfvG0/viewform)
 
-![](https://fablr.co/asset/image/tvaomslagsdummy2.jpg)
+![](https://helmgast.se/asset/image/tvaomslagsdummy2.jpg)

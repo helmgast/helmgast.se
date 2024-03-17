@@ -18,4 +18,4 @@ language: sv
 ---
 I Ödesvävens kapitel Rampor brinner får spelarna möjligheten att spela en annan rollperson än sin egen. Här finns rollformulär för sex av Rampors invånare, nämligen Ruby Palaman, Tarek Palaman, Farbas, Kapten Grimfisk, Bohath och Lillflink.
 
-[Ladda ner](https://fablr.co/asset/download/odesvaven-rollpersoner.pdf).
+[Ladda ner](https://helmgast.se/asset/download/odesvaven-rollpersoner.pdf).

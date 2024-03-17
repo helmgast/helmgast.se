@@ -12,9 +12,9 @@ license: ccby4
 editors:
   - Leon
 ---
-Värvet Tjuv saknar ett av sina färdighetsvärden, och en färdighet. 
+Värvet Tjuv saknar ett av sina färdighetsvärden, och en färdighet.
 
-Utöver det som redan står på sidan 20 i Regelboken så skall tjuv ha ytterligare ett värde om 35 att sätta ut på sina Äventyrsfärdigheter, och färdigheten _Spel_ att lägga till listan över Äventyrsfärdigheter. 
+Utöver det som redan står på sidan 20 i Regelboken så skall tjuv ha ytterligare ett värde om 35 att sätta ut på sina Äventyrsfärdigheter, och färdigheten _Spel_ att lägga till listan över Äventyrsfärdigheter.
 
 Med stort tack till Lukas Sjöström och hans skarpa öga som hittade felet.
 

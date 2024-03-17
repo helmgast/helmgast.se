@@ -6,7 +6,7 @@ world: neotech
 creator: Björn
 created_date: '2018-04-19T19:02:47Z'
 title: Julia Azen Shenna
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar20.jpg
 license: ccby4

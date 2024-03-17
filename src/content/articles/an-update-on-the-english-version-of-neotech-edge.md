@@ -7,7 +7,7 @@ creator: Anastasia Nilsson
 created_date: '2022-02-19T15:27:36Z'
 title: An update on the English version of Neotech Edge
 status: published
-language: sv
+language: en
 license: ccby4
 editors:
   - Martin K

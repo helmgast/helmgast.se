@@ -56,8 +56,7 @@ Attribut och kompetenser är ett annat sätt vi understryker världen på. Iblan
 
 **Media** låter dig hålla koll på mediabruset, redigera snygga filmer och ger dig förmågan att få 50.000 likes på en selfie med Ken Sirs robothund.
 
-* gallery-center
-* ![](https://helmgast.se/asset/image/nimrod-page-003.jpg)
+![](https://helmgast.se/asset/image/nimrod-page-003.jpg)
 
 Karaktärsgenereringen är en annan stor del av reglerna som andas djupa smogfyllda andetag från monde. Precis som Neotech 2 så är karaktärersgenereringen ett typ av lifepath-system där du stegar dig igenom din karaktärs liv från barnsben till spelets start, men med en twist. I Edge går du baklänges.
 
@@ -85,8 +84,7 @@ Men skador på människokroppen är otroligt komplexa så utmaningen blir hur ma
 
 När man utdelar en skada i Neotech Edge så slår man ett traumaslag och läser av resultatet på skadetabellen.
 
-* gallery-center
-* ![](https://helmgast.se/asset/image/rollformular-v085-s3.jpg)
+![](https://helmgast.se/asset/image/rollformular-v085-s3.jpg)
 
 Om du till exempel går amok på någon med en teleskopbatong så slår du ett traumaslag på 3T10+2. Om slaget utfaller 26 så får du skadan Armfraktur. Då kryssar du armfraktur på ditt rollformulär och noterar eventuella sidoeffekter (som att din arm nu är obrukbar). Efter att du konstaterat din skada, så slår du ett chockslag för att se om du fortfarande står upp. Precis som i verkligheten kan många stå helt opåverkade tack vare adrenalin, medan andra faller på första träffen.
 

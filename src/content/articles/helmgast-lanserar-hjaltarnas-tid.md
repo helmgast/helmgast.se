@@ -12,6 +12,6 @@ editors:
 world: hjaltarnas-tid
 language: sv
 ---
-![](https://fablr.co/asset/image/ht-1200x600.jpg)Se mer på <https://helmgast.se/hjaltarnas-tid/>
+![](https://helmgast.se/asset/image/ht-1200x600.jpg)Se mer på <https://helmgast.se/hjaltarnas-tid/>
 
 Hjältarnas tid är ett fantasyrollspel som öppnar porten till fantastiska äventyr. Du tar rollen av en hjälte som försöker nå ära och berömmelse genom att överkomma faror, besegra fiender, och finna skatter. Tillsammans med dina vänner skapar du berättelsen och äventyret.

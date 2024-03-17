@@ -16,10 +16,10 @@ Med god hjälp av Totte och Eonveteranen Krister Sundelin har vi nu packat spelp
 
 / Anton
 
-![](https://fablr.co/asset/image/packning-certifikat.jpg)
+![](https://helmgast.se/asset/image/packning-certifikat.jpg)
 
-![](https://fablr.co/asset/image/packning-krister-850.jpg)
+![](https://helmgast.se/asset/image/packning-krister-850.jpg)
 
-![](https://fablr.co/asset/image/packning-kuvert-850.jpg)
+![](https://helmgast.se/asset/image/packning-kuvert-850.jpg)
 
-![](https://fablr.co/asset/image/packning-spelpaket-850.jpg)
+![](https://helmgast.se/asset/image/packning-spelpaket-850.jpg)

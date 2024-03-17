@@ -32,4 +32,4 @@ Missade du crowdfundern av rollspelet **Järn**, eller vill du komplettera med t
 
 Regelboken är på 112 sidor, med tre bifogade referenskort som sammanfattar de mest använda reglerna bifogade. Se [webshop.helmgast.se](http://webshop.helmgast.se/sv/jarn/)
 
-![](https://fablr.co/asset/image/odesvaven-jarn.jpg)
+![](https://helmgast.se/asset/image/odesvaven-jarn.jpg)

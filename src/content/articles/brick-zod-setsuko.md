@@ -6,7 +6,7 @@ world: neotech
 creator: Johan Jönsson
 created_date: '2018-04-19T20:21:44Z'
 title: Brick Zod Setsuko
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar28.jpg
 license: ccby4

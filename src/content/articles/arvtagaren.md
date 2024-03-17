@@ -20,6 +20,6 @@ I detta äventyr till Eon uppdagas en historia om en mäktig släkts korrupta f�
 
 Ladda ned äventyret här:
 
-[Arvtagaren](https://fablr.co/asset/download/arvtagaren.pdf).
+[Arvtagaren](https://helmgast.se/asset/download/arvtagaren.pdf).
 
 (Äventyret har även gått under namnet "Tiraken och pojken".)

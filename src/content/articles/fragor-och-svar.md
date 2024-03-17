@@ -34,7 +34,7 @@ Dessutom är det hamnskifte som man får genom förmågan lite annorlunda från 
 
 *   **Hur lång/stort/tungt är en zon/legua/tunna/skeppsläst/farvatten?**
 
-Vi har valt att inte definiera sådana här i det metriska systemet, eftersom vi vill ge spelledaren viss marginal i sina beskrivningar, och eftersom vi inte vill uppmuntra till för noggrann bokföring. Vi vill att systemet för resor, för utrustning och för sjöfärd skall vara så enkelt och överskådligt som möjligt. 
+Vi har valt att inte definiera sådana här i det metriska systemet, eftersom vi vill ge spelledaren viss marginal i sina beskrivningar, och eftersom vi inte vill uppmuntra till för noggrann bokföring. Vi vill att systemet för resor, för utrustning och för sjöfärd skall vara så enkelt och överskådligt som möjligt.
 
 Men vi har full förståelse att det kan hjälpa att ha ett mer uttryckligt mått i vissa situationer. Med förbehållet att allt är beroende på sitautionen och t.ex. vind- och terrängförhållanden skulle vi föreslå följande tumregler:
 
@@ -46,11 +46,11 @@ Men vi har full förståelse att det kan hjälpa att ha ett mer uttryckligt måt
 
 *   **Hur lång tid tar en utmaning eller ritual?**
 
-Även här har vi valt att inte definiera i minuter, timmar eller dagar, eftersom det är så beroende på omständigheterna. Som en tumregel är det bra att räkna med att en utmaning tar åtminstone en scen i anspråk, och resor till sjöss eller till land kan förstås ta dagar och veckor. 
+Även här har vi valt att inte definiera i minuter, timmar eller dagar, eftersom det är så beroende på omständigheterna. Som en tumregel är det bra att räkna med att en utmaning tar åtminstone en scen i anspråk, och resor till sjöss eller till land kan förstås ta dagar och veckor.
 
 Vad gäller ritualer kan dess variera mellan mindre än en timme för en enkel frammanabesvärjelse upp till flera timmar eller ett dygn om du vill åkalla en mäktig varelse. I varje fall är det ingenting du kan göra på ett visst antal stridsrundor under en pågående strid - det måste ha förberetts innan.
 
-*   **Vad händer om jag misslyckas med att kasta en besvärjelse? Måste jag** **fortfarande betala Skuld?**
+*   **Vad händer om jag misslyckas med att kasta en besvärjelse? Måste jag fortfarande betala Skuld?**
 
 Ja.
 
@@ -60,7 +60,7 @@ Som magiker kan du inte kasta magi när du bär järnföremål. En stridsmagiker
 
 _Errata_
 
-S.  20 Tjuven skall ha ytterligare ett färdighetsväde på 35 att sätta ut på aventyrsfärdigheter, och även ha färdigheten _Spel_ bland sina äventyrsfärdigheter.
+S. 20 Tjuven skall ha ytterligare ett färdighetsväde på 35 att sätta ut på aventyrsfärdigheter, och även ha färdigheten _Spel_ bland sina äventyrsfärdigheter.
 
 S. 133, Näbblös skall ha en vanlig Hakebössa, med egenskaperna Lunta, Högljudd, Svårladdad och Tvåhandsvapen
 

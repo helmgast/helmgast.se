@@ -15,12 +15,12 @@ tags:
   - äventyr
 language: sv
 ---
-![](https://fablr.co/asset/image/avgrundens-parlamentbild.jpg)
+![](https://helmgast.se/asset/image/avgrundens-parlamentbild.jpg)
 
 Äventyret Avgrundens parlament utspelar sig i staden Xanto i de nordvästra delarna av Jargiska kejsardömet. Rollpersonerna tvingas ta en djupdykning ned i det absoluta bottenskrapet för att lösa en serie mord och nysta i en underlig sammanslutning.
 
 Äventyret är skrivet av rollspelsveteranen Lukas Sjöström. Låt din spelledare ladda ner äventyret här:
 
-[Avgrundens parlament](https://fablr.co/asset/download/avgrundens-parlament.pdf).
+[Avgrundens parlament](https://helmgast.se/asset/download/avgrundens-parlament.pdf).
 
 Du kan även ladda ner en karta över Xanto [här](https://helmgast.se/helmgast/xantokarta/).

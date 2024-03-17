@@ -6,7 +6,7 @@ world: neotech
 creator: Stefan Björk
 created_date: '2018-04-19T18:06:48Z'
 title: Vinterbjörk
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: >-
   https://res.cloudinary.com/helmgast/image/upload/v1524161061/10259975_10153530865832670_6512037994353506798_n_tkjffy.jpg

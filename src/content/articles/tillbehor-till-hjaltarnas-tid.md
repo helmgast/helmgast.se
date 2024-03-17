@@ -18,35 +18,35 @@ Utöver grundboxen finns följande tillbehör att köpa till Hjältarnas tid. De
 
 # Magins väv
 
-![](https://fablr.co/asset/image/dummy-magi-final.png)
+![](https://helmgast.se/asset/image/dummy-magi-final.png)
 
 **Magins väv **är ett tillbehör för magiker. I bokens 64 sidor finns kring åttio besvärjelser, magikertraditioner, mer om den underliga Andra sidan, mer om fokus och regler för hur man blir magiker. Kompatibel med Järn.
 
 # Sagor från Trollskogen
 
-![](https://fablr.co/asset/image/dummy-trollskogen-final.png)
+![](https://helmgast.se/asset/image/dummy-trollskogen-final.png)
 
 **Sagor från Trollskogen **är en äventyrsantologi på 32 sidor, med tio spännande och varierade äventyrsplatser i en mystisk och uråldrig skog.
 
- * [Sagor från Trollskogen: stentavlan i Abyssos](http://fablr.co/asset/link/hjalpmedel-stentavla.pdf)
+ * [Sagor från Trollskogen: stentavlan i Abyssos](http://helmgast.se/asset/link/hjalpmedel-stentavla.pdf)
 
 
 # Greve Kallarys Skatt
 
-![](https://fablr.co/asset/image/mockup-kallarys-skatt-final.png)
+![](https://helmgast.se/asset/image/mockup-kallarys-skatt-final.png)
 
 **Greve Kallarys Skatt** är ett äventyr på 36 sidor där rollpersonerna leds av ett gammalt brev ut i skärgården på jakt efter den ökände grevens skatt. I boken ingår också en beskrivning av Slingerkusten, nya besvärjelser, ny utrustning och fler odjur.
 
- * [Greve Kallarys Skatt: brev, tankenötter, kartor och illustrationer](https://fablr.co/asset/link/hjalpmedel-kallary-a4.pdf)
+ * [Greve Kallarys Skatt: brev, tankenötter, kartor och illustrationer](https://helmgast.se/asset/link/hjalpmedel-kallary-a4.pdf)
 
 
 # Död Kvinnas Kista
 
-![](https://fablr.co/asset/image/mockup-dod-kvinnas-kista.png)
+![](https://helmgast.se/asset/image/mockup-dod-kvinnas-kista.png)
 
 **Död Kvinnas Kista** är ett äventyr på 40 sidor med pirater, skattkartor, spöken, förbannelser, vrak, djungelöar, tempel, vulkaner, dinosaurier, robotar och ninjor!
 
- * [Död Kvinnas Kista: kartor och monsterlista](https://fablr.co/asset/link/hjalpmedel-dod-kvinnas-kista-20180325.pdf)
+ * [Död Kvinnas Kista: kartor och monsterlista](https://helmgast.se/asset/link/hjalpmedel-dod-kvinnas-kista-20180325.pdf)
 
 
 # Världsträdets grenar

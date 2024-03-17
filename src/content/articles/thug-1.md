@@ -6,7 +6,7 @@ world: neotech
 creator: Kjell-Ove Frakken Axmark
 created_date: '2020-01-29T10:13:00Z'
 title: Thug 1
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar22.jpg
 license: ccby4

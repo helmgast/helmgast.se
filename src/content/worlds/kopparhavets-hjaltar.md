@@ -5,9 +5,8 @@ rule_system: Hjältarnas Tid
 created_date: '2020-01-28T04:11:37Z'
 status: published
 publishing_year: '2020'
-images:
-  - https://helmgast.se/asset/image/1f53691013b06590bc43a3342ecf2da3-sailorseasfate.jpg
-  - https://helmgast.se/asset/image/fc5868e7a2d147ed9f25bb7bf599dc09-kopparhavet-banner.jpg
+portrait_image: https://helmgast.se/asset/image/1f53691013b06590bc43a3342ecf2da3-sailorseasfate.jpg
+landscape_image: https://helmgast.se/asset/image/fc5868e7a2d147ed9f25bb7bf599dc09-kopparhavet-banner.jpg
 license: ccby4
 editors:
   - Måns Broman

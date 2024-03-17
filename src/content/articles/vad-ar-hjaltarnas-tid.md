@@ -15,7 +15,7 @@ images:
 language: sv
 ---
 * gallery-card
-* ![](https://fablr.co/asset/image/krister-sundelin-36.jpg)
+* ![](https://helmgast.se/asset/image/krister-sundelin-36.jpg)
 
 # Intervju med Krister Sundelin
 

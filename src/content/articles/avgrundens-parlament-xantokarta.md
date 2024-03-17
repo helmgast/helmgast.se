@@ -16,4 +16,4 @@ language: sv
 ---
 I senaste numret av Fenix hittar ni det 16-sidiga äventyret Avgrundens Parlament. Här finner ni en högupplöst karta över staden Xanto.
 
-![](https://fablr.co/asset/image/xantokarta.jpg)
+![](https://helmgast.se/asset/image/xantokarta.jpg)

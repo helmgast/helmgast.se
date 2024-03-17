@@ -6,7 +6,7 @@ world: neotech
 creator: Tomas Buckau
 created_date: '2018-04-20T08:53:05Z'
 title: Aya Quasi Izanami
-status: published
+status: draft
 theme: neotech-rpgen
 license: ccby4
 editors:

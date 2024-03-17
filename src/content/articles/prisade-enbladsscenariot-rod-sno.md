@@ -18,4 +18,4 @@ Stora svenska rollspelsforumet Rollspel.nu höll nyligen en tävling i att skriv
 
 > "Sibirisk kyla, amurtigrar och ett eget språk gjorde att Röd Snö inte bara vann publikens gillande, utan också hela tävlingen"
 
-Vi är förstås mycket stolta, och vill gärna dela med oss, så här hittar du scenariot: [https://helmgast.se/asset/link/rod-sno.pdf](https://helmgast.se/asset/link/rod-sno.pdf)
+Vi är förstås mycket stolta, och vill gärna dela med oss, så här hittar du scenariot: [https://helmgast.se/asset/link/rod-sno.pdf](https://helmgast.se/asset/link/rod-sno.pdf)

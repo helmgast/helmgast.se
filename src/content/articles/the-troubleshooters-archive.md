@@ -21,7 +21,7 @@ Demo scenarios
 
 Demo scenarios are for demonstrations at events, conventions, stores etc, estimated to take an hour to play in the short version, and two hours in the long version.
 
-*   [D1 - Escape from Mont Blanc](https://helmgast.se/asset/link/d1-escape-from-mont-blanc.pdf) - escape the clutches of the Octopus and destroy their mind-control beam.
+*   [D1 - Escape from Mont Blanc](https://helmgast.se/asset/link/d1-escape-from-mont-blanc.pdf) - escape the clutches of the Octopus and destroy their mind-control beam.
 
 Quickplay scenarios
 ===================

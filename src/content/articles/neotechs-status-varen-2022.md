@@ -68,4 +68,4 @@ En massa annat material är också i produktion, en del utlovat sen tidigare, en
 
 Vi vågar även lova att ytterligare sneak peeks av allt som är på gång kommer dyka upp på våra sociala medier inom kort!
 
-Om ni inte redan följer oss på sociala medier, kom och följ oss på [Facebook](https://www.facebook.com/neotechrpg) eller säg hej på vår [Discord](https://discord.gg/K8tPguP8nw).
+Om ni inte redan följer oss på sociala medier, kom och följ oss på [Facebook](https://www.facebook.com/neotechrpg) eller säg hej på vår [Discord](https://discord.gg/K8tPguP8nw).

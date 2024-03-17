@@ -6,7 +6,7 @@ world: neotech
 creator: Patrick Lewinson
 created_date: '2018-04-20T09:04:07Z'
 title: Rocker Dingbang Dion
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar23.jpg
 license: ccby4

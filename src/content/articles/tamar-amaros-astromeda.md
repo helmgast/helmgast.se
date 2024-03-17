@@ -6,7 +6,7 @@ world: neotech
 creator: Andreas Williamsson
 created_date: '2018-04-21T17:17:23Z'
 title: Tamar Amaros Astromeda
-status: published
+status: draft
 theme: neotech-rpgen
 license: ccby4
 editors:

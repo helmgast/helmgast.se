@@ -14,11 +14,9 @@ license: ccby4
 editors:
   - Leon
 ---
-[](https://helmgast.se/asset/link/konvertering-ht-kh.pdf)Välkommen till Arkivet. Här publicerar vi digitala resurser specifikt för er som 
+[](https://helmgast.se/asset/link/konvertering-ht-kh.pdf)Välkommen till Arkivet. Här publicerar vi digitala resurser specifikt för er som spelleder Kopparhavets hjältar.
 
-spelleder Kopparhavets hjältar.
-
-![](https://res.cloudinary.com/helmgast/image/fetch/w_800,c_limit,q_auto,fl_lossy,f_auto/https%3A//helmgast.se/asset/image/thumbs/bord-1.png)
+![](https://helmgast.se/asset/image/thumbs/bord-1.png)
 
 _Krönikörernas arkiv i Krilloan är Kopparhavets största ansamling av kunskap och hemligheter. Bara den initierade får tillträde till dess dolda samlingar._
 

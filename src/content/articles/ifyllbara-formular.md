@@ -16,8 +16,6 @@ editors:
 
 *   [Enkelsidiga formulär](https://zadrith.com/ht/kh_formular.pdf)
 *   [Dubbelsidiga formulär](https://zadrith.com/ht/kh_formular_tvasidigt.pdf)
-*   [Fartygsformulär](https://zadrith.com/ht/kh_fartygsformular.pdf) 
-
-  
+*   [Fartygsformulär](https://zadrith.com/ht/kh_fartygsformular.pdf)
 
 Detta, och andra resurser för Kopparhavets hjältar och Hjältarnas Tid, finns i Tomas Brattströms [Hjältearkivet](https://zadrith.com/ht/)

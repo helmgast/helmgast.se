@@ -16,7 +16,7 @@ Några medlemmar av teamet har vid sidan av de större projekten jobbat på att 
 
 Eftersom händelsetabellerna använder sig av en hel massa förslag på namn kände vi att det är en utmärkt chans att låta er i communityt lämna ett avtryck i Neotechhistorien, genom att komma med namn på \[individer | organisationer | produkter | lager | mikrokorpar | alla tänkbara saker som kan passa in\]!
 
-Lämna era förslag i tråden på [vår officiella Discord](https://discord.com/channels/780922179683614720/780940312028905472) eller i [tråden på vår facebooksida](https://www.facebook.com/neotechrpg/posts/pfbid023j9nvNH4m2huYcY7Q2bLf2EmGn1iq5Vep4yuZ9E1GSnoPYxtZrfAVvsetxS4uwxil) - alla förslag oavsett sfär eller inriktning kan komma med, även om namn med nomokoppling har en större chans att komma ut tidigare!
+Lämna era förslag i tråden på [vår officiella Discord](https://discord.com/channels/780922179683614720/780940312028905472) eller i [tråden på vår facebooksida](https://www.facebook.com/neotechrpg/posts/pfbid023j9nvNH4m2huYcY7Q2bLf2EmGn1iq5Vep4yuZ9E1GSnoPYxtZrfAVvsetxS4uwxil) - alla förslag oavsett sfär eller inriktning kan komma med, även om namn med nomokoppling har en större chans att komma ut tidigare!
 
 Ett par saker att tänka på:
 

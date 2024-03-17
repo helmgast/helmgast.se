@@ -97,8 +97,7 @@ Två föremål som fanns med i Ödesväven räknas i Genom vind och glas inte l�
 
 **Sida 365**: Chiffret är inte helt rätt i den tryckta utgåvan. Såhär ska det se ut:
 
-*   gallery-center
-*   ![](https://helmgast.se/asset/image/chiffret.png)
+![](https://helmgast.se/asset/image/chiffret.png)
 
 **Sida 365**: Sidhänvisningar till var de olika anteckningarna nämns först saknas. Här följer listan:
 

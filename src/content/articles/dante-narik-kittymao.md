@@ -6,7 +6,7 @@ world: neotech
 creator: Robin Ronnebrink
 created_date: '2018-04-19T20:25:00Z'
 title: Dante Narik Kittymao
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar12.jpg
 license: ccby4

@@ -16,4 +16,4 @@ Crowdfundern för Eon IV har börjat och du finner den på [indiegogo](http://ig
 
 Vi har mycket att erbjuda och nedan är ett exemplar av Grundboken.
 
-![](https://fablr.co/asset/image/grundbok.png)
+![](https://helmgast.se/asset/image/grundbok.png)

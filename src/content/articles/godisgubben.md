@@ -6,7 +6,7 @@ world: neotech
 creator: Rikard Jespersen
 created_date: '2018-04-17T22:37:16Z'
 title: Godisgubben
-status: published
+status: draft
 theme: neotech-rpgen
 license: ccby4
 editors:

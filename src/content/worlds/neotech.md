@@ -4,8 +4,7 @@ slug: neotech
 rule_system: Noir-baserat
 created_date: '2017-06-15T22:22:17Z'
 status: published
-images:
-  - https://helmgast.se/asset/image/bkg.png
+landscape_image: https://helmgast.se/asset/image/bkg.png
 license: ccby4
 editors:
   - Ola Jentzsch

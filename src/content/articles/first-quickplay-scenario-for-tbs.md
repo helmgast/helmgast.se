@@ -20,7 +20,7 @@ This plan is far too progressed to be a failure now. Not even an international b
 
 The details for this ingenious scheme can be found on [The Troubleshooters' Archive](https://helmgast.se/troubleshooters/the-troubleshooters-archive) page.
 
-![](https://res.cloudinary.com/helmgast/image/upload/w_150/hgse/2Step_5.png#lthumb)
+![Octopus #lthumb](../images/tbs/2step_5.png)
 
 ### Long live the Octopus!
 

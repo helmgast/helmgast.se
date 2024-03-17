@@ -13,8 +13,7 @@ theme: eon-theme
 description: 25 år av äventyr
 tagline: 25 år av äventyr
 title: Eon
-images:
-  - https://helmgast.se/asset/image/90b92b341c7b5508a684eafda7dc4c75-omslag-spelledarskarm-cut.jpg
+landscape_image: https://helmgast.se/asset/image/90b92b341c7b5508a684eafda7dc4c75-omslag-spelledarskarm-cut.jpg
 languages:
   - sv
 ---

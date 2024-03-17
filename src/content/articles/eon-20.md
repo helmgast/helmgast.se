@@ -14,15 +14,14 @@ images:
 world: eon
 language: sv
 ---
-* gallery-center
-* ![](https://fablr.co/asset/image/eon20logga.png) Ett fåtal individer i Göteborg, med en vision om ett nytt svenskt rollspel med sin egen prägel, släppte officiellt sitt nya rollspel i november 1996. Eon såg dagens ljus med sin första version och blev snabbt en succé och favorit bland rollspelare. Som en av grundarna uttrycker det: ”Vi hade en idé med Eon, en idé som fortfarande är sann. Vi ville ge rollspelarna ett svenskt detaljerat rollspel och en hel värld att utforska. En gammal värld, fylld av minnen, historia, myter och legender.”
+
+![](https://helmgast.se/asset/image/eon20logga.png) Ett fåtal individer i Göteborg, med en vision om ett nytt svenskt rollspel med sin egen prägel, släppte officiellt sitt nya rollspel i november 1996. Eon såg dagens ljus med sin första version och blev snabbt en succé och favorit bland rollspelare. Som en av grundarna uttrycker det: ”Vi hade en idé med Eon, en idé som fortfarande är sann. Vi ville ge rollspelarna ett svenskt detaljerat rollspel och en hel värld att utforska. En gammal värld, fylld av minnen, historia, myter och legender.”
 
 Sedan dess har ett stort antal moduler och tilläggsprodukter släppts och den fjärde versionen av spelets grundbok (Eon IV) släpptes under 2014. För att fira 20-årsjubileet har Neogames/Skuggspel och Helmgast gemensamt tagit fram en rad aldrig tidigare skådade erbjudanden!
 
 Helmgast släpper också Eon IV i en jubileumsutgåva samt en särskild jubileumsvolym – Äventyrets väg - som bland annat behandlar Eons första 20 år.
 
-* gallery-center
-* ![](https://fablr.co/asset/image/eon20mockups.png)
+![](https://helmgast.se/asset/image/eon20mockups.png)
 
 ## Erbjudanden
 
@@ -34,5 +33,4 @@ Till Eon har genom åren släppts mer än 60 olika produkter och utgåvor. En li
 
 Hur mycket om Eon kan du? Vet du vilket år Gordrion formellt bildades? När brann Nimto Bro senast? Testa dina kunskaper om Eon och briljera med ditt resultat! [Gör Eon 20 quiz här](https://quiz.tryinteract.com/#/580d226ce54c0711000dc6ca)
 
-* gallery-center
-* ![](https://fablr.co/asset/image/eon20banner.gif)
+![](https://helmgast.se/asset/image/eon20banner.gif)

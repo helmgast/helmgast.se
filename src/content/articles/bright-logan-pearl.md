@@ -6,7 +6,7 @@ world: neotech
 creator: Andreas Williamsson
 created_date: '2018-04-22T07:32:15Z'
 title: Bright Logan Pearl
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar28.jpg
 license: ccby4

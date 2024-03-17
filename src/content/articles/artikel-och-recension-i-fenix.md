@@ -40,6 +40,6 @@ Sedan den maffiga slutklämmen som vi håller med om till tusen.
 
 Vi helmgastar tycker det är jättekul att läsa att vi har vår egen unika nisch på rollspelsmarknaden och att Eon IV kan vara så inspirerande. Få tag i äventyret och läs hela recensionen. Fenix går att köpa i välsorterade butiker och såklart kan man även prenumerera. Så kolla in [www.speltidningen.se](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.speltidningen.se%2F&h=TAQFmFMm2&enc=AZO0KozZ47608Y0DujCy_pPemwq3gJ_0DLyGg133tSo88JVKQQNiMXGPgySRrk2o2hdRaTZnl__oeVcFWAisAxcOBjRRu4QPlpNXUMvRgGq36opbxfN6oU4Of0SXZ02R32IIgLrCds8c30olG_5wMRup&s=1) Vi kommer försöka se till att det finns en konstant tillgång till Eonmaterial i tidningen.
 
-![](https://fablr.co/asset/image/fenix-2015-01.jpg)
+![](https://helmgast.se/asset/image/fenix-2015-01.jpg)
 
 Redan till våren kan vi avslöja att det kommer bli en riktigt maffig 16-sidig äventyrsspecial som utspelar sig i vildmarken på gränsen mot Kamor.

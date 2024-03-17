@@ -25,19 +25,15 @@ Systemet, en symbios av AI-styrda korporationer och stater, övervakar och valla
 
 Det spelar ingen roll om din posse består av anon, solos, krims, riots eller mils. Världen rusar ändå mot kollaps, eller mot ett nytt paradis efter singulariteten…
 
-
 * * *
-
 
 Ordet Edge handlar inte bara om hur vi står på randen till singulariteten. Det handlar också om vassa kanter och attityd. Spelet är till stor del skrivet med “in-game” text som hade kunnat komma från år 2070, och precis som världen är den ibland kryptisk eller kontroversiell. Vi tror detta betalar sig i form av inspiration och djup i en genre som lätt blir klyschig.
 
-* gallery-center
-* ![](https://fablr.co/asset/image/preview-front.png)
+![](https://helmgast.se/asset/image/preview-front.png)
 
 Edge gäller även vassa illustratörer och en uppdaterad formgivning byggd på skarpa vinklar. Nedan ser du vårt nuvarande utkast på stilen i böckerna. Dessa kommer itereras mycket framöver, men ger en känsla för vart vi är på väg! *(Notera att texten i PDF till stor del är dummy-text eller oredigerad text)*
 
-* gallery-center
-* [neotech-preview.pdf](https://fablr.co/asset/link/neotech-preview.pdf)
+[neotech-preview.pdf](https://helmgast.se/asset/link/neotech-preview.pdf)
 
 Mycket har förändrats både i verkligheten som Neotech är en kommentar på, och hur vi konsumerar och spelar rollspel. Reglerna är fokuserade på att skapa berättelser men utan att tappa detaljerna där de behövs. Böckerna är visuella och kombinerade med appar. Representationen av kön och kultur är bredare.
 

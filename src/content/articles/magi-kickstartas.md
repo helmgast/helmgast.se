@@ -18,8 +18,7 @@ language: sv
 
 Modulens kärna består av Eons nya magiregler där vi talar om alstring, dissipation, besvärjelser, ritualer, dold magi, förvrängandets konst, magiförnimmelse och mycket mer. För magiker-rollpersoner introducerar vi även en ny arketyp och en välfylld händelsetabell. Vi får även reda på mer om hur man klarar sig som magiker i det magi-fientliga Jargien med fördjupning och äventyrskrokar till de olika små sällskap som håller till där.
 
-* gallery-center
-* ![](https://helmgast.se/asset/image/banner-bokbilder.jpg)
+![](https://helmgast.se/asset/image/banner-bokbilder.jpg)
 
 [Se lanseringsvideon för kickstartern](https://youtu.be/dyQLN3t4j1E)!
 

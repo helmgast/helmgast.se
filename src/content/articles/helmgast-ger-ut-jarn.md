@@ -12,7 +12,7 @@ editors:
 world: jarn
 language: sv
 ---
-![](https://fablr.co/asset/image/jarn-logo.png)
+![](https://helmgast.se/asset/image/jarn-logo.png)
 
 **Helmgast AB har inlett ett samarbete med Eon-veteranen Krister Sundelin och publicerar hans nyskapande rollspel *Järn*. **
 

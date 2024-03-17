@@ -7,8 +7,7 @@ rule_system: Drakar och Demoner 23
 created_date: '2023-10-01T16:07:18Z'
 publishing_year: '2024'
 status: published
-images:
-  - https://helmgast.se/asset/image/ea-box-ks.png
+landscape_image: https://helmgast.se/asset/link/344191573-261968182916403-4338121257826799297-n.png
 license: ccby4
 languages:
   - sv

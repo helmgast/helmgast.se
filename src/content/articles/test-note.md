@@ -5,7 +5,7 @@ type: default
 creator: Martin F
 created_date: '2019-11-12T18:54:27Z'
 title: Test note
-status: published
+status: draft
 theme: papernote-theme
 language: en
 license: ccby4

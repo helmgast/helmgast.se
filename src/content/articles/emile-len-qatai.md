@@ -6,7 +6,7 @@ world: neotech
 creator: Gill Edgar
 created_date: '2018-04-19T20:10:03Z'
 title: Emile Len Qatai
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar3.jpg
 license: ccby4

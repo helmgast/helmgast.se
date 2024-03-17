@@ -3,9 +3,8 @@ _id: 533b360d29fc314ac32052f1
 slug: kult
 created_date: '2017-06-15T22:18:51Z'
 status: published
-images:
-  - https://helmgast.se/asset/image/kultlogo2.png
-  - https://helmgast.se/asset/image/kult-cover-true.jpg
+landscape_image: https://helmgast.se/asset/image/kultlogo2.png
+portrait_image: https://helmgast.se/asset/image/kult-cover-true.jpg
 external_host: http://kultdivinitylost.com/
 publishing_year: '2018'
 facebook_url: https://www.facebook.com/kultdivinitylost

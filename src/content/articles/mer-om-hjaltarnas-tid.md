@@ -16,7 +16,7 @@ images:
 world: hjaltarnas-tid
 language: sv
 ---
-![](https://fablr.co/asset/image/ht-1200x600.jpg)
+![](https://helmgast.se/asset/image/ht-1200x600.jpg)
 
 Nu kan du läsa mer om Hjältarnas tid i [en intervju](https://helmgast.se/hjaltarnas-tid/vad-ar-hjaltarnas-tid) med Krister Sundelin, spelets skapare.
 

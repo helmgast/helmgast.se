@@ -6,7 +6,7 @@ world: neotech
 creator: Rikard Jespersen
 created_date: '2018-04-19T09:22:11Z'
 title: DaBuzz
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar20.jpg
 license: ccby4

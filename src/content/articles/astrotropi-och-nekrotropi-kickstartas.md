@@ -23,10 +23,7 @@ Under tiden kan man hänga på låset här: [https://www.kickstarter.com/project
 
 Må stjärnorna le mot er och Dibuks tjänare hålla sig undan
 
-*   gallery-center
-*   ![](https://helmgast.se/asset/image/c2593179a7129e44dcbaaa2391752e49-banner-kickstarter-front.jpg)
-
-  
+![](https://helmgast.se/asset/image/c2593179a7129e44dcbaaa2391752e49-banner-kickstarter-front.jpg)
 
 ### Tidigare nyhet
 

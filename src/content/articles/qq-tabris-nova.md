@@ -6,7 +6,7 @@ world: neotech
 creator: Anastasia Nilsson
 created_date: '2018-04-19T18:56:38Z'
 title: QQ Tabris Nova
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: http://res.cloudinary.com/helmgast/image/upload/rpgenchar1.jpg
 license: ccby4

@@ -6,7 +6,7 @@ world: neotech
 creator: Björn
 created_date: '2018-04-19T19:06:27Z'
 title: Jason Figgs
-status: published
+status: draft
 theme: neotech-rpgen
 cloudinary: >-
   https://res.cloudinary.com/helmgast/image/upload/v1524166503/char-head_o5fzgg.jpg

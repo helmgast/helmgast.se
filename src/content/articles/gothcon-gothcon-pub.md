@@ -13,7 +13,7 @@ images:
   - https://helmgast.se/asset/image/gothconpub.jpg
 language: sv
 ---
-![](https://fablr.co/asset/image/gothconpub.jpg)
+![](https://helmgast.se/asset/image/gothconpub.jpg)
 
 GothCon - Sveriges största konvent för rollspel, figurspel och brädspel går av stapeln nu under påskhelgen. Vi på Helmgast kommer självfallet att vara där med vår butik där vi också företräder Neogames. Så kom förbi oss om ni vill köpa en bok, ställa frågor eller bara vill hänga lite.
 

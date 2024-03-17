@@ -14,8 +14,7 @@ editors:
   - Krister Sundelin
 language: en
 ---
-*   gallery-center
-*   ![](https://helmgast.se/asset/image/linbana.png)
+![](https://helmgast.se/asset/image/linbana.png)
 
 Helmgast AB proudly presents **_The Troubleshooters_**, a new action-adventure tabletop roleplaying game in the style of Franco-Belgian comics.
 
@@ -40,14 +39,14 @@ About Helmgast AB
 
 Helmgast AB is a Swedish publisher of tabletop roleplaying games founded in 2014 by six veterans of the Swedish, who could not stop writing roleplaying games in our spare time. We create the games we want to play, with focus on quality, believability and drama.
 
-Helmgast AB is the producer of the award-winning roleplaying game Kult: Divinity Lost and the acclaimed Swedish dark fantasy roleplaying game Eon. The Troubleshooters is the second line from Helmgast AB aimed at an international market.   
+Helmgast AB is the producer of the award-winning roleplaying game Kult: Divinity Lost and the acclaimed Swedish dark fantasy roleplaying game Eon. The Troubleshooters is the second line from Helmgast AB aimed at an international market.
 
-About Arkhane Asylum 
+About Arkhane Asylum
 ---------------------
 
 Arkhane Asylum Publishing is a French publishing company specialising in roleplaying games. With more than 10 years of experience, we publish various lines of games in French, such as Vampire: The Masquerade, Werewolf: The Apocalypse, Mage: The Ascension, Tales from the Loop, City of Mist, Star Trek Adventures, The Witcher and Lex Occultum.
 
-About Modiphius 
+About Modiphius
 ----------------
 
 A UK- based tabletop games publisher, Modiphius Entertainment launched in 2013 with the World War Two horror themed Achtung! Cthulhu universe and went on to create licensed tabletop roleplaying, miniatures, and boardgames for Mutant Chronicles, Thunderbirds, Conan, John Carter of Mars, Infinity, Star Trek Adventures, Fallout: Wasteland Warfare, Elder Scrolls Call to Arms, Dune and publishing Vampire The Masquerade Fifth Edition. For more information please visit [www.modiphius.com](http://www.modiphius.com)

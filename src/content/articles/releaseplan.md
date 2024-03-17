@@ -16,8 +16,7 @@ language: sv
 ---
 Releaseplan för Eon IV.
 
-* gallery-center
-* ![](https://helmgast.se/asset/image/91184436a5e37c7f63ab14d1afac9514-releaseplan.png)
+![](https://helmgast.se/asset/image/91184436a5e37c7f63ab14d1afac9514-releaseplan.png)
 
 ## Strid – Kalla sinnen & Härdat stål  
 
