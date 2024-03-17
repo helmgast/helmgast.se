@@ -4,9 +4,9 @@ import { exampleRemarkPlugin } from './src/excerpt-remark-plugin.mjs';
 
 // https://astro.build/config
 export default defineConfig({
-    site: "https://helmgast.se",
+    site: "https://helmgast.pages.dev",
     image: {
-        domains: ["fablr.co", "helmgast.se"],
+        domains: ["helmgast.se"],
     },
     redirects: {
         "/blog": "/blog/page/1",
