@@ -11,23 +11,23 @@ let latestNews = await getCollection('articles', ({ data}) => {
 });
 latestNews = latestNews.sort((a, b) => a.data.created_date < b.data.created_date ? 1 : -1).slice(0, 8);
 
-const eon = await getEntry('worlds', 'eon');
-const neotech = await getEntry('worlds', 'neotech');
-const kult = await getEntry('worlds', 'kult');
-const ereb = await getEntry('worlds', 'ereb-altor');
-const noir = await getEntry('worlds', 'noir');
-const hjaltarnas = await getEntry('worlds', 'hjaltarnas-tid');
-const tbs = await getEntry('worlds', 'the-troubleshooters');
-const koppar = await getEntry('worlds', 'kopparhavets-hjaltar');
-const jarn = await getEntry('worlds', 'jarn');
+const eon = (await getEntry('worlds', 'eon'))!;
+const neotech = (await getEntry('worlds', 'neotech'))!;
+const kult = (await getEntry('worlds', 'kult'))!;
+const ereb = (await getEntry('worlds', 'ereb-altor'))!;
+const noir = (await getEntry('worlds', 'noir'))!;
+const hjaltarnas = (await getEntry('worlds', 'hjaltarnas-tid'))!;
+const tbs = (await getEntry('worlds', 'the-troubleshooters'))!;
+const koppar = (await getEntry('worlds', 'kopparhavets-hjaltar'))!;
+const jarn = (await getEntry('worlds', 'jarn'))!;
 
 // Resolve and optimise world banner images
 const worldBg = Object.fromEntries(await Promise.all([
 	eon, neotech, kult, ereb, noir, hjaltarnas, tbs, koppar, jarn
 ].map(async (w) => [
-	w!.id,
-	w!.data.landscape_image
-		? `background-image: url(${await getBackgroundImage(w!.data.landscape_image, w!.id, 2400, 600, 'worlds')})`
+	w.id,
+	w.data.landscape_image
+		? `background-image: url(${await getBackgroundImage(w.data.landscape_image, w.id, 2400, 600, 'worlds')})`
 		: ''
 ])));
 
@@ -88,7 +88,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</div>
 	<a href={kult.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={worldBg[kult!.id]}>
+				style={worldBg[kult.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ kult.data.title }
@@ -99,7 +99,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</a>
 	<a href={tbs.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={worldBg[tbs!.id]}>
+				style={worldBg[tbs.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ tbs.data.title }
@@ -115,7 +115,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</div>
 	<a href={eon.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={worldBg[eon!.id]}>
+				style={worldBg[eon.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ eon.data.title }
@@ -126,7 +126,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</a>
 	<a href={ereb.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={worldBg[ereb!.id]}>
+				style={worldBg[ereb.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ ereb.data.title }
@@ -137,7 +137,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</a>
 	<a href={neotech.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={worldBg[neotech!.id]}>
+				style={worldBg[neotech.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ neotech.data.title }
@@ -148,7 +148,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</a>
 	<a href={koppar.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={worldBg[koppar!.id]}>
+				style={worldBg[koppar.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ koppar.data.title }
@@ -159,7 +159,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</a>
 	<a href={hjaltarnas.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={worldBg[hjaltarnas!.id]}>
+				style={worldBg[hjaltarnas.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ hjaltarnas.data.title }
@@ -170,7 +170,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</a>
 	<a href={jarn.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={worldBg[jarn!.id]}>
+				style={worldBg[jarn.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ jarn.data.title }
@@ -181,7 +181,7 @@ const worldBg = Object.fromEntries(await Promise.all([
 	</a>
 	<a href={noir.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={worldBg[noir!.id]}>
+				style={worldBg[noir.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ noir.data.title }
