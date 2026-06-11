@@ -42,4 +42,4 @@ Flera intressanta tillbehör finns till Hjältarnas tid. [Läs mer](https://helm
 
 ## Aprilskämt
 
-* NYTT! [Regelpatch våren 2017](https://helmgast.se/asset/link/regelpatch-april2017.pdf)
+* NYTT! [Regelpatch våren 2017](https://files.helmgast.se/hjaltarnas-tid/regelpatch-april2017.pdf)

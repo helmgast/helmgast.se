@@ -21,33 +21,33 @@ _Hjältarnas hall i Grivelas hemsöka ruiner hedrar hjältar från Athos alla h�
 
 **Officiellt material**
 
-[Rollformulär, dubbelsidigt](https://helmgast.se/asset/link/kopparhavetshjaltar-form.pdf)
+[Rollformulär, dubbelsidigt](https://files.helmgast.se/kopparhavets-hjaltar/kopparhavetshjaltar-form.pdf)
 
-[Fartygsformulär](https://helmgast.se/asset/download/fartygsark-tomt-web.pdf)
+[Fartygsformulär](https://files.helmgast.se/kopparhavets-hjaltar/fartygsark-tomt-web.pdf)
 
-[Karta över Kopparhavet](https://helmgast.se/asset/link/kopparhavet-karta-sv.pdf)
+[Karta över Kopparhavet](https://files.helmgast.se/kopparhavets-hjaltar/kopparhavet-karta-sv.pdf)
 
-[Nekromanti](https://helmgast.se/asset/link/nekromanti.pdf)  
+[Nekromanti](https://files.helmgast.se/kopparhavets-hjaltar/nekromanti.pdf)  
 
 _Bakgrundsblad_
 
-[Bakgrundsblad - Baar](https://helmgast.se/asset/link/bakgrundsblad-baar.pdf)
+[Bakgrundsblad - Baar](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-baar.pdf)
 
-[Bakgrundsblad - Dors damm](https://helmgast.se/asset/download/bakgrundsblad-dors-damm-1.pdf)
+[Bakgrundsblad - Dors damm](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-dors-damm-1.pdf)
 
-[Bakgrundsblad - Gamla citadellet](https://helmgast.se/asset/download/bakgrundsblad-gamla-citadellet.pdf)[](https://helmgast.se/asset/download/bakgrundsblad-gamla-citadellet.pdf)
+[Bakgrundsblad - Gamla citadellet](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-gamla-citadellet.pdf)[](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-gamla-citadellet.pdf)
 
-[Bakgrundsblad - Nekropolis och Kristalltornet](https://helmgast.se/asset/link/bakgrundsblad-nekropolis.pdf)
+[Bakgrundsblad - Nekropolis och Kristalltornet](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-nekropolis.pdf)
 
-[Bakgrundsblad - Montarkun](https://helmgast.se/asset/link/bakgrundsblad-montarkun.pdf)
+[Bakgrundsblad - Montarkun](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-montarkun.pdf)
 
-[Bakgrundsblad - Baals brygga](https://helmgast.se/asset/link/bakgrundsblad-baals-brygga.pdf)
+[Bakgrundsblad - Baals brygga](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-baals-brygga.pdf)
 
-[Bakgrundsblad - Ka-ruh](https://helmgast.se/asset/link/bakgrundsblad-karuh.pdf)
+[Bakgrundsblad - Ka-ruh](https://files.helmgast.se/kopparhavets-hjaltar/bakgrundsblad-karuh.pdf)
 
 **Fan-material**
 
-[Illerfolk (Kristoffer "Illern" Holmén)](https://helmgast.se/asset/link/illerfolk.pdf)
+[Illerfolk (Kristoffer "Illern" Holmén)](https://files.helmgast.se/kopparhavets-hjaltar/illerfolk.pdf)
 
 [Kopparhavsnamn (Tomas "Zadrith" Brattström)](https://zadrith.com/ht/kopparhavsnamn.php)
 

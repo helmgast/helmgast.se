@@ -23,4 +23,4 @@ Det passar ett första speltillfälle då det hjälper en komma igång med regle
 
 Det är skrivet för att spelas i Pearl River Delta men kan med minimal förändring spelas var som helst i världen:
 
-[Den perfekta stormen](https://helmgast.se/asset/download/ne-dps.pdf)
+[Den perfekta stormen](https://files.helmgast.se/neotech/ne-dps.pdf)

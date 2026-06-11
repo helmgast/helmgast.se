@@ -33,7 +33,7 @@ Ordet Edge handlar inte bara om hur vi står på randen till singulariteten. Det
 
 Edge gäller även vassa illustratörer och en uppdaterad formgivning byggd på skarpa vinklar. Nedan ser du vårt nuvarande utkast på stilen i böckerna. Dessa kommer itereras mycket framöver, men ger en känsla för vart vi är på väg! *(Notera att texten i PDF till stor del är dummy-text eller oredigerad text)*
 
-[neotech-preview.pdf](https://helmgast.se/asset/link/neotech-preview.pdf)
+[neotech-preview.pdf](https://files.helmgast.se/neotech/neotech-preview.pdf)
 
 Mycket har förändrats både i verkligheten som Neotech är en kommentar på, och hur vi konsumerar och spelar rollspel. Reglerna är fokuserade på att skapa berättelser men utan att tappa detaljerna där de behövs. Böckerna är visuella och kombinerade med appar. Representationen av kön och kultur är bredare.
 

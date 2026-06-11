@@ -14,4 +14,4 @@ editors:
 ---
 Det bästa med Kopparhavets hjältar är när det inspirerar er att skriva något till era egna kampanjer och spel! Kristoffer "Iller" Holmén har gjort ett grymt jobb med att snickra ihop ett nytt Folkslag - Illerfolk, som känns klockrena runt Kopparhavet. Ta er en titt!
 
-[Illerfolk](https://helmgast.se/asset/link/illerfolk.pdf)
+[Illerfolk](https://files.helmgast.se/kopparhavets-hjaltar/illerfolk.pdf)

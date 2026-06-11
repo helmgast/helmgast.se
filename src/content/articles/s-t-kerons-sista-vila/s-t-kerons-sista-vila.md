@@ -23,4 +23,4 @@ language: sv
 
 Ta del av äventyret S:t Kerons sista vila och låt din spelledare ladda ner äventyret här:
 
-[S:t Kerons sista vila](https://helmgast.se/asset/download/st-kerons-sista-vila.pdf).
+[S:t Kerons sista vila](https://files.helmgast.se/eon/st-kerons-sista-vila.pdf).

@@ -24,46 +24,46 @@ Här hittar du alla varianter av rollformulär du kan behöva för Neotech Edge.
 
 Vi rekommenderar Adobe Reader för bästa upplevelse. V1.2
 
-[Tema: System X](https://helmgast.se/asset/link/character-sheet-a4-fillable-system-x.pdf)
+[Tema: System X](https://files.helmgast.se/neotech/character-sheet-a4-fillable-system-x.pdf)
 
-[Tema: System](https://helmgast.se/asset/link/character-sheet-a4-fillable-system.pdf)
+[Tema: System](https://files.helmgast.se/neotech/character-sheet-a4-fillable-system.pdf)
 
-[Tema: Alien](https://helmgast.se/asset/link/character-sheet-a4-fillable-alien.pdf)
+[Tema: Alien](https://files.helmgast.se/neotech/character-sheet-a4-fillable-alien.pdf)
 
-[Tema: kWai](https://helmgast.se/asset/link/character-sheet-a4-fillable-kwai.pdf)
+[Tema: kWai](https://files.helmgast.se/neotech/character-sheet-a4-fillable-kwai.pdf)
 
-[Tema: Noir (svartvit)](https://helmgast.se/asset/link/character-sheet-a4-fillable-noir.pdf)
+[Tema: Noir (svartvit)](https://files.helmgast.se/neotech/character-sheet-a4-fillable-noir.pdf)
 
-[Tema: Noir (högkontrast)](https://helmgast.se/asset/link/character-sheet-a4-fillable-noir-c.pdf)
+[Tema: Noir (högkontrast)](https://files.helmgast.se/neotech/character-sheet-a4-fillable-noir-c.pdf)
 
 ### Utskrivbara karaktärspapper
 
 V1.3, 2021-02-21
 
-[Tema: System X, A4](https://helmgast.se/asset/link/v1-3-charactersheet-system-x-a4.pdf)
+[Tema: System X, A4](https://files.helmgast.se/neotech/v1-3-charactersheet-system-x-a4.pdf)
 
-[Tema: System X, vikt A3](https://helmgast.se/asset/link/v1-3-charactersheet-system-x-a3.pdf)
+[Tema: System X, vikt A3](https://files.helmgast.se/neotech/v1-3-charactersheet-system-x-a3.pdf)
 
-[Tema: System, A4](https://helmgast.se/asset/link/v1-3-charactersheet-system-a4.pdf)
+[Tema: System, A4](https://files.helmgast.se/neotech/v1-3-charactersheet-system-a4.pdf)
 
-[Tema: System, vikt A3](https://helmgast.se/asset/link/v1-3-charactersheet-system-a3.pdf)
+[Tema: System, vikt A3](https://files.helmgast.se/neotech/v1-3-charactersheet-system-a3.pdf)
 
-[Tema: Alien, A4](https://helmgast.se/asset/link/v1-3-charactersheet-alien-a4.pdf)
+[Tema: Alien, A4](https://files.helmgast.se/neotech/v1-3-charactersheet-alien-a4.pdf)
 
-[Tema: Alien, vikt A3](https://helmgast.se/asset/link/v1-3-charactersheet-alien-a3.pdf)
+[Tema: Alien, vikt A3](https://files.helmgast.se/neotech/v1-3-charactersheet-alien-a3.pdf)
 
-[Tema: kWai, A4](https://helmgast.se/asset/link/v1-3-charactersheet-kwai-a4.pdf)
+[Tema: kWai, A4](https://files.helmgast.se/neotech/v1-3-charactersheet-kwai-a4.pdf)
 
-[Tema: kWai, vikt A3](https://helmgast.se/asset/link/v1-3-charactersheet-kwai-a3.pdf)
+[Tema: kWai, vikt A3](https://files.helmgast.se/neotech/v1-3-charactersheet-kwai-a3.pdf)
 
-[Tema: Noir (svartvit), A4](https://helmgast.se/asset/link/v1-3-charactersheet-noir-a4.pdf)
+[Tema: Noir (svartvit), A4](https://files.helmgast.se/neotech/v1-3-charactersheet-noir-a4.pdf)
 
-[Tema: Noir (svartvit), vikt A3](https://helmgast.se/asset/link/v1-3-charactersheet-noir-a3.pdf)
+[Tema: Noir (svartvit), vikt A3](https://files.helmgast.se/neotech/v1-3-charactersheet-noir-a3.pdf)
 
-[Tema: Noir (högkontrast), A4](https://helmgast.se/asset/link/v1-3-charactersheet-noir-c-a4.pdf)
+[Tema: Noir (högkontrast), A4](https://files.helmgast.se/neotech/v1-3-charactersheet-noir-c-a4.pdf)
 
-[Tema: Noir (högkontrast), vikt A3](https://helmgast.se/asset/link/v1-3-charactersheet-noir-c-a3.pdf)
+[Tema: Noir (högkontrast), vikt A3](https://files.helmgast.se/neotech/v1-3-charactersheet-noir-c-a3.pdf)
 
 ### Övriga resurser
 
-[Nimrod Headhunter Lathund för att skapa avatar A4](https://helmgast.se/asset/link/nimrod-headhunter-lathund.pdf)
+[Nimrod Headhunter Lathund för att skapa avatar A4](https://files.helmgast.se/neotech/nimrod-headhunter-lathund.pdf)

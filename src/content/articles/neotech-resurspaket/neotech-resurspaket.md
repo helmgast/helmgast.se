@@ -20,16 +20,16 @@ Här hittar du PDF-versioner av de olika delarna av Resurspaketet för Neotech E
 
 #### Resurspaket
 
-[Lathund – Strid, Battles & Hacking](https://helmgast.se/asset/link/lathund-strid-och-battles.pdf)
+[Lathund – Strid, Battles & Hacking](https://files.helmgast.se/neotech/lathund-strid-och-battles.pdf)
 
-[Lathund – Downtime](https://helmgast.se/asset/link/lathund-downtime.pdf)
+[Lathund – Downtime](https://files.helmgast.se/neotech/lathund-downtime.pdf)
 
-[Lathund – Avatar](https://helmgast.se/asset/link/nimrod-headhunter-lathund.pdf) (extra, finns ej i tryckt format)
+[Lathund – Avatar](https://files.helmgast.se/neotech/nimrod-headhunter-lathund.pdf) (extra, finns ej i tryckt format)
 
-[Initiativbräde](https://helmgast.se/asset/link/initiativbrade.pdf)
+[Initiativbräde](https://files.helmgast.se/neotech/initiativbrade.pdf)
 
-[Initiativbräde (utan bakgrund)](https://helmgast.se/asset/link/initiativbrade-utan-bakgrund.pdf)
+[Initiativbräde (utan bakgrund)](https://files.helmgast.se/neotech/initiativbrade-utan-bakgrund.pdf)
 
-[Initiativmarkörer](https://helmgast.se/asset/link/initiativmarkers.pdf)
+[Initiativmarkörer](https://files.helmgast.se/neotech/initiativmarkers.pdf)
 
 Digitala och utskrivningsbara rollformulär i olika färger hittar du [här](https://helmgast.se/neotech/neotech-rollformular).

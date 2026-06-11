@@ -21,6 +21,6 @@ language: sv
 
 Äventyret är skrivet av rollspelsveteranen Lukas Sjöström. Låt din spelledare ladda ner äventyret här:
 
-[Avgrundens parlament](https://helmgast.se/asset/download/avgrundens-parlament.pdf).
+[Avgrundens parlament](https://files.helmgast.se/eon/avgrundens-parlament.pdf).
 
 Du kan även ladda ner en karta över Xanto [här](https://helmgast.se/helmgast/xantokarta/).

@@ -19,7 +19,7 @@ language: sv
 ---
 Här kommer en tidig julklapp från oss:
 
-[En magiintroduktion till Eon IV](https://helmgast.se/asset/download/intro-magi-2015-12-23.pdf) på 24 välfyllda sidor.
+[En magiintroduktion till Eon IV](https://files.helmgast.se/eon/intro-magi-2015-12-23.pdf) på 24 välfyllda sidor.
 
 ![](./eon-magiut-vande-skisser-copy2.jpg)
 

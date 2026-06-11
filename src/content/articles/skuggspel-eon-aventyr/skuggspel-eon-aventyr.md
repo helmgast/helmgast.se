@@ -22,6 +22,6 @@ Vid Krolimbergens sluttningar sker underliga ting. Barn har börjat försvinna s
 
 Ladda ned det här:
 
-[Skuggspel](https://helmgast.se/asset/download/skuggspel.pdf).
+[Skuggspel](https://files.helmgast.se/eon/skuggspel.pdf).
 
 (Äventyret har även gått under namnet "Där skuggorna ruva".)

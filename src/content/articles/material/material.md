@@ -17,66 +17,66 @@ language: sv
 Printervänliga formulär
 =======================
 
-[Rollpersonen](https://helmgast.se/asset/download/rollperson-v2.pdf). 2-sidigt rollformulär.
+[Rollpersonen](https://files.helmgast.se/eon/rollperson-v2.pdf). 2-sidigt rollformulär.
 
-[Rollpersonen strid](https://helmgast.se/asset/download/rollperson-v2-strid.pdf). 4-sidigt rollformulär. Utrymme för detaljerad rustning, stridskonster och riddjur. [Exempel på hur det används](https://helmgast.se/asset/download/rollperson-v2-strid-exempel.pdf)
+[Rollpersonen strid](https://files.helmgast.se/eon/rollperson-v2-strid.pdf). 4-sidigt rollformulär. Utrymme för detaljerad rustning, stridskonster och riddjur. [Exempel på hur det används](https://files.helmgast.se/eon/rollperson-v2-strid-exempel.pdf)
 
-[Hjälpformuläret](https://helmgast.se/asset/download/skapa-rollperson.pdf). Hjälpmedel när man skapar sin rollperson.
+[Hjälpformuläret](https://files.helmgast.se/eon/skapa-rollperson.pdf). Hjälpmedel när man skapar sin rollperson.
 
-[Utrustning & kontaktformulär](https://helmgast.se/asset/download/utrustning-v2.pdf).
+[Utrustning & kontaktformulär](https://files.helmgast.se/eon/utrustning-v2.pdf).
 
 ### Äldre formulär
 
-[Spelledarpersonsformuläret](https://helmgast.se/asset/download/rollperson-light.pdf). För viktiga spelledarpersoner.
+[Spelledarpersonsformuläret](https://files.helmgast.se/eon/rollperson-light.pdf). För viktiga spelledarpersoner.
 
-[Personformuläret](https://helmgast.se/asset/download/form-rollperson-familj-1.pdf). Porträtt, familj, bakgrund och kontakter. 2 sidor.
+[Personformuläret](https://files.helmgast.se/eon/form-rollperson-familj-1.pdf). Porträtt, familj, bakgrund och kontakter. 2 sidor.
 
-[Motståndarformuläret](https://helmgast.se/asset/download/motstandare.pdf). För spelledaren som vill hålla kolla på rollpersonernas motståndare. Mycket kompakt med fyra stridande på en sida.
+[Motståndarformuläret](https://files.helmgast.se/eon/motstandare.pdf). För spelledaren som vill hålla kolla på rollpersonernas motståndare. Mycket kompakt med fyra stridande på en sida.
 
-[Utrustningsformulär](https://helmgast.se/asset/download/utrustning.pdf). Håll reda på grejerna.
+[Utrustningsformulär](https://files.helmgast.se/eon/utrustning.pdf). Håll reda på grejerna.
 
-[Krönikeformulär](https://helmgast.se/asset/download/kronika.pdf). Dokumentera spelgruppens äventyr.
+[Krönikeformulär](https://files.helmgast.se/eon/kronika.pdf). Dokumentera spelgruppens äventyr.
 
-[Dramakrokformulär](https://helmgast.se/asset/download/dramakrokar.pdf). Enligt beskrivningen på sida 266 i grundboken.
+[Dramakrokformulär](https://files.helmgast.se/eon/dramakrokar.pdf). Enligt beskrivningen på sida 266 i grundboken.
 
-[Interaktivt rollformulär](https://helmgast.se/asset/download/rollperson-interaktivt.pdf). Ett interaktivt rollformulär där man kan fylla i direkt. Gjort av Emil "duncan" Forslund. Baserat på en äldre version av rollformuläret.
+[Interaktivt rollformulär](https://files.helmgast.se/eon/rollperson-interaktivt.pdf). Ett interaktivt rollformulär där man kan fylla i direkt. Gjort av Emil "duncan" Forslund. Baserat på en äldre version av rollformuläret.
 
 Regler grundboken
 =================
 
-[Sammanfattning av stridsregler](https://helmgast.se/asset/download/strid-sammanfattning.pdf).
+[Sammanfattning av stridsregler](https://files.helmgast.se/eon/strid-sammanfattning.pdf).
 
-[Samlade skadetabeller](https://helmgast.se/asset/download/skadetabeller.pdf).
+[Samlade skadetabeller](https://files.helmgast.se/eon/skadetabeller.pdf).
 
-[Konvertera Eon 3 till Eon IV](https://helmgast.se/asset/download/konvertering.pdf).
+[Konvertera Eon 3 till Eon IV](https://files.helmgast.se/eon/konvertering.pdf).
 
 Regler strid
 ============
 
-[Sammanfattning av avancerade stridsregler](https://helmgast.se/asset/download/avancerad-strid-sammanfattning.pdf).
+[Sammanfattning av avancerade stridsregler](https://files.helmgast.se/eon/avancerad-strid-sammanfattning.pdf).
 
 Regler magi
 ===========
 
-[Sammanfattning av magiregler](https://helmgast.se/asset/download/magi-sammanfattning.pdf).
+[Sammanfattning av magiregler](https://files.helmgast.se/eon/magi-sammanfattning.pdf).
 
-[Egna besvärjelser och ritualer](https://helmgast.se/asset/download/egen-magi.pdf).
+[Egna besvärjelser och ritualer](https://files.helmgast.se/eon/egen-magi.pdf).
 
 Håll koll på vilka mysterier och besvärjelse din magiker kan med följande sammanfattningar.
 
-[Astrotropiska mysterier](https://helmgast.se/asset/download/aspekt-astrotropi-sammanfattning.pdf).
+[Astrotropiska mysterier](https://files.helmgast.se/eon/aspekt-astrotropi-sammanfattning.pdf).
 
-[Biotropiska mysterier](https://helmgast.se/asset/download/aspekt-biotropi-sammanfattning.pdf).
+[Biotropiska mysterier](https://files.helmgast.se/eon/aspekt-biotropi-sammanfattning.pdf).
 
-[Geotropiska mysterier](https://helmgast.se/asset/download/aspekt-geotropi-sammanfattning.pdf).
+[Geotropiska mysterier](https://files.helmgast.se/eon/aspekt-geotropi-sammanfattning.pdf).
 
-[Heliotropiska mysterier](https://helmgast.se/asset/download/aspekt-heliotropi-sammanfattning.pdf).
+[Heliotropiska mysterier](https://files.helmgast.se/eon/aspekt-heliotropi-sammanfattning.pdf).
 
-[Kosmotropiska mysterier](https://helmgast.se/asset/download/aspekt-kosmotropi-sammanfattning.pdf).
+[Kosmotropiska mysterier](https://files.helmgast.se/eon/aspekt-kosmotropi-sammanfattning.pdf).
 
-[Nekrotropiska mysterier](https://helmgast.se/asset/download/aspekt-nekrotropi-sammanfattning.pdf).
+[Nekrotropiska mysterier](https://files.helmgast.se/eon/aspekt-nekrotropi-sammanfattning.pdf).
 
-[Pyrotropiska mysterier](https://helmgast.se/asset/download/aspekt-pyrotropi-sammanfattning.pdf).
+[Pyrotropiska mysterier](https://files.helmgast.se/eon/aspekt-pyrotropi-sammanfattning.pdf).
 
 Se även
 =======

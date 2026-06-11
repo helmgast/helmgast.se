@@ -28,7 +28,7 @@ Utöver grundboxen finns följande tillbehör att köpa till Hjältarnas tid. De
 
 **Sagor från Trollskogen **är en äventyrsantologi på 32 sidor, med tio spännande och varierade äventyrsplatser i en mystisk och uråldrig skog.
 
- * [Sagor från Trollskogen: stentavlan i Abyssos](http://helmgast.se/asset/link/hjalpmedel-stentavla.pdf)
+ * [Sagor från Trollskogen: stentavlan i Abyssos](https://files.helmgast.se/hjaltarnas-tid/hjalpmedel-stentavla.pdf)
 
 
 # Greve Kallarys Skatt
@@ -37,7 +37,7 @@ Utöver grundboxen finns följande tillbehör att köpa till Hjältarnas tid. De
 
 **Greve Kallarys Skatt** är ett äventyr på 36 sidor där rollpersonerna leds av ett gammalt brev ut i skärgården på jakt efter den ökände grevens skatt. I boken ingår också en beskrivning av Slingerkusten, nya besvärjelser, ny utrustning och fler odjur.
 
- * [Greve Kallarys Skatt: brev, tankenötter, kartor och illustrationer](https://helmgast.se/asset/link/hjalpmedel-kallary-a4.pdf)
+ * [Greve Kallarys Skatt: brev, tankenötter, kartor och illustrationer](https://files.helmgast.se/hjaltarnas-tid/hjalpmedel-kallary-a4.pdf)
 
 
 # Död Kvinnas Kista
@@ -46,7 +46,7 @@ Utöver grundboxen finns följande tillbehör att köpa till Hjältarnas tid. De
 
 **Död Kvinnas Kista** är ett äventyr på 40 sidor med pirater, skattkartor, spöken, förbannelser, vrak, djungelöar, tempel, vulkaner, dinosaurier, robotar och ninjor!
 
- * [Död Kvinnas Kista: kartor och monsterlista](https://helmgast.se/asset/link/hjalpmedel-dod-kvinnas-kista-20180325.pdf)
+ * [Död Kvinnas Kista: kartor och monsterlista](https://files.helmgast.se/hjaltarnas-tid/hjalpmedel-dod-kvinnas-kista-20180325.pdf)
 
 
 # Världsträdets grenar

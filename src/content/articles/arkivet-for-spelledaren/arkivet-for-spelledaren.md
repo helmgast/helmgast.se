@@ -14,7 +14,7 @@ license: ccby4
 editors:
   - Leon
 ---
-[](https://helmgast.se/asset/link/konvertering-ht-kh.pdf)Välkommen till Arkivet. Här publicerar vi digitala resurser specifikt för er som spelleder Kopparhavets hjältar.
+[](https://files.helmgast.se/kopparhavets-hjaltar/konvertering-ht-kh.pdf)Välkommen till Arkivet. Här publicerar vi digitala resurser specifikt för er som spelleder Kopparhavets hjältar.
 
 ![](./bord-1.png)
 
@@ -22,23 +22,23 @@ _Krönikörernas arkiv i Krilloan är Kopparhavets största ansamling av kunskap
 
 **Officiellt material**
 
-[Introduktion till Kopparhavet](https://helmgast.se/asset/link/kopparhavet-ks.pdf)
+[Introduktion till Kopparhavet](https://files.helmgast.se/kopparhavets-hjaltar/kopparhavet-ks.pdf)
 
-[Dimöns fasor](https://helmgast.se/asset/link/dimons-fasor.pdf)
+[Dimöns fasor](https://files.helmgast.se/kopparhavets-hjaltar/dimons-fasor.pdf)
 
-[Blod och damm](https://helmgast.se/asset/link/blod-och-damm.pdf)
+[Blod och damm](https://files.helmgast.se/kopparhavets-hjaltar/blod-och-damm.pdf)
 
-[Orm på kroken](https://helmgast.se/asset/link/orm-pa-kroken.pdf)
+[Orm på kroken](https://files.helmgast.se/kopparhavets-hjaltar/orm-pa-kroken.pdf)
 
-[Krilloan: Luftvarvet](https://helmgast.se/asset/link/luftvarvet.pdf)
+[Krilloan: Luftvarvet](https://files.helmgast.se/kopparhavets-hjaltar/luftvarvet.pdf)
 
-[Smörjmästarens vila](https://helmgast.se/asset/link/smorjmastarens-vila.pdf)
+[Smörjmästarens vila](https://files.helmgast.se/kopparhavets-hjaltar/smorjmastarens-vila.pdf)
 
 **Spelhjälpmedel**
 
-[Spelhjälpmedel - den Svarta ankan](https://helmgast.se/asset/link/hjalpmedel-den-svarta-ankan.pdf)
+[Spelhjälpmedel - den Svarta ankan](https://files.helmgast.se/kopparhavets-hjaltar/hjalpmedel-den-svarta-ankan.pdf)
 
-[Spelhjälpmedel - Krut i lasten](https://helmgast.se/asset/link/hjalpmedel-baals-brygga.pdf)
+[Spelhjälpmedel - Krut i lasten](https://files.helmgast.se/kopparhavets-hjaltar/hjalpmedel-baals-brygga.pdf)
 
 **Kartmaterial**
 
@@ -64,4 +64,4 @@ Kristoffer Warnberg har skapat stöd för den nya plattformen Role. Med stort ta
 
 **\- Konvertering HT - KH**
 
-Jens Karlsson har skapat stöd för konvertering mellan Hjältarnas Tid och Kopparhavets hjältar [genom en lathund.](https://helmgast.se/asset/link/kopparhavets-hjaltar-skillnader-fran-hjaltarnas-tid.pdf)
+Jens Karlsson har skapat stöd för konvertering mellan Hjältarnas Tid och Kopparhavets hjältar [genom en lathund.](https://files.helmgast.se/kopparhavets-hjaltar/kopparhavets-hjaltar-skillnader-fran-hjaltarnas-tid.pdf)

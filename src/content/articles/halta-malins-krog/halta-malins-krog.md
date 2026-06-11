@@ -16,4 +16,4 @@ language: sv
 ---
 Idag, på Talk Like A Pirate Day, bjuder vi in dig till Vredhamns värsta piratsylta, Halta Malins krog i stadens hamnkvarter. Har man tröttnat på groggransonen, skeppsskorpor och saltat fläsk så är mörktrollet Halta Malins krog ett bra ställe att bunkra upp på.
 
-[Halta Malins krog](https://helmgast.se/asset/download/halta-malins-krog-20180919b.pdf)
+[Halta Malins krog](https://files.helmgast.se/hjaltarnas-tid/halta-malins-krog-20180919b.pdf)
