@@ -1755,6 +1755,52 @@ img[src$="lthumb"], img[alt*="lthumb"] {
   left: -30px;
 }
 
+// Auto-gallery: any ul in article content where every li contains only an image
+.article-text ul:has(> li > img),
+.article-text ul:has(> li > p > img) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+  justify-content: flex-start;
+}
+
+.article-text ul:has(> li > img) li,
+.article-text ul:has(> li > p > img) li {
+  flex: 1 1 200px;
+  max-width: 320px;
+  margin: 0;
+}
+
+.article-text ul:has(> li > img) li img,
+.article-text ul:has(> li > p > img) li img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 3px;
+  display: block;
+}
+
+// Single image in a list — let it take full width instead of a tiny tile
+.article-text ul:has(> li:only-child > img),
+.article-text ul:has(> li:only-child > p > img) {
+  display: block;
+}
+
+.article-text ul:has(> li:only-child > img) li,
+.article-text ul:has(> li:only-child > p > img) li {
+  max-width: 100%;
+}
+
+.article-text ul:has(> li:only-child > img) li img,
+.article-text ul:has(> li:only-child > p > img) li img {
+  height: auto;
+  max-height: 500px;
+  width: auto;
+  max-width: 100%;
+}
+
 .gallery {
   list-style: none;
   width: 100%;

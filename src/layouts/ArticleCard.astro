@@ -2,7 +2,7 @@
 
 import { typeToIcon, typeToIconCharacter, langToFlag } from 'src/utils/helpers';
 import type { CollectionEntry } from 'astro:content';
-import { getImage } from "astro:assets";
+import { getBackgroundImage } from 'src/utils/images';
 
 interface Props {
 	article: CollectionEntry<'articles'>;
@@ -13,8 +13,8 @@ const backgroundImage = article.data.images?.[0];
 
 let bg = '';
 if (backgroundImage) {
-    const optimizedBackground = await getImage({src: backgroundImage, width: 516, height: 612, format: 'webp'})
-    bg = `background: url(${optimizedBackground.src}) center top/cover`;
+    const src = await getBackgroundImage(backgroundImage, article.id, 516, 612);
+    bg = `background: url(${src}) center top/cover`;
 }
 
 const href = `/${article.data.world}/${article.slug}`;

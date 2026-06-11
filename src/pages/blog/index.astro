@@ -1,0 +1,47 @@
+---
+import Site from '@layouts/Site.astro';
+import Header from '@layouts/Header.astro';
+import ArticleEntry from "@layouts/ArticleEntry.astro";
+
+import { latestBlogposts, entryToArticle } from 'src/utils/helpers';
+
+const pageSize = 5;
+const allPosts = (await latestBlogposts()).map(entryToArticle);
+const posts = allPosts.slice(0, pageSize);
+const hasNext = allPosts.length > pageSize;
+---
+
+<Site title="Blog">
+    <Header
+        title="Helmgast-bloggen"
+    />
+    <div class="container">
+        <div class="row">
+            <aside class="col-lg-2 col-md-12 col-sm-12 intro-aside margin-below">
+
+            <a class="socialtw" href="https://twitter.com/share?url=https://helmgast.se/meta/blog/" target="_blank">
+            <svg class="lore-icon lore-icon-twitter">
+                <use xlink:href="#lore-twitter"></use>
+            </svg>
+            </a>
+
+            <a class="socialfb" href="https://www.facebook.com/sharer.php?u=https://helmgast.se/meta/blog/" target="_blank">
+            <svg class="lore-icon lore-icon-facebook">
+                <use xlink:href="#lore-facebook2"></use>
+            </svg>
+            </a>
+
+            </aside>
+
+            <div class="col-lg-9 col-md-12 col-sm-12 content">
+                {posts.map(( {props} ) => <ArticleEntry article={props.article} />)}
+
+                <nav aria-label="...">
+                    <ul class="pager">
+                      {hasNext && <li class="next"><a href="/blog/page/2">Older <span aria-hidden="true">&rarr;</span></a></li>}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</Site>

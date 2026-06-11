@@ -1,20 +1,22 @@
 ---
-import { getImage } from "astro:assets";
+import { getBackgroundImage } from 'src/utils/images';
 
 interface Props {
     title?: string;
     backgroundImage?: string;
+    contentId?: string;
+    collection?: string;
     tagline?: string;
     classes?: string;
 }
 
-let { title, backgroundImage, tagline, classes } = Astro.props;
+let { title, backgroundImage, contentId = '', collection = 'articles', tagline, classes } = Astro.props;
 
 let bg = '';
 classes = "page-header margin-below-large " + classes;
 if (backgroundImage) {
-    const optimizedBackground = await getImage({src: backgroundImage, width: 2400, height: 600, format: 'webp'})
-    bg = `background-image: url(${optimizedBackground.src})`;
+    const src = await getBackgroundImage(backgroundImage, contentId, 2400, 600, collection);
+    bg = `background-image: url(${src})`;
     classes += " page-header-hero";
 }
 

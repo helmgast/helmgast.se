@@ -6,9 +6,10 @@ interface Props {
 	articles: CollectionEntry<'articles'>[];
     title: string;
     readMoreHref?: string;
+    readMoreText?: string;
 }
 
-const { title, articles, readMoreHref } = Astro.props;
+const { title, articles, readMoreHref, readMoreText = 'Read more' } = Astro.props;
 
 ---
 
@@ -19,5 +20,5 @@ const { title, articles, readMoreHref } = Astro.props;
     <div class="col-md-12 cards margin-above">
         {articles.map(article => <ArticleCard article={article} />)}
     </div>
-    <a href={readMoreHref} class="pull-right"> Read more</a>
+    {readMoreHref && <a href={readMoreHref} class="pull-right">{readMoreText}</a>}
 </div>

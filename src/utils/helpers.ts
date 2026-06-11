@@ -9,6 +9,13 @@ export const langToFlag = {
     "de": "🇩🇪",
 }
 
+export const langToName = {
+    "sv": "Svenska",
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+}
+
 export const worldSlugs = ["eon", "kult", "jarn", "ereb-altor", "hjaltarnas-tid", "kopparhavets-hjaltar", "neotech", "noir", "the-troubleshooters"];
 
 export const worldToTitle = {

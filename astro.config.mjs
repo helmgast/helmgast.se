@@ -8,9 +8,6 @@ export default defineConfig({
     image: {
         domains: ["helmgast.se"],
     },
-    redirects: {
-        "/blog": "/blog/page/1",
-    },
     markdown: {
         remarkPlugins: [exampleRemarkPlugin]
     },

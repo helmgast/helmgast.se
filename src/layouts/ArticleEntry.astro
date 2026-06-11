@@ -2,7 +2,7 @@
 
 import { worldToTitle, typeToIconCharacter, langToFlag } from 'src/utils/helpers';
 import type { CollectionEntry } from 'astro:content';
-import { getImage } from "astro:assets";
+import { getBackgroundImage } from 'src/utils/images';
 import PostExcerpt from '@layouts/PostExcerpt.astro';
 
 interface Props {
@@ -15,8 +15,8 @@ const backgroundImage = article.data.images?.[0];
 // Hacky but works to fill out the blog entry
 let bg = 'width: 100%; min-width: 80px; height: 100%; min-height: 120px;';
 if (backgroundImage) {
-    const optimizedBackground = await getImage({src: backgroundImage, width: 516, height: 612, format: 'webp'})
-    bg += `background: url(${optimizedBackground.src}) center top/cover`;
+    const src = await getBackgroundImage(backgroundImage, article.id, 516, 612);
+    if (src) bg += `background: url(${src}) center top/cover`;
 }
 const world = article.data.world || "meta";
 

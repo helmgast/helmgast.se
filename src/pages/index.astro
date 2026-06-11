@@ -4,6 +4,8 @@ import ArticleCardList from '../layouts/ArticleCardList.astro';
 import { SEO } from "astro-seo";
 
 import { getEntry, getCollection } from 'astro:content';
+import { getBackgroundImage } from 'src/utils/images';
+
 let latestNews = await getCollection('articles', ({ data}) => {
 	return data.status === 'published' && data.type === 'blogpost'
 });
@@ -18,6 +20,16 @@ const hjaltarnas = await getEntry('worlds', 'hjaltarnas-tid');
 const tbs = await getEntry('worlds', 'the-troubleshooters');
 const koppar = await getEntry('worlds', 'kopparhavets-hjaltar');
 const jarn = await getEntry('worlds', 'jarn');
+
+// Resolve and optimise world banner images
+const worldBg = Object.fromEntries(await Promise.all([
+	eon, neotech, kult, ereb, noir, hjaltarnas, tbs, koppar, jarn
+].map(async (w) => [
+	w!.id,
+	w!.data.landscape_image
+		? `background-image: url(${await getBackgroundImage(w!.data.landscape_image, w!.id, 2400, 600, 'worlds')})`
+		: ''
+])));
 
 ---
 
@@ -76,7 +88,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</div>
 	<a href={kult.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={`background-image: url(${kult.data.landscape_image})`}>
+				style={worldBg[kult!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ kult.data.title }
@@ -87,7 +99,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</a>
 	<a href={tbs.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={`background-image: url(${tbs.data.landscape_image})`}>
+				style={worldBg[tbs!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ tbs.data.title }
@@ -103,7 +115,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</div>
 	<a href={eon.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style=`background-image: url(${eon.data.landscape_image})`>
+				style={worldBg[eon!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ eon.data.title }
@@ -114,7 +126,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</a>
 	<a href={ereb.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={`background-image: url(${ereb.data.landscape_image})`}>
+				style={worldBg[ereb!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ ereb.data.title }
@@ -125,7 +137,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</a>
 	<a href={neotech.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={`background-image: url(${neotech.data.landscape_image})`}>
+				style={worldBg[neotech!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ neotech.data.title }
@@ -136,7 +148,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</a>
 	<a href={koppar.slug}>
 		<div class="page-header page-header-hero parallax-border page-header-hide-text"
-				style={`background-image: url(${koppar.data.landscape_image})`}>
+				style={worldBg[koppar!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ koppar.data.title }
@@ -147,7 +159,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</a>
 	<a href={hjaltarnas.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={`background-image: url(${hjaltarnas.data.landscape_image})`}>
+				style={worldBg[hjaltarnas!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ hjaltarnas.data.title }
@@ -158,7 +170,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</a>
 	<a href={jarn.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={`background-image: url(${jarn.data.landscape_image})`}>
+				style={worldBg[jarn!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ jarn.data.title }
@@ -169,7 +181,7 @@ const jarn = await getEntry('worlds', 'jarn');
 	</a>
 	<a href={noir.slug}>
 		<div class="page-header page-header-hero parallax-border"
-				style={`background-image: url(${noir.data.landscape_image})`}>
+				style={worldBg[noir!.id]}>
 			<div class="container">
 				<h1 class="col-lg-offset-2 col-lg-10 col-md-12 col-sm-12">
 					{ noir.data.title }

@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { typeToIcon, typeToTitle, worldToTitle } from 'src/utils/helpers';
+import { typeToIcon, typeToTitle, worldToTitle, langToFlag, langToName } from 'src/utils/helpers';
 
 interface Props {
 	article: CollectionEntry<'articles'>;
@@ -27,6 +27,10 @@ const { article } = Astro.props;
         </li>
         <li title="Created"><span class="glyphicon glyphicon-calendar"></span>
             <span class="imprint-info">{article.data.created_date.toISOString().slice(0,10)}</span>
+        </li>
+        <li title="Language">
+            <span class="glyphicon glyphicon-font"></span>
+            <span class="imprint-info">{langToFlag[article.data.language]} {langToName[article.data.language]}</span>
         </li>
         
         {article.data.tags && (

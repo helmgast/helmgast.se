@@ -14,9 +14,10 @@ const { Content } = await article.render();
 ---
 
 <Site title={article.data.title}>
-    <Header 
-        title={article.data.title} 
+    <Header
+        title={article.data.title}
         backgroundImage={article.data.images?.[0]}
+        contentId={article.id}
     />
     <div class="container">
         <div class="row">

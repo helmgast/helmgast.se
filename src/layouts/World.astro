@@ -14,9 +14,11 @@ const articles = await latestArticlesForWorld(world.slug, 6);
 ---
 
 <Site title={world.data.title}>
-    <Header 
-        title={world.data.title} 
+    <Header
+        title={world.data.title}
         backgroundImage={world.data.landscape_image}
+        contentId={world.id}
+        collection="worlds"
         tagline={world.data.tagline}
         classes={classes}
     />
@@ -27,10 +29,11 @@ const articles = await latestArticlesForWorld(world.slug, 6);
                 <article class="article-text drop-caps">
                     <Content />
                 </article>
-                <ArticleCardList 
+                <ArticleCardList
 				    articles={articles}
 				    title="Latest news"
 				    readMoreHref={`${world.slug}/articles`}
+				    readMoreText="See all articles"
 			    />
             </div>
         </div>
