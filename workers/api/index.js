@@ -21,12 +21,17 @@ export default {
     }
 
     let response;
-    if (url.pathname === '/health') {
-      response = json({ ok: true });
-    } else if (url.pathname === '/me' && request.method === 'GET') {
-      response = await handleMe(request, env);
-    } else {
-      response = json({ error: 'Not found' }, 404);
+    try {
+      if (url.pathname === '/health') {
+        response = json({ ok: true });
+      } else if (url.pathname === '/me' && request.method === 'GET') {
+        response = await handleMe(request, env);
+      } else {
+        response = json({ error: 'Not found' }, 404);
+      }
+    } catch (err) {
+      console.error('Unhandled error:', err?.message, err?.stack);
+      response = json({ error: 'Internal server error', detail: err?.message }, 500);
     }
 
     return corsResponse(request, response);
@@ -56,6 +61,9 @@ async function handleMe(request, env) {
   // For username/password logins Auth0 uses "auth0|..." — we label that "email"
   const connection = deriveConnection(payload);
 
+  // Email is added via Auth0 Action as a namespaced custom claim
+  const email = payload['https://helmgast.se/email'] ?? payload.email ?? null;
+
   let user = await findUserByIdentity(providerSub, provider, env);
 
   if (!user) {
@@ -63,9 +71,9 @@ async function handleMe(request, env) {
       providerSub,
       provider,
       connection,
-      email: payload.email,
-      displayName: payload.name,
-      pictureUrl: payload.picture,
+      email,
+      displayName: null,
+      pictureUrl: null,
     }, env);
   }
 

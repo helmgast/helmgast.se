@@ -24,7 +24,12 @@ export async function getAuth0Client(): Promise<Auth0Client> {
 export async function getAccessToken(): Promise<string | null> {
   const auth0 = await getAuth0Client();
   if (!(await auth0.isAuthenticated())) return null;
-  return auth0.getTokenSilently();
+  try {
+    return await auth0.getTokenSilently();
+  } catch {
+    // Token expired or refresh failed — treat as logged out
+    return null;
+  }
 }
 
 export async function apiFetch(path: string): Promise<Response> {
