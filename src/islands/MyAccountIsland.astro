@@ -17,7 +17,7 @@ const CONNECTION_LABEL: Record<string, string> = {
   facebook: 'Facebook',
 };
 
-(async () => {
+async function render() {
   const auth0 = await getAuth0Client();
 
   if (!(await auth0.isAuthenticated())) {
@@ -47,6 +47,7 @@ const CONNECTION_LABEL: Record<string, string> = {
   root.innerHTML = `
     <div class="row">
       <div class="col-md-8">
+
         <h3>Linked accounts</h3>
         <table class="table table-bordered">
           <thead>
@@ -59,9 +60,13 @@ const CONNECTION_LABEL: Record<string, string> = {
           </thead>
           <tbody>${identityRows}</tbody>
         </table>
+        <button id="link-account-btn" class="btn btn-default">
+          <span class="glyphicon glyphicon-plus"></span> Link another account
+        </button>
+        <span id="link-status" class="text-muted" style="margin-left: 12px"></span>
 
-        <h3>Contact email</h3>
-        <p class="text-muted">This is the email we use for order confirmations and newsletters.</p>
+        <h3 style="margin-top: 32px">Contact email</h3>
+        <p class="text-muted">Used for order confirmations and newsletters.</p>
         <div class="form-group">
           <input id="primary-email-input" type="email" class="form-control"
             value="${me.primary_email ?? ''}"
@@ -71,18 +76,61 @@ const CONNECTION_LABEL: Record<string, string> = {
         </div>
         <button id="save-email-btn" class="btn btn-primary">Save</button>
         <span id="save-email-status" class="text-muted" style="margin-left: 12px"></span>
+
+        <p class="text-muted" style="margin-top: 40px; font-size: 0.8em">
+          User ID: <code>${me.user_id}</code>
+        </p>
+
       </div>
     </div>`;
 
+  // Link another account
+  (document.getElementById('link-account-btn') as HTMLElement).addEventListener('click', async () => {
+    const status = document.getElementById('link-status') as HTMLElement;
+    status.textContent = 'Opening login…';
+    try {
+      await auth0.loginWithPopup({
+        authorizationParams: {
+          audience: (document.getElementById('my-account-root') as HTMLElement).dataset.audience,
+        }
+      });
+      const linkToken = await auth0.getTokenSilently({
+        authorizationParams: {
+          audience: (document.getElementById('my-account-root') as HTMLElement).dataset.audience,
+        },
+        cacheMode: 'off',
+      });
+      status.textContent = 'Linking…';
+      const res = await apiFetch('/me/link', {
+        method: 'POST',
+        body: JSON.stringify({ link_token: linkToken }),
+      });
+      if (res.ok) {
+        status.textContent = 'Linked! Refreshing…';
+        await render(); // re-render with updated identities
+      } else {
+        const err = await res.json();
+        status.textContent = `Failed: ${err.error}`;
+      }
+    } catch (err: any) {
+      status.textContent = err.message.includes('cancelled') ? 'Cancelled.' : `Error: ${err.message}`;
+    }
+  });
+
+  // Save contact email
   (document.getElementById('save-email-btn') as HTMLElement).addEventListener('click', async () => {
     const input = document.getElementById('primary-email-input') as HTMLInputElement;
     const status = document.getElementById('save-email-status') as HTMLElement;
     status.textContent = 'Saving…';
-    // TODO: PATCH /api/me with { primary_email }
-    await new Promise(r => setTimeout(r, 500));
-    status.textContent = 'Saved ✓';
+    const res = await apiFetch('/me', {
+      method: 'PATCH',
+      body: JSON.stringify({ primary_email: input.value }),
+    });
+    status.textContent = res.ok ? 'Saved ✓' : 'Failed to save.';
   });
-})().catch(err => {
+}
+
+render().catch(err => {
   root.innerHTML = `<p class="text-danger">Failed to load account: ${err.message}</p>`;
 });
 </script>

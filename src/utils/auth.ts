@@ -32,11 +32,14 @@ export async function getAccessToken(): Promise<string | null> {
   }
 }
 
-export async function apiFetch(path: string): Promise<Response> {
+export async function apiFetch(path: string, init: RequestInit = {}): Promise<Response> {
   const token = await getAccessToken();
-  return fetch(`${API_BASE}${path}`, {
-    headers: token ? { Authorization: `Bearer ${token}` } : {},
-  });
+  const headers: Record<string, string> = {
+    ...(token ? { Authorization: `Bearer ${token}` } : {}),
+    ...(init.body ? { 'Content-Type': 'application/json' } : {}),
+    ...(init.headers as Record<string, string> ?? {}),
+  };
+  return fetch(`${API_BASE}${path}`, { ...init, headers });
 }
 
 export type MeResponse = {

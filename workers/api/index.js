@@ -26,6 +26,10 @@ export default {
         response = json({ ok: true });
       } else if (url.pathname === '/me' && request.method === 'GET') {
         response = await handleMe(request, env);
+      } else if (url.pathname === '/me' && request.method === 'PATCH') {
+        response = await handleMePatch(request, env);
+      } else if (url.pathname === '/me/link' && request.method === 'POST') {
+        response = await handleMeLink(request, env);
       } else {
         response = json({ error: 'Not found' }, 404);
       }
@@ -100,6 +104,81 @@ async function handleMe(request, env) {
     entitlements,  // array of product slugs
     follows,       // [{ world_slug, notification }]
   });
+}
+
+// ---------------------------------------------------------------------------
+// PATCH /me — update primary_email
+// ---------------------------------------------------------------------------
+
+async function handleMePatch(request, env) {
+  const token = getBearerToken(request);
+  if (!token) return json({ error: 'Missing Authorization header' }, 401);
+  let payload;
+  try { payload = await verifyJwt(token, env); } catch (err) { return json({ error: `Invalid token: ${err.message}` }, 401); }
+
+  const body = await request.json();
+  const primaryEmail = body.primary_email ?? null;
+
+  const identity = await env.DB.prepare(
+    'SELECT user_id FROM user_identities WHERE provider = ? AND provider_sub = ?'
+  ).bind('auth0', payload.sub).first();
+  if (!identity) return json({ error: 'User not found' }, 404);
+
+  await env.DB.prepare(
+    'UPDATE users SET primary_email = ?, updated_at = ? WHERE id = ?'
+  ).bind(primaryEmail, new Date().toISOString(), identity.user_id).run();
+
+  return json({ ok: true });
+}
+
+// ---------------------------------------------------------------------------
+// POST /me/link — link another Auth0 identity to this user
+// ---------------------------------------------------------------------------
+
+async function handleMeLink(request, env) {
+  const token = getBearerToken(request);
+  if (!token) return json({ error: 'Missing Authorization header' }, 401);
+  let primaryPayload;
+  try { primaryPayload = await verifyJwt(token, env); } catch (err) { return json({ error: `Invalid token: ${err.message}` }, 401); }
+
+  const body = await request.json();
+  if (!body.link_token) return json({ error: 'Missing link_token' }, 400);
+
+  let linkPayload;
+  try { linkPayload = await verifyJwt(body.link_token, env); } catch (err) { return json({ error: `Invalid link_token: ${err.message}` }, 400); }
+
+  if (primaryPayload.sub === linkPayload.sub) return json({ error: 'Cannot link account to itself' }, 400);
+
+  // Find the primary user
+  const primaryIdentity = await env.DB.prepare(
+    'SELECT user_id FROM user_identities WHERE provider = ? AND provider_sub = ?'
+  ).bind('auth0', primaryPayload.sub).first();
+  if (!primaryIdentity) return json({ error: 'Primary user not found' }, 404);
+
+  const userId = primaryIdentity.user_id;
+
+  // Check if link target is already linked to a different user
+  const existing = await env.DB.prepare(
+    'SELECT user_id FROM user_identities WHERE provider = ? AND provider_sub = ?'
+  ).bind('auth0', linkPayload.sub).first();
+
+  if (existing) {
+    if (existing.user_id === userId) return json({ error: 'Already linked to this account' }, 400);
+    // Merge: move all identities from the other user to this one, then delete it
+    await env.DB.batch([
+      env.DB.prepare('UPDATE user_identities SET user_id = ? WHERE user_id = ?').bind(userId, existing.user_id),
+      env.DB.prepare('UPDATE user_game_follows SET user_id = ? WHERE user_id = ?').bind(userId, existing.user_id),
+      env.DB.prepare('DELETE FROM users WHERE id = ?').bind(existing.user_id),
+    ]);
+  } else {
+    // New identity — insert it
+    const email = linkPayload['https://helmgast.se/email'] ?? linkPayload.email ?? null;
+    await env.DB.prepare(
+      'INSERT INTO user_identities (id, user_id, provider, provider_sub, connection, email, display_name, picture_url, linked_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)'
+    ).bind(nanoid(), userId, 'auth0', linkPayload.sub, deriveConnection(linkPayload), email, null, null, new Date().toISOString()).run();
+  }
+
+  return json({ ok: true });
 }
 
 // ---------------------------------------------------------------------------
@@ -262,7 +341,7 @@ function corsResponse(request, response) {
   const allowed = CORS_ORIGINS.includes(origin) ? origin : CORS_ORIGINS[0];
   const headers = new Headers(response.headers);
   headers.set('Access-Control-Allow-Origin', allowed);
-  headers.set('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  headers.set('Access-Control-Allow-Methods', 'GET, POST, PATCH, OPTIONS');
   headers.set('Access-Control-Allow-Headers', 'Authorization, Content-Type');
   return new Response(response.body, { status: response.status, headers });
 }
