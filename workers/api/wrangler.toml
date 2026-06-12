@@ -1,0 +1,23 @@
+name = "helmgast-api"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+routes = [
+  { pattern = "api.helmgast.se/*", zone_name = "helmgast.se" }
+]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "helmgast-users"
+database_id = "514a8694-c3c7-4b30-9e92-27fc971eed12"
+
+[[kv_namespaces]]
+binding = "ENTITLEMENTS"
+id = "a41cb9ce982d4f63affd581715067912"
+
+[vars]
+AUTH0_DOMAIN = "helmgast.eu.auth0.com"
+AUTH0_AUDIENCE = "https://api.helmgast.se"
+
+# Secrets (set via: wrangler secret put AUTH0_JWKS_CACHE_KEY)
+# No secrets needed — JWKS is fetched from Auth0's public endpoint

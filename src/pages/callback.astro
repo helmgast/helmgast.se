@@ -1,0 +1,19 @@
+---
+import Site from '@layouts/Site.astro';
+---
+<Site title="Logging in…">
+    <div style="text-align:center;padding-top:120px">
+        <p>Logging in, please wait…</p>
+    </div>
+    <script>
+        // AuthIsland (loaded via Nav) handles the ?code= exchange.
+        // After it completes it strips the query string and stays on this page,
+        // so we redirect to home once the hash/search is cleared.
+        const check = setInterval(() => {
+            if (!window.location.search.includes('code=')) {
+                clearInterval(check);
+                window.location.replace('/');
+            }
+        }, 200);
+    </script>
+</Site>

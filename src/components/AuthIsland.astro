@@ -1,0 +1,115 @@
+---
+const AUTH0_DOMAIN = import.meta.env.PUBLIC_AUTH0_DOMAIN;
+const AUTH0_CLIENT_ID = import.meta.env.PUBLIC_AUTH0_CLIENT_ID;
+const AUTH0_AUDIENCE = import.meta.env.PUBLIC_AUTH0_AUDIENCE;
+const API_BASE = import.meta.env.PUBLIC_API_BASE ?? 'https://api.helmgast.se';
+---
+
+<li id="auth-nav-item"
+    data-domain={AUTH0_DOMAIN}
+    data-client-id={AUTH0_CLIENT_ID}
+    data-audience={AUTH0_AUDIENCE}
+    data-api-base={API_BASE}
+>
+    <!-- Static placeholder shown before JS loads -->
+    <a href="#" id="auth-login-btn">
+        <span class="glyphicon glyphicon-user"></span> Login
+    </a>
+</li>
+
+<script>
+import { createAuth0Client } from '@auth0/auth0-spa-js';
+
+(async () => {
+    const el = document.getElementById('auth-nav-item');
+    const AUTH0_DOMAIN = el.dataset.domain;
+    const AUTH0_CLIENT_ID = el.dataset.clientId;
+    const AUTH0_AUDIENCE = el.dataset.audience;
+    const API_BASE = el.dataset.apiBase;
+
+    {
+    let auth0 = null;
+
+    async function init() {
+        auth0 = await createAuth0Client({
+            domain: AUTH0_DOMAIN,
+            clientId: AUTH0_CLIENT_ID,
+            authorizationParams: {
+                audience: AUTH0_AUDIENCE,
+                redirect_uri: window.location.origin + '/callback',
+            },
+            cacheLocation: 'localstorage',
+        });
+
+        // Handle redirect callback
+        if (
+            window.location.search.includes('code=') &&
+            window.location.search.includes('state=')
+        ) {
+            await auth0.handleRedirectCallback();
+            window.history.replaceState({}, document.title, window.location.pathname);
+        }
+
+        const isAuthenticated = await auth0.isAuthenticated();
+        if (isAuthenticated) {
+            await renderLoggedIn();
+        } else {
+            renderLoggedOut();
+        }
+    }
+
+    function renderLoggedOut() {
+        const item = document.getElementById('auth-nav-item');
+        item.innerHTML = `
+            <a href="#" id="auth-login-btn">
+                <span class="glyphicon glyphicon-log-in"></span> Login
+            </a>`;
+        document.getElementById('auth-login-btn').addEventListener('click', async (e) => {
+            e.preventDefault();
+            await auth0.loginWithRedirect();
+        });
+    }
+
+    async function renderLoggedIn() {
+        const user = await auth0.getUser();
+        const item = document.getElementById('auth-nav-item');
+        item.classList.add('dropdown');
+        item.innerHTML = `
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                ${user.picture
+                    ? `<img src="${user.picture}" class="auth-avatar" alt="${user.name}">`
+                    : `<span class="glyphicon glyphicon-user"></span>`
+                }
+                My page <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-right">
+                <li class="dropdown-header">${user.email}</li>
+                <li><a href="/my-page">
+                    <span class="glyphicon glyphicon-download-alt"></span> My downloads
+                </a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#" id="auth-logout-btn">
+                    <span class="glyphicon glyphicon-log-out"></span> Log out
+                </a></li>
+            </ul>`;
+
+        document.getElementById('auth-logout-btn').addEventListener('click', async (e) => {
+            e.preventDefault();
+            await auth0.logout({ logoutParams: { returnTo: window.location.origin } });
+        });
+    }
+
+    await init();
+    }
+})().catch(console.error);
+</script>
+
+<style>
+.auth-avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 4px;
+}
+</style>
