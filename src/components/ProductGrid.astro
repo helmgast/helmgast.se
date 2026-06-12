@@ -1,0 +1,136 @@
+---
+// Reusable product grid, used by /products (static) and MyLibraryIsland (client-side).
+// `products` is an array of plain objects matching the shape of products.json
+
+interface Product {
+  slug: string;
+  title: string;
+  type: string;
+  status: string;
+  world?: string | null;
+  product_number?: string | null;
+  publish_date?: string | null;
+  created_date?: string | null;
+  cover_image?: string | null;
+}
+
+interface Props {
+  products: Product[];
+  groupByWorld?: boolean;
+}
+
+const { products, groupByWorld = true } = Astro.props;
+
+const worldOrder = ['eon', 'neotech', 'kult', 'hjaltarnas-tid', 'jarn', 'kopparhavets-hjaltar', 'the-troubleshooters', 'ereb-altor', 'noir'];
+
+const statusLabel: Record<string, string> = {
+  pre_order: 'Pre-order',
+  available: 'Available',
+  ready_for_download: 'Download',
+  out_of_stock: 'Out of print',
+  hidden: 'Hidden',
+};
+
+const statusBadge: Record<string, string> = {
+  pre_order: 'label-warning',
+  available: 'label-success',
+  ready_for_download: 'label-info',
+  out_of_stock: 'label-default',
+};
+
+function sortProducts(list: Product[]) {
+  return [...list].sort((a, b) => {
+    const dateA = a.publish_date ?? a.created_date ?? '';
+    const dateB = b.publish_date ?? b.created_date ?? '';
+    return dateB.localeCompare(dateA);
+  });
+}
+
+let groups: { key: string; items: Product[] }[];
+
+if (groupByWorld) {
+  const byWorld: Record<string, Product[]> = {};
+  for (const p of products) {
+    const key = p.world ?? 'other';
+    if (!byWorld[key]) byWorld[key] = [];
+    byWorld[key].push(p);
+  }
+  const worldKeys = [
+    ...worldOrder.filter(w => byWorld[w]),
+    ...Object.keys(byWorld).filter(w => !worldOrder.includes(w)).sort(),
+  ];
+  groups = worldKeys.map(key => ({ key, items: sortProducts(byWorld[key]) }));
+} else {
+  groups = [{ key: '', items: sortProducts(products) }];
+}
+---
+
+{groups.map(({ key, items }) => (
+  <section class="margin-below">
+    {key && <h2 class="text-capitalize">{key.replace(/-/g, ' ')}</h2>}
+    <div class="row cards">
+      {items.map(product => {
+        const badge = statusBadge[product.status] ?? 'label-default';
+        return (
+          <div class="col-product card-item">
+            <a href={`/products/${product.slug}`} class="card-link">
+              <div class="thumbnail">
+                {product.cover_image
+                  ? <img src={product.cover_image} alt={product.title} loading="lazy" />
+                  : <div class="no-cover"><span class="glyphicon glyphicon-book"></span></div>
+                }
+                <div class="caption">
+                  <p class="card-title"><strong>{product.title}</strong></p>
+                  <p>
+                    <span class={`label ${badge}`}>{statusLabel[product.status] ?? product.status}</span>
+                    {' '}<span class="label label-default">{product.type}</span>
+                  </p>
+                  {product.product_number && (
+                    <p><small class="text-muted">{product.product_number}</small></p>
+                  )}
+                </div>
+              </div>
+            </a>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+))}
+
+<style>
+.row.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.col-product {
+  width: 20%;
+  padding: 0 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+@media (max-width: 1199px) { .col-product { width: 25%; } }
+@media (max-width: 991px)  { .col-product { width: 33.333%; } }
+@media (max-width: 767px)  { .col-product { width: 50%; } }
+.card-link { color: inherit; text-decoration: none; display: flex; height: 100%; }
+.card-link:hover { text-decoration: none; }
+.card-link:hover .thumbnail { border-color: #999; }
+.thumbnail {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+.thumbnail img { width: 100%; aspect-ratio: 340/495; object-fit: cover; flex-shrink: 0; }
+.no-cover {
+  width: 100%; aspect-ratio: 340/495;
+  background: #eee; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 2em; color: #aaa;
+}
+.caption { padding: 8px; flex: 1; display: flex; flex-direction: column; }
+.card-title { font-size: 0.85em; margin-bottom: 4px; line-height: 1.3; flex: 1; }
+</style>

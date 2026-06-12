@@ -1,0 +1,88 @@
+---
+// Renders client-side only — shows linked identities and preferences
+---
+<div id="my-account-root">
+  <p class="text-muted">Loading…</p>
+</div>
+
+<script>
+import { getAuth0Client, apiFetch, type MeResponse } from '../utils/auth';
+
+const root = document.getElementById('my-account-root') as HTMLElement;
+
+const CONNECTION_LABEL: Record<string, string> = {
+  email: 'Email / Password',
+  'google-oauth2': 'Google',
+  github: 'GitHub',
+  facebook: 'Facebook',
+};
+
+(async () => {
+  const auth0 = await getAuth0Client();
+
+  if (!(await auth0.isAuthenticated())) {
+    root.innerHTML = `
+      <div class="text-center" style="padding: 60px 0">
+        <p class="lead">You need to be logged in to view your account.</p>
+        <button id="acc-login-btn" class="btn btn-primary btn-lg">Log in</button>
+      </div>`;
+    (document.getElementById('acc-login-btn') as HTMLElement).addEventListener('click', () =>
+      auth0.loginWithRedirect()
+    );
+    return;
+  }
+
+  const res = await apiFetch('/me');
+  const me: MeResponse = await res.json();
+
+  const identityRows = me.identities.map(id => `
+    <tr>
+      <td>${id.email ?? '—'}</td>
+      <td>${CONNECTION_LABEL[id.connection] ?? id.connection}</td>
+      <td>${id.provider}</td>
+      <td><small class="text-muted">${id.linked_at.slice(0, 10)}</small></td>
+    </tr>
+  `).join('');
+
+  root.innerHTML = `
+    <div class="row">
+      <div class="col-md-8">
+        <h3>Linked accounts</h3>
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th>Email</th>
+              <th>Method</th>
+              <th>Provider</th>
+              <th>Linked</th>
+            </tr>
+          </thead>
+          <tbody>${identityRows}</tbody>
+        </table>
+
+        <h3>Contact email</h3>
+        <p class="text-muted">This is the email we use for order confirmations and newsletters.</p>
+        <div class="form-group">
+          <input id="primary-email-input" type="email" class="form-control"
+            value="${me.primary_email ?? ''}"
+            placeholder="your@email.com"
+            style="max-width: 360px"
+          >
+        </div>
+        <button id="save-email-btn" class="btn btn-primary">Save</button>
+        <span id="save-email-status" class="text-muted" style="margin-left: 12px"></span>
+      </div>
+    </div>`;
+
+  (document.getElementById('save-email-btn') as HTMLElement).addEventListener('click', async () => {
+    const input = document.getElementById('primary-email-input') as HTMLInputElement;
+    const status = document.getElementById('save-email-status') as HTMLElement;
+    status.textContent = 'Saving…';
+    // TODO: PATCH /api/me with { primary_email }
+    await new Promise(r => setTimeout(r, 500));
+    status.textContent = 'Saved ✓';
+  });
+})().catch(err => {
+  root.innerHTML = `<p class="text-danger">Failed to load account: ${err.message}</p>`;
+});
+</script>

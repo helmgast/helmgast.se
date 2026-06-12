@@ -1,0 +1,103 @@
+---
+// Renders client-side only — fetches entitlements then filters products.json
+---
+<div id="my-library-root">
+  <p class="text-muted">Loading…</p>
+</div>
+
+<script>
+import { getAuth0Client, apiFetch, type MeResponse } from '../utils/auth';
+
+const root = document.getElementById('my-library-root') as HTMLElement;
+
+(async () => {
+  const auth0 = await getAuth0Client();
+
+  if (!(await auth0.isAuthenticated())) {
+    root.innerHTML = `
+      <div class="text-center" style="padding: 60px 0">
+        <p class="lead">You need to be logged in to see your library.</p>
+        <button id="lib-login-btn" class="btn btn-primary btn-lg">Log in</button>
+      </div>`;
+    (document.getElementById('lib-login-btn') as HTMLElement).addEventListener('click', () =>
+      auth0.loginWithRedirect()
+    );
+    return;
+  }
+
+  // Fetch entitlements and product catalog in parallel
+  const [meRes, catalogRes] = await Promise.all([
+    apiFetch('/me'),
+    fetch('/products.json'),
+  ]);
+
+  const me: MeResponse = await meRes.json();
+  const catalog: any[] = await catalogRes.json();
+
+  const entitlementSet = new Set(me.entitlements);
+  const owned = catalog.filter(p => entitlementSet.has(p.slug));
+
+  if (owned.length === 0) {
+    root.innerHTML = `
+      <div class="text-center" style="padding: 60px 0">
+        <p class="lead">Your library is empty.</p>
+        <p class="text-muted">Products you've purchased will appear here.</p>
+        <a href="/products" class="btn btn-default">Browse products</a>
+      </div>`;
+    return;
+  }
+
+  // Render product cards using the same markup as ProductGrid
+  // (We duplicate the card HTML here since we're in a script context)
+  const statusLabel: Record<string, string> = {
+    pre_order: 'Pre-order', available: 'Available',
+    ready_for_download: 'Download', out_of_stock: 'Out of print',
+  };
+  const statusBadge: Record<string, string> = {
+    pre_order: 'label-warning', available: 'label-success',
+    ready_for_download: 'label-info', out_of_stock: 'label-default',
+  };
+
+  const worldOrder = ['eon','neotech','kult','hjaltarnas-tid','jarn','kopparhavets-hjaltar','the-troubleshooters','ereb-altor','noir'];
+  const byWorld: Record<string, any[]> = {};
+  for (const p of owned) {
+    const key = p.world ?? 'other';
+    if (!byWorld[key]) byWorld[key] = [];
+    byWorld[key].push(p);
+  }
+  const worldKeys = [
+    ...worldOrder.filter(w => byWorld[w]),
+    ...Object.keys(byWorld).filter(w => !worldOrder.includes(w)).sort(),
+  ];
+
+  root.innerHTML = worldKeys.map(key => `
+    <section class="margin-below">
+      <h2 class="text-capitalize">${key.replace(/-/g, ' ')}</h2>
+      <div class="row cards">
+        ${byWorld[key].map(p => `
+          <div class="col-product card-item">
+            <a href="/products/${p.slug}" class="card-link">
+              <div class="thumbnail">
+                ${p.cover_image
+                  ? `<img src="${p.cover_image}" alt="${p.title}" loading="lazy">`
+                  : `<div class="no-cover"><span class="glyphicon glyphicon-book"></span></div>`
+                }
+                <div class="caption">
+                  <p class="card-title"><strong>${p.title}</strong></p>
+                  <p>
+                    <span class="label ${statusBadge[p.status] ?? 'label-default'}">${statusLabel[p.status] ?? p.status}</span>
+                    <span class="label label-default">${p.type}</span>
+                  </p>
+                  ${p.product_number ? `<p><small class="text-muted">${p.product_number}</small></p>` : ''}
+                </div>
+              </div>
+            </a>
+          </div>
+        `).join('')}
+      </div>
+    </section>
+  `).join('');
+})().catch(err => {
+  root.innerHTML = `<p class="text-danger">Failed to load library: ${err.message}</p>`;
+});
+</script>

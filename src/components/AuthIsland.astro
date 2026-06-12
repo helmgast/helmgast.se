@@ -68,18 +68,23 @@ async function renderLoggedIn(auth0: Auth0Client) {
     const user = await auth0.getUser();
     const item = document.getElementById('auth-nav-item') as HTMLElement;
     item.classList.add('dropdown');
+    const email = user?.email ?? '';
     item.innerHTML = `
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            ${user?.picture
-                ? `<img src="${user.picture}" class="auth-avatar" alt="${user.name ?? ''}">`
-                : `<span class="glyphicon glyphicon-user"></span>`
-            }
-            My page <span class="caret"></span>
+            <span class="glyphicon glyphicon-user"></span>
+            <span class="auth-email">${email}</span>
+            <span class="caret"></span>
         </a>
         <ul class="dropdown-menu dropdown-menu-right">
-            <li class="dropdown-header">${user?.email ?? ''}</li>
-            <li><a href="/my-page">
-                <span class="glyphicon glyphicon-download-alt"></span> My downloads
+            <li class="dropdown-header">${email}</li>
+            <li><a href="/my-library">
+                <span class="glyphicon glyphicon-book"></span> My library
+            </a></li>
+            <li><a href="/my-orders">
+                <span class="glyphicon glyphicon-shopping-cart"></span> My orders
+            </a></li>
+            <li><a href="/my-account">
+                <span class="glyphicon glyphicon-cog"></span> My account
             </a></li>
             <li role="separator" class="divider"></li>
             <li><a href="#" id="auth-logout-btn">
@@ -95,11 +100,14 @@ async function renderLoggedIn(auth0: Auth0Client) {
 </script>
 
 <style>
-.auth-avatar {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
+.auth-email {
+    display: inline-block;
+    max-width: 160px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
     vertical-align: middle;
-    margin-right: 4px;
+    color: #aaa;
+    font-size: 0.9em;
 }
 </style>

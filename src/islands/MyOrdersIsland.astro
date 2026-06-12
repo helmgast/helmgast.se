@@ -1,0 +1,40 @@
+---
+// Renders client-side only — fetches orders from API
+---
+<div id="my-orders-root">
+  <p class="text-muted">Loading…</p>
+</div>
+
+<script>
+import { getAuth0Client, apiFetch } from '../utils/auth';
+
+const root = document.getElementById('my-orders-root') as HTMLElement;
+
+(async () => {
+  const auth0 = await getAuth0Client();
+
+  if (!(await auth0.isAuthenticated())) {
+    root.innerHTML = `
+      <div class="text-center" style="padding: 60px 0">
+        <p class="lead">You need to be logged in to view your orders.</p>
+        <button id="ord-login-btn" class="btn btn-primary btn-lg">Log in</button>
+      </div>`;
+    (document.getElementById('ord-login-btn') as HTMLElement).addEventListener('click', () =>
+      auth0.loginWithRedirect()
+    );
+    return;
+  }
+
+  // TODO: implement /api/orders endpoint
+  // const res = await apiFetch('/orders');
+  // const orders = await res.json();
+
+  // Placeholder until API is implemented
+  root.innerHTML = `
+    <div class="text-center" style="padding: 60px 0">
+      <p class="lead text-muted">Order history coming soon.</p>
+    </div>`;
+})().catch(err => {
+  root.innerHTML = `<p class="text-danger">Failed to load orders: ${err.message}</p>`;
+});
+</script>

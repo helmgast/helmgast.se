@@ -1,0 +1,56 @@
+---
+// Individual order — ID passed via ?id=<orderId> query param
+// Linked to from /my-orders as /my-orders/detail?id=<orderId>
+import Site from '@layouts/Site.astro';
+---
+<Site title="Order — Helmgast">
+  <div class="page-header">
+    <div class="container">
+      <h1 id="order-title">Order</h1>
+    </div>
+  </div>
+  <div class="container content">
+    <div id="order-detail-root">
+      <p class="text-muted">Loading…</p>
+    </div>
+  </div>
+</Site>
+
+<script>
+import { getAuth0Client, apiFetch } from '../../utils/auth';
+
+const root = document.getElementById('order-detail-root') as HTMLElement;
+const orderId = new URLSearchParams(window.location.search).get('id');
+
+if (orderId) {
+  (document.getElementById('order-title') as HTMLElement).textContent = `Order #${orderId}`;
+}
+
+(async () => {
+  const auth0 = await getAuth0Client();
+
+  if (!(await auth0.isAuthenticated())) {
+    root.innerHTML = `
+      <div class="text-center" style="padding: 60px 0">
+        <p class="lead">You need to be logged in to view this order.</p>
+        <button id="ord-login-btn" class="btn btn-primary btn-lg">Log in</button>
+      </div>`;
+    (document.getElementById('ord-login-btn') as HTMLElement).addEventListener('click', () =>
+      auth0.loginWithRedirect()
+    );
+    return;
+  }
+
+  if (!orderId) {
+    root.innerHTML = `<p class="text-danger">No order ID specified.</p>`;
+    return;
+  }
+
+  // TODO: implement /api/orders/:id endpoint
+  root.innerHTML = `
+    <p class="text-muted">Details for order <strong>#${orderId}</strong> coming soon.</p>
+    <a href="/my-orders" class="btn btn-default">← Back to orders</a>`;
+})().catch(err => {
+  root.innerHTML = `<p class="text-danger">Failed to load order: ${err.message}</p>`;
+});
+</script>
