@@ -1,0 +1,27 @@
+product_number: EON-074D
+title: 'Ingenmansland, PDF '
+description: |-
+  Detta är PDF:en av Ingenmansland, ett mysterieäventyr som utspelar sig i
+  träskmarkerna i de sydvästra del­arna av hertigdömet Krylomar i
+  storfursten­dömet Damarien.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2022-04-03'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 5.9
+  - currency: sek
+    price: 59
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/ingenmansland-pdf.html
+cover_image: https://cdn.abicart.com/shop/images/190194815-origpic-af8609/ws51/49251/art51/h4815/mockup-ingenmansland_pdf.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4815/190194815-origpic-344c65.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4815/190194815-origpic-dea416.jpg
+downloads:
+  - label: ingenmansland.pdf
+    url: https://drive.google.com/file/d/1lhcUB5bLROnULWkU3deKi-Sfb4vh6itf/view?usp=sharing

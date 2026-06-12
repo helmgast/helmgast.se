@@ -1,0 +1,20 @@
+product_number: EON-356D
+title: Kompendium Mundanas stjärnhimmel (PDF)
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-11-01'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 3.9
+  - currency: sek
+    price: 39
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/kompendium-mundanas-stjarnhimmel-pdf.html
+cover_image: https://cdn.abicart.com/shop/images/186183255-origpic-1426b1/ws51/49251/art51/h3255/stjarnhimlen.png
+downloads:
+  - label: kompendium_stjarnkarta.pdf
+    url: https://drive.google.com/uc?export=view&id=11vYZHcWm01J7QtkciyMNmn9n-XrMKaCa

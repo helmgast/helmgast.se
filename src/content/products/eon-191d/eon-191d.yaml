@@ -1,0 +1,29 @@
+product_number: EON-191D
+title: Ur stoft och sot [PDF]
+description: |-
+  Ur stoft och sot är den femte och avslutande delen av Sylfens vrede.
+  Rollpersonerna kommer färdas i både tid och rum för att förstå och även
+  påverka de skeenden som orsakat Sylfens vrede.  
+  236 sidor.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-05-27'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 13
+  - currency: sek
+    price: 139
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/ur-stoft-och-sot-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1185/183991185-origpic-e3a0a7.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1185/183991185-origpic-cce126.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1185/183991185-origpic-6a70b7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1185/183991185-origpic-1ca8c9.jpg
+downloads:
+  - label: sylfens_vrede_ur_stoft_och_sot.pdf
+    url: https://drive.google.com/uc?export=view&id=10ez-JF4Lve4Cjsiy4PF53eWp7VeoES2-

@@ -1,0 +1,90 @@
+product_number: EON-711D
+title: Codex Mundana (PDF)
+description: |-
+  En samling med 18 olika artiklar (totalt 280 sidor) som tidigare gått under
+  namnet Codex Mundana eller Spelpaketsboken
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-08-09'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 14.9
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/codex-mundana-pdf.html
+cover_image: https://cdn.abicart.com/shop/images/184727787-origpic-73e51c/ws51/49251/art51/h7787/Omslag_liten_pdf.jpg
+images:
+  - https://cdn.abicart.com/shop/images/184727787-origpic-cd9391/ws51/49251/art51/h7787/hundar.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-6776ea/ws51/49251/art51/h7787/panthera.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-04feca/ws51/49251/art51/h7787/srgp_astara.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-cb346f/ws51/49251/art51/h7787/srgp_blodskulterna.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-159255/ws51/49251/art51/h7787/srgp_cermira.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-a7bbb5/ws51/49251/art51/h7787/srgp_coluimnes_resa.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-4e089c/ws51/49251/art51/h7787/srgp_kinanean_oro.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-e32c28/ws51/49251/art51/h7787/srgp_mithera.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-ed784f/ws51/49251/art51/h7787/srgp_nermada_print.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-fa0ca4/ws51/49251/art51/h7787/srgp_skugglandet.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-8f5207/ws51/49251/art51/h7787/srgp_tarkas.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-1820cd/ws51/49251/art51/h7787/srgp_tauperna.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-819eae/ws51/49251/art51/h7787/srgp_trollbane.jpg
+  - https://cdn.abicart.com/shop/images/184727787-origpic-013264/ws51/49251/art51/h7787/srgp_zhirim_mian.jpg
+downloads:
+  - label: stadsmodul-zhirim-mian.pdf
+    url: https://helmgast.se/asset/download/stadsmodul-zhirim-mian.pdf
+    description: 12 sidor om staden Zhirim Mian i södra Melorion
+  - label: kampanjmaterial-utmark.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-utmark.pdf
+    description: 14 sidor om Utmark norr om Drunok. Inkluderar folkslaget Utmarkare.
+  - label: landsmodul-cermira.pdf
+    url: https://helmgast.se/asset/download/landsmodul-cermira.pdf
+    description: 20 sidor om landet Cermira norr om Asharien
+  - label: kampanjmaterial-trollbane.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-trollbane.pdf
+    description: 16 sidor om äventyrsplatsen Baroniet Trollbane i Soldarn
+  - label: varelsemodul-vilddjur-och-styggelser.pdf
+    url: https://helmgast.se/asset/download/varelsemodul-vilddjur-och-styggelser.pdf
+    description: 20 sidor med monster och varelser
+  - label: landsmodul-nermada.pdf
+    url: https://helmgast.se/asset/download/landsmodul-nermada.pdf
+    description: 36 sidor om landet Nermada söder om Thalamur. Inkluderar folkslaget Nermadier samt en bakgrundstabell.
+  - label: kampanjmaterial-tarkas.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-tarkas.pdf
+    description: 16 sidor om Tarkas. Inkluderar magistormstabell och folkslaget Östzhaner
+  - label: kampanjmaterial-blodskulterna.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-blodskulterna.pdf
+    description: 22 sidor om nio olika blodskulter i Jargien
+  - label: varelsemodul-manniskans-basta-van.pdf
+    url: https://helmgast.se/asset/download/varelsemodul-manniskans-basta-van.pdf
+    description: 8 sidor om hundar och träning
+  - label: kampanjmaterial-skymningsvagen.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-skymningsvagen.pdf
+    description: 12 sidor om äventyrsplatsen Skymningsvägen mellan Jargien och Damarien
+  - label: stadsmodul-astara.pdf
+    url: https://helmgast.se/asset/download/stadsmodul-astara.pdf
+    description: 20 sidor landet Lalasta och dess huvudstad Astara. Inkluderar en ryktestabell och folkslaget Lalaster.
+  - label: kampanjmaterial-mitheraskogen.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-mitheraskogen.pdf
+    description: 8 sidor om äventyrsplatsen Mithera norr om Asharien
+  - label: kampanjmaterial-lashorakh.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-lashorakh.pdf
+    description: 6 sidor om äventyrsplatsen Lashorakh norr om Thalamur
+  - label: kampanjmaterial-kinanean-oro.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-kinanean-oro.pdf
+    description: 8 sidor om alvboningen Kinané’an oro i Thalamur. Inkluderar folkslaget Sanari (specifika för Kinané’an oro).
+  - label: kampanjmaterial-skugglandet.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-skugglandet.pdf
+    description: 20 sidor om Skugglandet, halvblod, äventyrsplatser, Dimmornas hav och Pärlemorhovet
+  - label: kampanjmaterial-tauperna.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-tauperna.pdf
+    description: 16 sidor om folkslaget Tauperna. Inkluderar även "De 77 odödliga" – en förfaderstabell för tauper.
+  - label: berattelse-coluimnes-resa.pdf
+    url: https://helmgast.se/asset/download/berattelse-coluimnes-resa.pdf
+    description: 20 sidor som berättar om en resa genom Stora arkipelagen
+  - label: berattelse-underjorden.pdf
+    url: https://helmgast.se/asset/download/berattelse-underjorden.pdf
+    description: 6 sidor som berättar om en resa ner i Underjorden

@@ -1,0 +1,28 @@
+product_number: EON-501
+title: Eon V – Rollpersonen
+description: |-
+  Rollpersonen innehåller som titeln antyder allt som behövs för att göra en
+  färgstark rollperson. Boken innehåller följande fjorton kapitel: Rollpersonen,
+  Hemland, Bakgrund, Folkslag, Religion, Arketyper & miljöer, Händelsetabeller,
+  Attribut, Färdigheter, Språk & kontakter, Karaktärsdrag, Namn, Utrustning samt
+  Mystik & magi.  
+    
+  Pdf ingår.
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: available
+created_date: '2025-07-24'
+updated_date: '2026-06-04'
+prices:
+  - currency: eur
+    price: 39
+  - currency: sek
+    price: 399
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-v-rollpersonen.html
+cover_image: https://cdn.abicart.com/shop/images/221324481-origpic-2e4948/ws51/49251/art51/h4481/eon5_mockup_rollpersonen_lq.png
+downloads:
+  - label: eon5_rollpersonen.pdf
+    url: https://drive.google.com/file/d/1wTn7pXbcyJrepiLHohRlfPcsBxc7RWOR/view?usp=sharing

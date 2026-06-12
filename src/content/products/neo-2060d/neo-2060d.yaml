@@ -1,0 +1,45 @@
+product_number: NEO-2060D
+title: Neotech 2 Digitalt Paket
+description: Allt utgivet material till Neotech 2 i PDF-format.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2026-04-07'
+updated_date: '2026-04-08'
+prices:
+  - currency: eur
+    price: 28
+  - currency: sek
+    price: 299
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-2-digitalt-paket.html
+cover_image: https://cdn.abicart.com/shop/images/224446825-origpic-41c990/ws51/49251/art51/h6825/N2-Digitalt-Paket.jpg
+downloads:
+  - label: Skadetabeller.pdf
+    url: https://drive.google.com/file/d/1hPaQMAFN3rWSDOOUj30rGbeGiNOqiaIn/view?usp=sharing
+  - label: Träfftabeller.pdf
+    url: https://drive.google.com/file/d/1vNL1zvjS7suC5yTJF2TigmYDOkASxAlP/view?usp=sharing
+  - label: Overdrive.pdf
+    url: https://drive.google.com/file/d/1kZwfZVyX3GK0EjKzLbe2Z9_tDYLJf9ES/view?usp=sharing
+  - label: Ordlista.pdf
+    url: https://drive.google.com/file/d/1VY_t9Pyd9V7GqBLvq4idMee0vIT828_4/view?usp=sharing
+  - label: Historielinje.pdf
+    url: https://drive.google.com/file/d/1E9DR32CJKo-r3F3etQPTbnGuEuopkwLZ/view?usp=sharing
+  - label: Havets Tigrar.pdf
+    url: https://drive.google.com/file/d/1gltofovzOF3AFlavdE8-QAVtpYxzpJlF/view?usp=sharing
+  - label: Annonsbilaga.pdf
+    url: https://drive.google.com/file/d/1NhQbhllcuF4No-vmt4RI_VwRnrHrg-OV/view?usp=sharing
+  - label: 2057 Neotech Ultra.pdf
+    url: https://drive.google.com/file/d/1RMDDubQoDxrmy6TvLnlhaRg1jOkDkWcv/view?usp=sharing
+  - label: 2056 Neotech Euro.pdf
+    url: https://drive.google.com/file/d/13hzkRJkOlbmfM_LZKLk5fIisapI7yiqm/view?usp=sharing
+  - label: 2055 Neotech Offensiv.pdf
+    url: https://drive.google.com/file/d/1iuYE-tYE0djqODozYQIm7pIwbGZYi_im/view?usp=sharing
+  - label: 2054 SL-skärm.pdf
+    url: https://drive.google.com/file/d/1XZ_EfKtHr45j0CtgVzBqlDq2bAJGF0WG/view?usp=sharing
+  - label: 2051 Neotech 2.pdf
+    url: https://drive.google.com/file/d/1m67fzQlsurxlcIYjR3R5qUh-jxWFtaLB/view?usp=sharing
+  - label: 2060 Showdown Berlin.pdf
+    url: https://drive.google.com/file/d/1RJTz8Q6RrDrooi9K4BdvGkxv069wgZ4F/view?usp=sharing

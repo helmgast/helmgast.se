@@ -1,0 +1,27 @@
+product_number: FE-09D
+title: Järn grundbok [PDF]
+description: |-
+  VÄLJ DITT PRIS  
+    
+  Järn är magiskt. Jag har sett hur järn tas från mark och myrar. Jag har sett
+  järn tvingas fram ur stenen med eld och blåsbälgar. Jag har sett järn härdas
+  med eld och vatten. Jag har sett hjältar härdas med järn och blod. Jag har
+  sett världens öde formas av järn och hjältars dåd. För järn är magiskt.
+language: sv
+world: jarn
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-04-15'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 5
+  - currency: sek
+    price: 50
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/jarn/pdf-jarn-grundbok.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3403/175723403-origpic-babd5a.png
+downloads:
+  - label: Järn Grundbok US Comic.pdf
+    url: https://drive.google.com/uc?export=view&id=1oSbJ3GhDpEX18SJ1BHpTyZ5JmO9PTslA

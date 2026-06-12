@@ -1,0 +1,25 @@
+product_number: EON-802
+title: Ödesväven, Helmgastutgåva, äventyrsmodul
+description: Äventyrsmodul till Eon
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2015-09-26'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 37.7
+  - currency: sek
+    price: 399
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/odesvaven-helmgast.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h8545/30858545-origpic-39fe2d.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8545/30858545-origpic-9a75a1.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8545/30858545-origpic-730495.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8545/30858545-origpic-87399f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8545/30858545-origpic-c7e2d5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8545/30858545-origpic-b570c4.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8545/30858545-origpic-7dc162.jpg

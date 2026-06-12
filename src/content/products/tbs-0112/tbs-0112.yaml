@@ -1,0 +1,19 @@
+product_number: TBS-0112
+title: Troubleshooters T-shirt Octopus
+description: Purple t-shirt with the Octopus logo on the left side of the chest.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2021-08-25'
+updated_date: '2026-02-27'
+prices:
+  - currency: eur
+    price: 20
+  - currency: sek
+    price: 199
+shop_url: https://webshop.helmgast.se/troubleshooters/troubleshooters-t-shirt-octopus.html
+cover_image: https://cdn.abicart.com/shop/images/184970131-origpic-e24ccb/ws51/49251/art51/h0131/Octopus-tshirt.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0131/184970131-origpic-5ccc08.png

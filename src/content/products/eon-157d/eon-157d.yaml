@@ -1,0 +1,20 @@
+product_number: EON-157D
+title: Magi - nekrotropi (PDF)
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-10-31'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 6.9
+  - currency: sek
+    price: 69
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-nekrotropi-pdf.html
+cover_image: https://cdn.abicart.com/shop/images/186097591-origpic-0fe1b9/ws51/49251/art51/h7591/nekro-omslag_pdf.png
+downloads:
+  - label: Aspekt_nekrotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=11rJuqof95sCAr-chYpd5nB2GQ1IenUvw

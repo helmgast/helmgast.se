@@ -1,0 +1,25 @@
+product_number: KDL-180D
+title: And the Rockets  Red Glare [DIGITAL PDF]
+description: |-
+  And the Rockets Red Glare is a PDF scenario for KULT: Divinity Lost, taking
+  place in the midst of the US President Elections 2016.
+language: en
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2019-04-23'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 4
+  - currency: sek
+    price: 39
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/and-the-rockets-red-glare-digital-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2217/166412217-origpic-7a9379.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2217/166412217-origpic-fec68e.jpg
+downloads:
+  - label: KULT Divinity Lost - And The Rockets Red Glare.pdf
+    url: https://drive.google.com/uc?export=view&id=11JecDfy7iMrOBBmK7bOAEpeluzI0Vt0V

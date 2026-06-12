@@ -1,0 +1,18 @@
+product_number: EON-068
+title: Sylfens vrede - Västmarkskarta (papper, A3)
+description: En färgkarta i A3-format över Västmark och områdena runtomkring.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2021-05-27'
+updated_date: '2026-01-04'
+prices:
+  - currency: eur
+    price: 3.9
+  - currency: sek
+    price: 39
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/sylfens-vrede-vastmarkskarta.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1023/183991023-origpic-a36fdd.png

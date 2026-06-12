@@ -1,0 +1,26 @@
+product_number: KDL-137
+title: Gallery of Souls  - Scenario Book
+description: Softcover Scenario Book
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2024-11-28'
+updated_date: '2026-05-11'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/gallery-of-souls-scenario-book.html
+cover_image: https://cdn.abicart.com/shop/images/216607123-origpic-a99e0e/ws51/49251/art51/h7123/image1.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7123/216607123-origpic-621fb6.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7123/216607123-origpic-1f5d5a.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7123/216607123-origpic-e34e73.png
+downloads:
+  - label: 'KULT: Divinity Lost - Gallery of Souls.pdf'
+    url: https://drive.google.com/file/d/1oDYuQzxt3027aoI3tm0B0lL8CKTX_KAX/view
+    description: Gallery of Souls

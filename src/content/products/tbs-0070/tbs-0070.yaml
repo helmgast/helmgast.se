@@ -1,0 +1,24 @@
+product_number: TBS-0070
+title: Passport Set
+description: |-
+  Never leave your passport at home when going on an adventure! A set of three
+  32 page booklets to keep track of your Troubleshooter's adventures and
+  personal data.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-09-12'
+updated_date: '2026-05-27'
+prices:
+  - currency: eur
+    price: 16
+  - currency: sek
+    price: 159
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/the-troubleshooters-passport-set.html
+cover_image: https://cdn.abicart.com/shop/images/185159709-origpic-e00c56/ws51/49251/art51/h9709/MUH052325.png
+downloads:
+  - label: Troubleshooters Passport.zip
+    url: https://drive.google.com/uc?export=view&id=1HMhaSC3fJm3eR4izr6lpxHHQvECUs5pd

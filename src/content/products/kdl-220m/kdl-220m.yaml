@@ -1,0 +1,17 @@
+product_number: KDL-220M
+title: 'KULT: Divinity Lost T-shirt Medium'
+language: en
+world: kult
+publisher: helmgast.se
+type: item
+status: available
+created_date: '2019-04-23'
+updated_date: '2020-05-12'
+prices:
+  - currency: sek
+    price: 159
+  - currency: eur
+    price: 16
+cover_image: https://shop.textalk.se/shop/ws51/49251/art51/h4453/166434453-origpic-8936e8.jpg
+images:
+  - https://shop.textalk.se/shop/ws51/49251/art51/h4453/166434453-origpic-331171.jpg

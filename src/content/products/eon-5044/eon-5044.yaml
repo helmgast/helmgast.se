@@ -1,0 +1,20 @@
+product_number: EON-5044
+title: 'Eon III: Krigsherren'
+description: |-
+  Krigsherren är modulen om storskaliga krig, belägring av borgar och massiva
+  sjöstrider.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/krigsherren.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3153/90653153-origpic-8d926c.jpg

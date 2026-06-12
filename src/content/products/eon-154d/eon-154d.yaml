@@ -1,0 +1,30 @@
+product_number: EON-154D
+title: Magi - kosmotropi (PDF)
+description: |-
+  PDF:en för dig som vill spela kosmomantiker (etermagiker) som kan förtära
+  fiender i frätande eter, omge sig med tystnad och få mäktiga personer att
+  bryta samman.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2019-10-25'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 5.6
+  - currency: sek
+    price: 59
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-kosmotropi-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0387/171510387-origpic-e82c28.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/171510387-origpic-76a1d4.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/171510387-origpic-15d5dd.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/171510387-origpic-d4cac0.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/171510387-origpic-c92cfb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/171510387-origpic-67c2ba.jpg
+downloads:
+  - label: Eon Aspekt Kosmotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1t__Qk31xqyQgpycvizBP328TORg3rs7T

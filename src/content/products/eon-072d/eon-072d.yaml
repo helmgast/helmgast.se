@@ -1,0 +1,26 @@
+product_number: EON-072D
+title: 'Troll & vättar, PDF '
+description: |-
+  Detta är en pdf av boken Troll & vättar där två av Mundanas bokstavligt talat
+  mest ljusskygga släkten beskrivs: de väldiga trollen och de dolska vättarna.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2022-04-03'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 9.9
+  - currency: sek
+    price: 99
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/troll-vattar-pdf.html
+cover_image: https://cdn.abicart.com/shop/images/190192099-origpic-03318f/ws51/49251/art51/h2099/trollvattar_mockup_pdf.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2099/190192099-origpic-108f63.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2099/190192099-origpic-991594.jpg
+downloads:
+  - label: troll_vattar.pdf
+    url: https://drive.google.com/file/d/1ldIXwyRdszh8g_H7sIbkktAxmHUpDfiI/view?usp=sharing

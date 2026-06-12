@@ -1,0 +1,35 @@
+product_number: KDL-101D
+title: 4th Edition Core Rules [DIGITAL PDF]
+description: 'The DIGITAL PDF version of the 4th Edition Core Rules for KULT: Divinity Lost'
+language: en
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2018-11-20'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 25
+  - currency: sek
+    price: 249
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/4th-edition-core-rules-digital-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-c8b57d.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-428052.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-fee8c5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-7e56fa.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-a6cbee.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-31e411.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-ab7996.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-a9d1f6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-685a03.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-06516c.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-b0b41b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-233913.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-9ee13f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1875/163111875-origpic-97b689.jpg
+downloads:
+  - label: KULT Divinity Lost - 4th Edition Core Rules.pdf
+    url: https://drive.google.com/uc?export=view&id=1SUxm2gNfcWqpWxdpQXR7rLxMldWcEoPP

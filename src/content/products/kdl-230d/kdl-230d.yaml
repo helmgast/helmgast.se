@@ -1,0 +1,22 @@
+product_number: KDL-230D
+title: 'Soundtrack [DIGITAL] for KULT: Divinity Lost'
+description: |-
+  The official soundtrack for KULT: Divinity Lost as high quality downloadable
+  audio files
+language: en
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2018-11-08'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 13
+  - currency: sek
+    price: 129
+shop_url: https://webshop.helmgast.se/kult/soundtrack-digital-for-kult-divinity-lost.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h5347/162925347-origpic-ab8252.jpg
+downloads:
+  - label: KULT Divinity Lost - Official Soundtrack.zip
+    url: https://drive.google.com/uc?export=view&id=1lWa83ymms5nykl_KCR4lkogr_WeZZrIY

@@ -1,0 +1,21 @@
+product_number: KDL-202
+title: 'Inferno Dice set for KULT: Divinity Lost'
+description: |-
+  A dice set with six custom-made d10 for KULT: Divinity Lost, inspired by
+  Inferno.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2022-01-30'
+updated_date: '2026-05-26'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 199
+shop_url: https://webshop.helmgast.se/kult/inferno-dice-set-for-kult-divinity-lost.html
+cover_image: https://cdn.abicart.com/shop/images/188082223-origpic-21312e/ws51/49251/art51/h2223/Dice.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2223/188082223-origpic-8d4b06.jpg

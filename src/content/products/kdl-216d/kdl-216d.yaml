@@ -1,0 +1,23 @@
+product_number: KDL-216D
+title: 'Deck of Traits [DIGITAL PDF] for KULT: Divinity Lost'
+description: |-
+  This is the digital PDF version of the Deck of Traits for KULT: Divinity Lost.
+  A massive deck consisting of 210 cards for easy rule references for the game
+  master and the players.
+language: en
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2022-01-07'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 20
+  - currency: sek
+    price: 199
+shop_url: https://webshop.helmgast.se/kult/deck-of-traits-digital-pdf-for-kult-divinity-lost.html
+cover_image: https://cdn.abicart.com/shop/images/187874413-origpic-16f8ca/ws51/49251/art51/h4413/DoT-mockup.png
+downloads:
+  - label: KULT Divinity Lost - Trait Deck.pdf
+    url: https://drive.google.com/file/d/1VUSg7Iq_IbtmEQLNPQDHONzA0Fa2hcTA/view?usp=sharing

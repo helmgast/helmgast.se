@@ -1,0 +1,20 @@
+product_number: EON-401
+title: Eon IV, grundbok, Xinu-utgåvan
+description: Grundbok för Eon IV i den enda Xinuutgåvan
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: book
+status: out_of_stock
+created_date: '2014-05-30'
+updated_date: '2020-05-12'
+prices:
+  - currency: eur
+    price: 999
+cover_image: https://drive.google.com/uc?export=view&id=1ElkZA6TeKX6AJkyJMimiVjJ0xWpW6NEi
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM

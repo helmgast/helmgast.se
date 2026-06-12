@@ -1,0 +1,22 @@
+product_number: KH-042
+title: Vägen bort - farvattenskarta
+description: Färgkarta över Vägen bort, tillbehör till Sirenens Klagan, C4 storlek
+language: sv
+world: kopparhavets-hjaltar
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-11-29'
+updated_date: '2025-12-22'
+prices:
+  - currency: eur
+    price: 7
+  - currency: sek
+    price: 69
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kopparhavets-hjaltar/vagen-bort-farvattenskarta.html
+cover_image: >-
+  https://cdn.abicart.com/shop/images/187557309-origpic-045433/ws51/49251/art51/h7309/04d1e0ed497470219c0b28eb95ef406e_original.jpg
+downloads:
+  - label: 161121 Map A Vägen bort.pdf
+    url: https://drive.google.com/uc?export=view&id=10v490COLv3SGH6EbSLgTKDYSmfd_z00x

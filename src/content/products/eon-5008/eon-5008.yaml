@@ -1,0 +1,18 @@
+product_number: EON-5008
+title: 'Eon III: Sorgernas Brunn'
+description: Äventyr med en sörjande mor, en vacker och ondskefull häxa
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 14.1
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/sorgernas-brunn.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1669/90661669-origpic-f90203.jpg

@@ -1,0 +1,26 @@
+product_number: HT-102
+title: 'Äventyr: Sagor från Trollskogen'
+description: |-
+  Trollskogen, en skog fylld av faror, men också stora rikedomar och urgamla
+  mysterier. Då och då går äventyrare in i skogen, och långt ifrån alla
+  återkommer. Nu står du på skogens rand. Vågar du gå in?
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2017-04-05'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 14.1
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/aventyr-sagor-fran-trollskogen.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h8978/120658978-origpic-413237.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8978/120658978-origpic-5e4bd2.png
+downloads:
+  - label: HT Sagor från Trollskogen 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1OmFXEJBJz4MOtGWiYyRyLuSTp6DyVkqI

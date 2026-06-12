@@ -1,0 +1,33 @@
+product_number: EON-067D
+title: Sylfens vrede - Kampanjpaketet [PDF]
+description: |-
+  Kampanjpaketet innehåller material som spelledaren kan visa för spelarna för
+  att ge extra inlevelse i kampanjen Sylfens vrede: Genom vind och glas & Ur
+  stoft och sot.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-05-27'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 7.9
+  - currency: sek
+    price: 79
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/sylfens-vrede-kampanjpaketet-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1209/183991209-origpic-b3f420.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1209/183991209-origpic-09f6e1.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1209/183991209-origpic-7f38f7.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1209/183991209-origpic-be6157.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1209/183991209-origpic-8ddb74.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1209/183991209-origpic-cf7c1d.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1209/183991209-origpic-46743d.png
+downloads:
+  - label: eon-sylfens-vrede-kampanjpaketet.pdf
+    url: https://drive.google.com/open?id=1miBUdyDeiwSGsvmk5aECKWuLcYzuWvJ4
+  - label: eon-sylfens-vrede-rollformular.pdf
+    url: https://drive.google.com/open?id=1oWK2aZOcd2MQdDtB8nRRjVsCcanxEHSo

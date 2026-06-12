@@ -1,0 +1,23 @@
+product_number: EON-056
+title: Magi - astrotropi
+description: |-
+  Boken för dig som vill spela stjärnmagiker där stjärnkonstellationer och
+  födelsemånad är centrala koncept. PDF ingår.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-10-31'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 189
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-astrotropi.html
+cover_image: https://cdn.abicart.com/shop/images/186096639-origpic-96b6cf/ws51/49251/art51/h6639/astro-omslag.jpg
+downloads:
+  - label: Aspekt_astrotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=11qG5Xbd9bN6tkZu3eKCtCI89hUsj09eZ

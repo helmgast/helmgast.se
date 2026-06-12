@@ -1,0 +1,21 @@
+product_number: EON-506
+title: Eon – Spelarmapp
+description: |-
+  Spelarmappen är ett utomordentligt hjälpmedel för dig som Eonspelare. Utöver
+  det rent praktiska i att kunna samla rollformulär och anteckningar i en mapp
+  så är det innehåller den även regelsammanfattning för rollpersonsskapande,
+  färdighetsanvändning, strid och magi.
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: available
+created_date: '2025-07-28'
+updated_date: '2026-06-04'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/eon/eon-spelarmapp.html
+cover_image: https://cdn.abicart.com/shop/images/221335189-origpic-5ed6ff/ws51/49251/art51/h5189/spelarmapp_mockup.jpg

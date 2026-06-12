@@ -1,0 +1,26 @@
+product_number: KDL-191D
+title: Labyrinths and Secret Chambers [DIGITAL PDF] - map and floor plan bundle
+description: |-
+  This is the digital PDF version of Labyrinths and Secret Chambers for KULT:
+  Divinity Lost. It consists of a bundle with 100 unique maps and floor plans.
+language: en
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2022-01-08'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 25
+  - currency: sek
+    price: 249
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/labyrinths-and-secret-chambers-digital-pdf-map-and-floor-plan-bu.html
+cover_image: https://cdn.abicart.com/shop/images/187876595-origpic-2b55e2/ws51/49251/art51/h6595/LaSC-mock-up.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6595/187876595-origpic-dd6bb5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6595/187876595-origpic-8820e1.jpg
+downloads:
+  - label: KULT Divinity Lost - Labyrinths and Secret Chambers.zip
+    url: https://drive.google.com/file/d/1awVjpCL_sWk3QLV3k6OXSuLw0b_TqY9V/view?usp=sharing

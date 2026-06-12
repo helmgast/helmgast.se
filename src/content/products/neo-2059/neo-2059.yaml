@@ -1,0 +1,19 @@
+product_number: NEO-2059
+title: Retropaketet
+language: sv
+world: neotech
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-12-01'
+updated_date: '2020-05-12'
+cover_image: https://drive.google.com/uc?export=view&id=17eYD1Oh0v4TpUHKOhYvL6e2-XKYRIhNX
+downloads:
+  - label: 2051 Neotech 2.pdf
+    url: https://drive.google.com/uc?export=view&id=1Y2sh6l4WriEGf-aZrDPu0Bfl-XK6dcWL
+  - label: 2055 Neotech Offensiv.pdf
+    url: https://drive.google.com/uc?export=view&id=1LGmu4y92fTJZn9tGhvq60F7X3721yx26
+  - label: 2056 Neotech Euro.pdf
+    url: https://drive.google.com/uc?export=view&id=1snl0n8Rj2V1zQKeVJsWJKHcEDYdVTmg9
+  - label: 2060 Showdown Berlin.pdf
+    url: https://drive.google.com/uc?export=view&id=1QQyihPMQayZqiUp8g7VuGOCArfUewijd

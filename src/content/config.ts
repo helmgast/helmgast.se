@@ -41,4 +41,54 @@ const worlds = defineCollection({
     }),
   });
 
-export const collections = { articles, worlds };
+const products = defineCollection({
+  type: 'data',
+  schema: z.object({
+    // Identifiers
+    product_number: z.string().optional(), // e.g. "NEO-EDGE-001" — used as product code
+    project_code: z.string().optional(),  // e.g. "NEO"
+    barcode: z.string().optional(),       // EAN-13 or similar
+
+    // Content
+    title: z.string(),
+    description: z.string().optional(),
+    language: z.enum(['sv', 'en', 'fr', 'de']),
+    world: z.string().optional(),
+    publisher: z.string().optional(),
+    family: z.string().optional(),
+
+    // Classification
+    type: z.enum(['book', 'item', 'digital', 'shipping']),
+    status: z.enum(['pre_order', 'available', 'ready_for_download', 'out_of_stock', 'hidden']),
+    publish_date: z.string().optional(),
+    created_date: z.string().optional(),
+    updated_date: z.string().optional(),
+
+    // Pricing
+    prices: z.array(z.object({
+      currency: z.enum(['sek', 'eur', 'usd']),
+      price: z.number(),
+    })).optional(),
+    tax: z.number().optional(),
+
+    // Shop link
+    shop_url: z.string().optional(),
+
+    // Images (local paths relative to product folder, or URLs)
+    cover_image: z.string().optional(),
+    images: z.array(z.string()).optional(),
+
+    // Downloadable files
+    downloads: z.array(z.object({
+      label: z.string(),
+      url: z.string(),
+      description: z.string().optional(),
+    })).optional(),
+
+    // Misc
+    acknowledgement: z.boolean().optional(),
+    tags: z.array(z.string()).optional(),
+  }),
+});
+
+export const collections = { articles, worlds, products };

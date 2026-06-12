@@ -1,0 +1,24 @@
+product_number: TBS-0041
+title: Charts & Blueprints
+description: |-
+  A must-have accessory for the adventure The U-Boat Mystery! Includes a
+  navigational chart of the Vikraminay strait and three accurate blueprints for
+  the adventure.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2021-09-12'
+updated_date: '2025-12-22'
+prices:
+  - currency: eur
+    price: 16
+  - currency: sek
+    price: 159
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/charts-blueprints.html
+cover_image: https://cdn.abicart.com/shop/images/185159731-origpic-bd710d/ws51/49251/art51/h9731/MUH052332.png
+downloads:
+  - label: U-boat mystery blueprints and charts.zip
+    url: https://drive.google.com/uc?export=view&id=1HQbi-nxbHCYjp61D3QogxjVO8Wv68m4H

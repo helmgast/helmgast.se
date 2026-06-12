@@ -1,0 +1,127 @@
+product_number: EON-199D
+title: PDF-paket Eons klassiska utgåvor
+description: |-
+  PDF-paketet till Eons klassiska utgåvor innehåller pdf:er av alla böcker som
+  gavs ut till Eon I, II och III. Allt från första utgåvan av Eons regelbok från
+  1996 till Alver – Sångarens ätt från 2009. Alla bok-pdf:er har både
+  omslagsbild och baksida; därtill innehåller paketet alla deluxe-utgåvor, Eons
+  spelledarskärm och de olika två- samt fyrsidiga rollformulären. Kort sagt – en
+  komplett pdf-samling av det Eons första tre utgåvor!
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-12-11'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 49
+  - currency: sek
+    price: 499
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-pdf-paket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h7319/179997319-origpic-a8e51e.jpg
+downloads:
+  - label: 5035_avblodkomna.pdf
+    url: https://drive.google.com/uc?export=view&id=10fpR_fZSA7w5ZGkRlVVDKWQyVsS5nWXT
+  - label: 5034_katresgator.pdf
+    url: https://drive.google.com/uc?export=view&id=15cDLsf8arASU6l32eFDsQpvLQQKb6AHa
+  - label: 5033_diamantapplet.pdf
+    url: https://drive.google.com/uc?export=view&id=14O4p3XlhZPtTIfA-mQ96Z80yUZbMCDaL
+  - label: 5004_eon_I_slskarm.pdf
+    url: https://drive.google.com/uc?export=view&id=1JkLp6xQutjLvsuenf-iCqs8Dba2ACrN1
+  - label: 5001_eon_I.pdf
+    url: https://drive.google.com/uc?export=view&id=1Y283FEohw0g18mn93Upv2Nev5RWnWO30
+  - label: 5000_eon_I_deluxe.pdf
+    url: https://drive.google.com/uc?export=view&id=13yfSau77cYUCRLtGzMlSLCb4AV1EoDJC
+  - label: 5025_karthafte.pdf
+    url: https://drive.google.com/uc?export=view&id=12QVi5Zc_CUW1gFk2frrNmPKggJHW-x4i
+  - label: 5004_eon_1_slskarm_hafte.pdf
+    url: https://drive.google.com/uc?export=view&id=184ldhLu6wI-3jpq53KeFHdD_93wuyNn0
+  - label: 5004_manoverkort.pdf
+    url: https://drive.google.com/uc?export=view&id=1hwObbvxkwtCvUZuSPwSFm7-cUmUuoNk_
+  - label: 5008_sorgernasbrunn.pdf
+    url: https://drive.google.com/uc?export=view&id=1nGan9iQEfpN_wgI8WGMGF06FX410TKaG
+  - label: 5031_alversangarensatt.pdf
+    url: https://drive.google.com/uc?export=view&id=1nLKCr8e3EoXSrDh0hlZs-BaBuKbrAcGy
+  - label: 5022_misslor.pdf
+    url: https://drive.google.com/uc?export=view&id=1qy_QVeZ9Vr8A_NsrYBxd6n7B3XlLvsiA
+  - label: 5047_cirefalier.pdf
+    url: https://drive.google.com/uc?export=view&id=1874MNf2ZWSFZ7ioAIp_ZA6acEGec2gx7
+  - label: 5045_bestialiskafolk.pdf
+    url: https://drive.google.com/uc?export=view&id=1F6BvJv2Axg9JwnqznNLEnyv1rGbk9xNd
+  - label: 5044_krigsherren.pdf
+    url: https://drive.google.com/uc?export=view&id=1YKkaG5h_WUW6CIPkWgd_crIXfxUvzX61
+  - label: 5043_vapenmastaren.pdf
+    url: https://drive.google.com/uc?export=view&id=1fWRnIQfnMU1Pf9nr-yMeRht-3CCDPCmm
+  - label: 5042_barbarermannniskofolk.pdf
+    url: https://drive.google.com/uc?export=view&id=1IC28YM8C8R0ppMrZ0VAC1KyE_lnvnIDs
+  - label: 5041_encyklopediamundana.pdf
+    url: https://drive.google.com/uc?export=view&id=1DFoUqEaa10wZ_S5CXwbC3_F6kvXsFUYu
+  - label: 5040_geograficamundana.pdf
+    url: https://drive.google.com/uc?export=view&id=1eRJxJD6tmnp5sjqaLIpHZMpFlrFo9DUZ
+  - label: 5039_fjarranriken.pdf
+    url: https://drive.google.com/uc?export=view&id=1VVmxbIGVftHkl6Gv8PaiBE-UYuV52O-K
+  - label: 5032_thalamur.pdf
+    url: https://drive.google.com/uc?export=view&id=13_2FkqGBZOHTfNUJJaCE_NQz2fCaGEOD
+  - label: 5029_riddaren.pdf
+    url: https://drive.google.com/uc?export=view&id=16VrN7Jehbw15Cxi_Nkk_etGx_dFoTBZl
+  - label: 5028_regnsynd.pdf
+    url: https://drive.google.com/uc?export=view&id=1f3A6ximjX_rqCxzJnJBsu3DWvV0Q0uVA
+  - label: 5027_monsterimundana.pdf
+    url: https://drive.google.com/uc?export=view&id=1Gl1Ahru5vEtFtl7QwW2CmUK8WbiG-H2e
+  - label: 5024_legenderhemligheter.pdf
+    url: https://drive.google.com/uc?export=view&id=1h3VbHh9ZFYjWnwLY6lIytyX-S77iRJSz
+  - label: 5021_vandoda_nekromanti.pdf
+    url: https://drive.google.com/uc?export=view&id=11CavjjOzF25AVbX9xyEuH0YlnxHACc8o
+  - label: 5019_drakar.pdf
+    url: https://drive.google.com/uc?export=view&id=1cNQdWUggGr9l0ik4rxSSsiwMc9-1bJOC
+  - label: 5018_sjofararepirater.pdf
+    url: https://drive.google.com/uc?export=view&id=1qtYwjQZELz1hdHJnQHsB0v4IxfAp1xq8
+  - label: 5010_mystikmagi.pdf
+    url: https://drive.google.com/uc?export=view&id=1nrJN8y3FdUr99s2nXNPSjYJn7b_Dr-Il
+  - label: 5017_consaber.pdf
+    url: https://drive.google.com/uc?export=view&id=1wtbYC7-SwtjJxEoxYiudq3LiTCy68PS-
+  - label: 5016_defordomdassistahopp.pdf
+    url: https://drive.google.com/uc?export=view&id=1zq2HvOfeHMpLPcLDAnWv_HelAc4qh-VG
+  - label: 5015_tiraker.pdf
+    url: https://drive.google.com/uc?export=view&id=1EEEhGzVj4VCj04w3hZ6rKYL3btscJwT9
+  - label: 5014_krigarensvag.pdf
+    url: https://drive.google.com/uc?export=view&id=1xmNUafLV1TGNjsDjyJ7jQ6DHuWLKlHuK
+  - label: 5013_religioner.pdf
+    url: https://drive.google.com/uc?export=view&id=1Ly6Zo_L4B-hivwRaQJX1Y2HfdC_N4Ao8
+  - label: 5012_ashariensoldarn.pdf
+    url: https://drive.google.com/uc?export=view&id=1P1DVVAe3_4c3YfUSkzt5S7zDM9xzGf6-
+  - label: 5011_dvargar.pdf
+    url: https://drive.google.com/uc?export=view&id=1OaGwk5LR4gyWoysMpdAecpzfd3V0B9di
+  - label: 5009_jarla.pdf
+    url: https://drive.google.com/uc?export=view&id=1_1TxWAy4l9U8gfg_ktjPHoFgTbs_sGQa
+  - label: 5007_alver.pdf
+    url: https://drive.google.com/uc?export=view&id=1zZWpRoJiq-2-eZyHS8B5RjqwpdJX-bho
+  - label: 5006_monstervarelser.pdf
+    url: https://drive.google.com/uc?export=view&id=1P5O2iNvMfkYEPqozh-8nv-JumyNnBdxg
+  - label: 5005_mundana.pdf
+    url: https://drive.google.com/uc?export=view&id=1BOf3Ln9AkXZFM0KQHYthD7vS01ilaSCh
+  - label: 5002_spelarens_handbok.pdf
+    url: https://drive.google.com/uc?export=view&id=1Lki4R1J8SsUmewuAMYPCmmVHg7dNldKg
+  - label: 5092_eon_III_spelledarens_guide.pdf
+    url: https://drive.google.com/uc?export=view&id=1cODKFa-g3TV0wWAPTnCfpBYnm4TARpH2
+  - label: 5091_eon_III_spelarens_bok.pdf
+    url: https://drive.google.com/uc?export=view&id=1mEK77x53nXdsC6fpsAmSFinngJn3m4hm
+  - label: 5095_eon_II_grand_luxe.pdf
+    url: https://drive.google.com/uc?export=view&id=1lstOA2cptIXxMnwUPoT12J8epS_CuQoT
+  - label: 5001_eon_II.pdf
+    url: https://drive.google.com/uc?export=view&id=1mSi1-oY4L2_jwoJ-k0YI-Vj4kabT1Feg
+  - label: 5000_eon_II_deluxe.pdf
+    url: https://drive.google.com/uc?export=view&id=1arsWr_TtakjoLm7awnotyX6-gZ9odeke
+  - label: 5003_eon_I_rollformular_2sidigt.pdf
+    url: https://drive.google.com/uc?export=view&id=1UwLY204l_F2yIZMzAxfkFqm0IWSGHHoc
+  - label: 5003_eon_II_rollformular_4sidigt.pdf
+    url: https://drive.google.com/uc?export=view&id=1VM4htkloyDa9HHHnJ56vdqtybQhjdKa1
+  - label: 5003_eon_II_rollformular_2sidigt.pdf
+    url: https://drive.google.com/uc?export=view&id=1P8SXMaAP-b3mzOlDRPqQZU_Be_pvJxZ3
+  - label: 5003_eon_III_rollformular_4sidigt.pdf
+    url: https://drive.google.com/uc?export=view&id=1pt4p_gATS5DDteMjH9UJmOjPqAYn3VmV
+  - label: 5003_eon_III_rollformular_2sidigt.pdf
+    url: https://drive.google.com/uc?export=view&id=1Gb2cftW73QxH-lEtIcbFAcc2ByZallw9

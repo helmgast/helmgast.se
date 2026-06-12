@@ -1,0 +1,28 @@
+product_number: EON-071
+title: 'Troll & vättar, helmgastutgåva '
+description: |-
+  Modulen Troll & vättar beskriver två av Mundanas bokstavligt talat mest
+  ljusskygga släkten, de väldiga trollen och de dolska vättarna.  
+  PDF ingår.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2022-04-03'
+updated_date: '2026-01-08'
+prices:
+  - currency: eur
+    price: 55
+  - currency: sek
+    price: 549
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/troll-vattar-helmgastutgava.html
+cover_image: >-
+  https://cdn.abicart.com/shop/images/190190275-origpic-e480a1/ws51/49251/art51/h0275/mockup-troll-och-vattar_helmgast.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0275/190190275-origpic-acc161.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0275/190190275-origpic-f26efe.jpg
+downloads:
+  - label: troll_vattar.pdf
+    url: https://drive.google.com/file/d/1ldIXwyRdszh8g_H7sIbkktAxmHUpDfiI/view?usp=sharing

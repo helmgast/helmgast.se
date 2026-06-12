@@ -1,0 +1,23 @@
+product_number: HT-302
+title: 'Kampanjbok: Sorgeveden'
+description: |-
+  En matig kampanjbok till Hjältarnas tid av Anders Blixt om den mäktiga skogen
+  Sorgeveden.
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-10-22'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 23
+  - currency: sek
+    price: 229
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/kampanjbok-sorgeveden.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9175/162629175-origpic-fcd92d.jpg
+downloads:
+  - label: HT Sorgeveden 20180827.pdf
+    url: https://drive.google.com/uc?export=view&id=1j4Uxm2kCr6Fd7nMj7nw117NJvNLyMjiV

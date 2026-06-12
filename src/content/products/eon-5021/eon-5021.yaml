@@ -1,0 +1,20 @@
+product_number: EON-5021
+title: 'Eon III: Vandöda & Nekromanti'
+description: |-
+  Mundanas vandöda är annorlunda jämfört med många andra fantasyvärldar. Exakt
+  hur får du veta i den här modulen.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/vandoda-nekromanti.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1707/90661707-origpic-5a4ac3.jpg

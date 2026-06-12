@@ -1,0 +1,27 @@
+product_number: NEO-153D
+title: Neotech Edge Kartpaket [PDF]
+description: |-
+  Ett digitalt paket med kartor på såväl stridszoner som Pearl River Delta och
+  världen.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-01-05'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-kartpaket-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h8925/180178925-origpic-c09ec7.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8925/180178925-origpic-5afe81.png
+downloads:
+  - label: Kartpaket A3.pdf
+    url: https://drive.google.com/uc?export=view&id=1dDnYwmp-oxb6xE9f_f5fyqih8amEhoGy
+  - label: Kartpaket Block A4.pdf
+    url: https://drive.google.com/uc?export=view&id=1Fs3vXlZ5hB3kM1FWNG3O10RT6MWcc87N

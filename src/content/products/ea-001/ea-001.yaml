@@ -1,0 +1,31 @@
+product_number: EA-001
+title: 'Ereb Altor: Världsboken'
+description: |-
+  Välkommen till Ereb Altor – den klassiska spelvärlden till Drakar och Demoner
+  – fylld av uråldriga riken, gåtfulla gudar och oförglömliga äventyr.  
+  I _Världsboken_ presenteras hela den nya tolkningen av Ereb Altor, från
+  Trakorien i väst till Vicotniks stängda rike i öst, med både historiska och
+  mytologiska djupdykningar.
+
+  PDF ingår av både boken och världskartan.
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: book
+status: available
+created_date: '2025-10-08'
+updated_date: '2026-06-10'
+prices:
+  - currency: eur
+    price: 39
+  - currency: sek
+    price: 429
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-varldsboken.html
+cover_image: >-
+  https://cdn.abicart.com/shop/images/222422173-origpic-fb204c/ws51/49251/art51/h2173/EREB_ALTOR_VÄRLDSBOKEN_Produktfoto.png
+downloads:
+  - label: ereb_altor_varldsboken.pdf
+    url: https://drive.google.com/file/d/1pNf6v-BhKCU0uFwIDEH1_w3ui_pDj58d/view?usp=sharing
+  - label: ereb_altor_varldskarta.pdf
+    url: https://drive.google.com/file/d/1VZh8MUg1Wi6bHMU_uRiXpQRFfacCJgsX/view?usp=drive_link

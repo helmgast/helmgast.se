@@ -1,0 +1,21 @@
+product_number: EON-5043
+title: 'Eon III: Vapenmästaren'
+description: |-
+  Allt för den mundanska krigaren - nya stridsyrken och ordnar, närstrids- och
+  avståndsvapen, sköldar och rustningar, vapensmeder, stridskonster, berömda
+  krigare och legendariska vapen
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/vapenmastaren.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1717/90661717-origpic-8971de.jpg

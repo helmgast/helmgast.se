@@ -1,0 +1,21 @@
+product_number: HT-204
+title: 'Tillbehör: Hjältarnas väg'
+description: En bok med fokus på rollpersonen till Hjältarnas väg.
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2018-10-22'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 23
+  - currency: sek
+    price: 229
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/tillbehor-hjaltarnas-vag.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9179/162629179-origpic-7332c6.jpg
+downloads:
+  - label: HT Hjältarnas Väg 20180827.pdf
+    url: https://drive.google.com/uc?export=view&id=1n71EH1ctN5SWdEuoy0mESziPgBtJOkT1

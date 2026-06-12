@@ -1,0 +1,26 @@
+product_number: NEO-107D
+title: Neotech Edge Pearl River Delta [PDF]
+description: |-
+  En världsbok som beskriver megastaden Hongkong och deltat omkring den år 2070,
+  dess företag, brottsorganisationer och privatiserade rättvisa. 128s PDF.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-05-17'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 15
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-pearl-river-delta-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3805/176633805-origpic-424b44.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3805/176633805-origpic-8e93f1.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3805/176633805-origpic-80acb2.png
+downloads:
+  - label: PRD (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1PmL1XT8TZMXdDpb-1qINIIcbO1zlf4hj

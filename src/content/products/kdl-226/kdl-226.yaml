@@ -1,0 +1,17 @@
+product_number: KDL-226
+title: 'KULT: Divinity Lost Nepharite Tote Bag'
+description: 'A limited edition tote bag for KULT: Divinity Lost.'
+language: en
+publisher: helmgast.se
+world: kult
+type: book
+status: out_of_stock
+created_date: '2022-11-20'
+updated_date: '2024-03-28'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-nepharite-tote-bag.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1477/195731477-origpic-a3c633.png

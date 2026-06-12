@@ -1,0 +1,33 @@
+product_number: TBS-0040
+title: U-boat Mystery Scenario Book (Deluxe Edition)
+description: |-
+  A kidnapping. A map. A lost u-boat.  
+  An exciting adventure which takes you from Paris to a lost u-boat on the other
+  side of the world! Can the adventurers figure out who is behind the
+  kidnapping, and find the secret of the lost u-boat from WW2? The Deluxe
+  Edition comes with an exclusive purple cloth cover with the embossed logo of
+  The Octopus, the evil organisation aiming for control of the world of The
+  Troubleshooters.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-08-25'
+updated_date: '2025-12-17'
+prices:
+  - currency: eur
+    price: 50
+  - currency: sek
+    price: 499
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/u-boat-mystery-scenario-book-deluxe-edition.html
+cover_image: https://cdn.abicart.com/shop/images/184970125-origpic-6d662c/ws51/49251/art51/h0125/MUH052319.png
+images:
+  - https://cdn.abicart.com/shop/images/184970125-origpic-35f523/ws51/49251/art51/h0125/MUH052319-dust-jacket.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0125/184970125-origpic-9465b7.png
+  - https://cdn.abicart.com/shop/images/184970125-origpic-9f681e/ws51/49251/art51/h0125/tbsub2.jpg
+  - https://cdn.abicart.com/shop/images/184970125-origpic-1bc7e1/ws51/49251/art51/h0125/tbsub1.jpg
+downloads:
+  - label: The-U-Boat-Mystery-FINAL.pdf
+    url: https://drive.google.com/uc?export=view&id=1qbbgDBRG04WHHk3IPsE1QsmbFgXUN8hs

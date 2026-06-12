@@ -1,0 +1,20 @@
+product_number: EON-5032
+title: 'Eon III: Thalamur'
+description: |-
+  Thalamur är en landsmodul som behandlar magikraternas mäktiga rike, deras
+  kultur, mäktiga sätder, de fruktade Rakhori och mycket mer
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 20.7
+  - currency: sek
+    price: 219
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/thalamur.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1701/90661701-origpic-a0368e.jpg

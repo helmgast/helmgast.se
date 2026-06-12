@@ -1,0 +1,23 @@
+product_number: EON-256
+title: Kompendium Mundanas stjärnhimmel
+description: |-
+  Kompendium över Mundanas stjärnhimmel med stjärnkartor över såväl norra som
+  södra halvklotet.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2021-11-01'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 12
+  - currency: sek
+    price: 119
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/kompendium-mundanas-stjarnhimmel.html
+cover_image: https://cdn.abicart.com/shop/images/186183249-origpic-ae576d/ws51/49251/art51/h3249/stjarnhimlen.jpg
+downloads:
+  - label: kompendium_stjarnkarta.pdf
+    url: https://drive.google.com/uc?export=view&id=11vYZHcWm01J7QtkciyMNmn9n-XrMKaCa

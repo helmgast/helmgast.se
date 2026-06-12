@@ -1,0 +1,39 @@
+product_number: KH-002
+title: Kopparhavets hjältar - Grundbok Kodexutgåva
+description: |-
+  Innan Ereb Altor gavs ut till nya Drakar och Demoner gavs Kopparhavets hjältar
+  ut med regelmotorn från Hjältarnas tid. Detta är INTE kompatibelt med nya Ereb
+  Altor men passa på att skaffa de sista exemplaren för en komplett samling!  
+    
+  Välkommen till en ny värld! Kopparhavets hjältar är ett spännande
+  äventyrsrollspel, med 230 sidor spelvärld, regler och äventyr. Denna
+  begränsade Kodexutgåva av grundboken innehåller allt du behöver för att spela
+  Kopparhavets hjältar, förutom fantasi, tärningar och rollformulär.  
+    
+  PDF ingår. OBS: Första tryckningen.
+language: sv
+world: kopparhavets-hjaltar
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2020-07-30'
+updated_date: '2026-01-04'
+prices:
+  - currency: eur
+    price: 49
+  - currency: sek
+    price: 549
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kopparhavets-hjaltar/kopparhavets-hjaltar-grundbok-kodexutgava.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1401/177841401-origpic-2527e3.jpg
+downloads:
+  - label: Kopparhavets Hjältar Grundbok v1.pdf
+    url: https://drive.google.com/open?id=1OCGNAUl-7-0LsaNOGsb1kpJMu5EAi16C
+  - label: kopparhavets-hjaltar/kopparhavet-karta-färg.pdf
+    url: https://drive.google.com/open?id=1v-zV720EPZDwTE06I2bjpRBLhSQwP88k
+  - label: bakgrundsblad-montarkun.pdf
+    url: https://drive.google.com/open?id=10JhNzkxwwbP_mdplcqjtPTSYXlu3RLUi
+  - label: bakgrundsblad-karuh.pdf
+    url: https://drive.google.com/open?id=1CFGvlvg0y6DD_mhuhrTaWbrR_dZlSnV3
+  - label: bakgrundsblad-baals-brygga.pdf
+    url: https://drive.google.com/open?id=1VErv3_bIBjqoVimrdiD5Mhai6VsvG1Gs

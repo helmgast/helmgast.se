@@ -1,0 +1,21 @@
+product_number: EON-942
+title: Kortlekar & tärningar, paket
+description: Paket med Eontärningarna, vapenkortlek 1 och taktikkortleken.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-09-02'
+prices:
+  - currency: eur
+    price: 33
+  - currency: sek
+    price: 349
+shop_url: https://webshop.helmgast.se/sv/eon/tillbehorspaket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0911/90540911-origpic-c69f45.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0911/90540911-origpic-984ca0.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0911/90540911-origpic-f0cde9.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0911/90540911-origpic-e88f3b.png

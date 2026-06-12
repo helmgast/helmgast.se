@@ -1,0 +1,15 @@
+product_number: 10012c
+title: Eon IV Crowdfunding - Spelpaketet tillägg
+description: Ett extra spelpaket
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: book
+status: out_of_stock
+created_date: '2014-06-16'
+updated_date: '2017-06-17'
+prices:
+  - currency: eur
+    price: 24
+cover_image: https://helmgast.se/asset/download/spelpaketet-digital.jpg

@@ -1,0 +1,19 @@
+product_number: TBS-0101
+title: Troubleshooters Purple Dice Pack
+description: |-
+  Play The Troubleshooters as it was meant to be played with these custom dice!
+  Seven six-sided dice and two ten-sided dice in purple with white faces.
+language: en
+publisher: helmgast.se
+world: the-troubleshooters
+type: book
+status: out_of_stock
+created_date: '2025-01-07'
+updated_date: '2026-05-31'
+prices:
+  - currency: eur
+    price: 22
+  - currency: sek
+    price: 219
+shop_url: https://webshop.helmgast.se/troubleshooters/troubleshooters-purple-dice-pack.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2149/217172149-origpic-a5adaf.png

@@ -1,0 +1,15 @@
+product_number: '10505'
+title: Eon IV - Grundboken + Spelpaketet
+description: Grundbok för Eon IV med Spelpaketet
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: book
+status: out_of_stock
+created_date: '2014-06-15'
+updated_date: '2017-06-17'
+prices:
+  - currency: eur
+    price: 69
+cover_image: https://helmgast.se/asset/download/grundboken-spelpaketet.jpg

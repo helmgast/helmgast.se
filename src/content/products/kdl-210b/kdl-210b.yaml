@@ -1,0 +1,26 @@
+product_number: KDL-210b
+title: 'Reference Deck for KULT: Divinity Lost'
+description: |-
+  The Reference Deck for KULT: Divinity Lost consists of 55 cards, giving the
+  Gamemaster and players easy access to weaponry, gear and the Basic Moves.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-27'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 16
+  - currency: sek
+    price: 159
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-reference-deck.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4861/161184861-origpic-856904.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4861/161184861-origpic-a6411b.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4861/161184861-origpic-6525cd.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4861/161184861-origpic-91f67e.png
+downloads:
+  - label: KULT Divinity Lost - Reference Deck.pdf
+    url: https://drive.google.com/uc?export=view&id=1qXyUxsk742YaQ5FpeFoSegaRok43YlGK

@@ -1,0 +1,22 @@
+product_number: KDL-225
+title: 'Gamer Fan Pack for KULT: Divinity Lost'
+description: |-
+  A cloth bag with the Sephirot and Qliphoth motif, as well as a custom pin with
+  the Kult Sephirot symbol.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-27'
+updated_date: '2025-10-30'
+prices:
+  - currency: eur
+    price: 16
+  - currency: sek
+    price: 159
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-gamer-fan-pack.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h5031/161185031-origpic-64044f.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h5031/161185031-origpic-74a2ed.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h5031/161185031-origpic-f1e941.png

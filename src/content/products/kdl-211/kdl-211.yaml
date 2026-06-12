@@ -1,0 +1,26 @@
+product_number: KDL-211
+title: 'Tarot Cards for KULT: Divinity Lost'
+description: |-
+  Tarot Cards for KULT: Divinity Lost to be used in the game or for planning a
+  campaign.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2018-08-27'
+updated_date: '2026-05-16'
+prices:
+  - currency: eur
+    price: 29
+  - currency: sek
+    price: 299
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-tarot-cards-pre-order.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4753/161184753-origpic-ea6e41.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4753/161184753-origpic-c6c1d2.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4753/161184753-origpic-a1c4df.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4753/161184753-origpic-e09747.png
+downloads:
+  - label: KULT Divinity Lost - Tarot Deck.pdf
+    url: https://drive.google.com/uc?export=view&id=1iqmAGFO4j_-Ulx2nbLFO18EEf60jD82X

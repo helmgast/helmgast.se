@@ -1,0 +1,18 @@
+product_number: EON-646
+title: Vapenkortlek, tillbehör
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2026-01-04'
+prices:
+  - currency: eur
+    price: 14.1
+  - currency: sek
+    price: 149
+shop_url: https://webshop.helmgast.se/sv/eon/vapenkortlek-1.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0895/90540895-origpic-9699bb.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0895/90540895-origpic-b0edcd.png

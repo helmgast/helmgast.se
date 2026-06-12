@@ -1,0 +1,24 @@
+product_number: HT-104
+title: 'Äventyr: Greve Kallarys skatt'
+description: |-
+  Ett brev från forntiden. Skatter och rikedomar gömda på en hemlig ö!  
+  Faror i havet, döda som går igen, och kataklysmiska katastrofer! Detta och mer
+  därtill väntar i Slingerkustens skärgård.
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2017-11-08'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 15
+  - currency: sek
+    price: 159
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/aventyr-greve-kallarys-skatt.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9160/152999160-origpic-90ef41.png
+downloads:
+  - label: HT Greve Kallarys Skatt 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1Jl1VrTBIDW3EoAuJH9WtJ9SWMfotY_9i

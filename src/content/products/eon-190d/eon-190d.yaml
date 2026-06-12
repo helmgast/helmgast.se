@@ -1,0 +1,30 @@
+product_number: EON-190D
+title: Genom vind och glas [PDF]
+description: |-
+  Genom vind och glas är en samlingsvolym som innehåller de fyra första delarna
+  Diamantäpplet, Katres gåtor, Av blod komna och Ödesväven. Alla delar är
+  uppdaterade till Eon IV:s regelsystem och formgivning.  
+  372 sidor.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-05-27'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 13
+  - currency: sek
+    price: 139
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/genom-vind-och-glas-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1175/183991175-origpic-6955b6.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1175/183991175-origpic-7c3ba2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1175/183991175-origpic-66966b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1175/183991175-origpic-f863ec.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1175/183991175-origpic-d1e0d6.jpg
+downloads:
+  - label: sylfens_vrede_genom_vind_och_glas.pdf
+    url: https://drive.google.com/uc?export=view&id=1QxO-JDs2QZ3fwH1KjfoXDnqNDq7NmEnG

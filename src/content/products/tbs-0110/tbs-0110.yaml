@@ -1,0 +1,17 @@
+product_number: TBS-0110
+title: Cloth bag
+description: Carry your Troubleshooters swag like a pro.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-09-12'
+updated_date: '2025-12-19'
+prices:
+  - currency: eur
+    price: 9
+  - currency: sek
+    price: 89
+shop_url: https://webshop.helmgast.se/troubleshooters/cloth-bag.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9739/185159739-origpic-b9f186.png

@@ -1,0 +1,21 @@
+product_number: EON-960
+title: Eon posterpaket
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-10'
+updated_date: '2025-11-27'
+prices:
+  - currency: eur
+    price: 14
+  - currency: sek
+    price: 149
+shop_url: https://webshop.helmgast.se/sv/eon/posters-eon.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3561/160703561-origpic-25582c.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3561/160703561-origpic-f1da85.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3561/160703561-origpic-af0251.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3561/160703561-origpic-b703fb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3561/160703561-origpic-c624de.jpg

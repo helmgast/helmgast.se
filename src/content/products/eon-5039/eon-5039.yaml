@@ -1,0 +1,20 @@
+product_number: EON-5039
+title: 'Eon III: Fjärran Riken'
+description: |-
+  En bok om de exotiska rikena Menon-Aun, Mio, Enara, Tarhai, Dhurkoor,
+  Kryddöarna, Therne, Luberos, Lalasta och Sinadera.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 11.3
+  - currency: sek
+    price: 119
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/fjarran-riken.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4451/90644451-origpic-095618.jpg

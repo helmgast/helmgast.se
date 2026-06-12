@@ -1,0 +1,23 @@
+product_number: NR-09D
+title: Noir Regelbok [PDF]
+description: |-
+  Det prisbelönta (Bästa rollspel 2006 enligt Fenix) rollspelet gör åter entré,
+  som en PDF.
+language: sv
+world: noir
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-05-16'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 15
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/noir/noir-regelbok-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1319/176631319-origpic-7de328.png
+downloads:
+  - label: Noir Grundbok.pdf
+    url: https://drive.google.com/uc?export=view&id=14gPWMF9YHpv9ijCnE_Uwwr12NwVXbv2W

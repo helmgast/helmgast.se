@@ -1,0 +1,35 @@
+product_number: EON-804
+title: Damarien, helmgastutgåva, landsmodul
+description: |-
+  SISTA EX AV DENNA PRODUKT, KANTSTÖTT  
+    
+  PDF ingår (se mer om leverans nedan). Modul som behandlar allt om landet
+  Damarien - upplev äventyret bakom de stängda gränserna och intrigerna mellan
+  landets makthavare.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2017-06-08'
+updated_date: '2025-11-27'
+prices:
+  - currency: eur
+    price: 49.8
+  - currency: sek
+    price: 529
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/damarien-helmgastutgava.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0454/128810454-origpic-b1f7a3.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0454/128810454-origpic-ff11c7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0454/128810454-origpic-c28991.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0454/128810454-origpic-04b576.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0454/128810454-origpic-eb815a.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0454/128810454-origpic-6b7fe0.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0454/128810454-origpic-b7d2b9.jpg
+downloads:
+  - label: Eon Damarien Low.pdf
+    url: https://drive.google.com/uc?export=view&id=1MpXdJdTr_5rX0TDdLPl45dWUgvaZ8EjG
+  - label: Eon Damarien High.pdf
+    url: https://drive.google.com/uc?export=view&id=1MmKE3dkQylX13D0wSUNekxN3b9J-cKWt

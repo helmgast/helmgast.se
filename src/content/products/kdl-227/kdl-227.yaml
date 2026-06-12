@@ -1,0 +1,17 @@
+product_number: KDL-227
+title: 'KULT: Divinity Lost Sephirot Pin'
+description: A custom pin with the Kult Sephirot symbol.
+language: en
+publisher: helmgast.se
+world: kult
+type: book
+status: available
+created_date: '2024-12-06'
+updated_date: '2025-12-01'
+prices:
+  - currency: eur
+    price: 9
+  - currency: sek
+    price: 89
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-sephirot-pin.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4783/216844783-origpic-ef6b68.png

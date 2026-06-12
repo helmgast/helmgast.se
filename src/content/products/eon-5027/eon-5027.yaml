@@ -1,0 +1,18 @@
+product_number: EON-5027
+title: 'Eon III: Monster i Mundana'
+description: En bok om Mundanas fruktade monster och skräckinjagande styggelser
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/monster-i-mundana.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3163/90653163-origpic-65d008.jpg

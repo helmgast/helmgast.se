@@ -1,0 +1,73 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import ProductIntro from './ProductIntro.astro';
+import Site from './Site.astro';
+
+interface Props {
+    product: CollectionEntry<'products'>;
+}
+
+const { product } = Astro.props;
+const d = product.data;
+const title = d.title;
+const description = d.description;
+---
+
+<Site title={title}>
+    {d.cover_image && (
+        <meta slot="head" property="og:image" content={d.cover_image} />
+    )}
+
+    <div class="page-header">
+        <div class="container">
+            <h1>
+                {d.title}
+                {d.family && <small>{d.family}</small>}
+            </h1>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <ProductIntro product={product} />
+            <div class="col-lg-9 col-md-8 col-sm-12 content">
+                {description && (
+                    <div class="article-text">
+                        <p class="lead">{description}</p>
+                    </div>
+                )}
+
+                {d.images && d.images.length > 0 && (
+                    <div class="article-text">
+                        <ul>
+                            {d.images.map(img => (
+                                <li><img src={img} alt={d.title} loading="lazy" /></li>
+                            ))}
+                        </ul>
+                    </div>
+                )}
+
+                {d.downloads && d.downloads.length > 0 && (
+                    <div class="product-downloads margin-above">
+                        <h3><span class="glyphicon glyphicon-download-alt"></span> Downloads</h3>
+                        <ul class="list-unstyled">
+                            {d.downloads.map(dl => (
+                                <li class="product-download-item">
+                                    <span class="glyphicon glyphicon-lock text-muted"></span>
+                                    <span class="text-muted"> {dl.label}</span>
+                                    {dl.description && <small class="text-muted"> — {dl.description}</small>}
+                                </li>
+                            ))}
+                        </ul>
+                        <p class="text-muted">
+                            <small>
+                                <span class="glyphicon glyphicon-info-sign"></span>
+                                Downloads are available after purchase
+                            </small>
+                        </p>
+                    </div>
+                )}
+            </div>
+        </div>
+    </div>
+</Site>

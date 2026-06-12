@@ -1,0 +1,19 @@
+product_number: EON-848
+title: Eon-tärningar, tillbehör
+description: |-
+  Eon-tärningar med Daakkors istället för sexor. Paketet innehåller åtta
+  sexsidiga tärningar, en tiosidig 0-9 och en tiosidig 00-90.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2015-06-10'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 9.4
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/eon/eon-tarningar.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4778/28604778-origpic-2a2123.jpg

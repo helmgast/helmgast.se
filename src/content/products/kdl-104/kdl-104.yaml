@@ -1,0 +1,28 @@
+product_number: KDL-104
+title: Bible Edition 2nd Version - 4th Edition Core Rules
+description: |-
+  This is the second version of the KULT: Divinitly Lost Bible Edition of the
+  4th Edition Core Rules. It's a “pocket version” of the Core Rules, in an all-
+  text version, in the traditional shape of a bible.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2020-02-16'
+updated_date: '2026-05-21'
+prices:
+  - currency: eur
+    price: 45
+  - currency: sek
+    price: 449
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/bible-edition-2nd-version-4th-edition-core-rules.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4955/174664955-origpic-4cc775.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4955/174664955-origpic-8969df.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4955/174664955-origpic-c04b4d.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4955/174664955-origpic-90391b.png
+downloads:
+  - label: KULT Divinity Lost - 4th Edition Core Rules.pdf
+    url: https://drive.google.com/uc?export=view&id=1SUxm2gNfcWqpWxdpQXR7rLxMldWcEoPP

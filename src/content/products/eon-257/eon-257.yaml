@@ -1,0 +1,21 @@
+product_number: EON-257
+title: Kompendium Lägre vandöda
+description: Kompendium över lägre vandöda.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-11-01'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 12
+  - currency: sek
+    price: 119
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/kompendium-lagre-vandoda.html
+cover_image: https://cdn.abicart.com/shop/images/186183251-origpic-2ff345/ws51/49251/art51/h3251/vandoda.jpg
+downloads:
+  - label: kompendium_nekrotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=122L-hysKRvvLe88OKuJgkWnwRXrVmiNE

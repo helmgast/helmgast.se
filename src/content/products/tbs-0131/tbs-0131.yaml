@@ -1,0 +1,29 @@
+product_number: TBS-0131
+title: The Great Champagne Galop (Deluxe Edition)
+description: |-
+  An inheritance. A bottle of champagne. A horrible family.  
+  When the owner of the de Vraïe champagne house dies, his heirs scramble to get
+  control of the company. The chase for the deed of a champagne company will
+  take the characters from Milan to Los Angeles to the sleepy town of Montagne.  
+  The adventure is suitable for 3-5 players.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2024-10-31'
+updated_date: '2025-12-17'
+prices:
+  - currency: eur
+    price: 39
+  - currency: sek
+    price: 429
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/the-great-champagne-galop-deluxe-edition.html
+cover_image: https://cdn.abicart.com/shop/images/216102403-origpic-90d61c/ws51/49251/art51/h2403/Mockup-3-TGCG-deluxe.png
+images:
+  - >-
+    https://cdn.abicart.com/shop/images/216102403-origpic-f5a07e/ws51/49251/art51/h2403/Mockup-the-great-champagne-galop-deluxe.jpg
+downloads:
+  - label: TBS-0130-The-Great-Champagne-Galop-v1.pdf
+    url: https://drive.google.com/file/d/1Oh1rcJfM7hrpunfYaFUrBDTOVdTw0RBo/view

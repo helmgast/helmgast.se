@@ -1,0 +1,34 @@
+product_number: KDL-130
+title: Taroticum and Other Tales - Scenario collection
+description: |-
+  The hardcover scenario collection book - Taroticum and Other Tales - for KULT:
+  Divinity Lost.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2018-08-27'
+updated_date: '2026-05-05'
+prices:
+  - currency: eur
+    price: 40
+  - currency: sek
+    price: 399
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-taroticum-and-other-tales.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-9f9a0b.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-4fded6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-1084c3.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-c9974d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-8c9c47.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-149991.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-456f6a.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-40c84b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-acde15.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-c3d7d8.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2325/161162325-origpic-a881ee.jpg
+downloads:
+  - label: KULT Divinity Lost - Taroticum and Other Tales.pdf
+    url: https://drive.google.com/uc?export=view&id=1RCH5U4HvYFrA5Ru7cx40KnORDXjNKCoU

@@ -1,0 +1,30 @@
+product_number: EON-041
+title: Magi - den förbjudna konsten, unik Magikratutgåva
+description: Extra lyxig utgåva med omslag i purpur och guld.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2023-04-30'
+updated_date: '2025-09-02'
+prices:
+  - currency: eur
+    price: 62.9
+  - currency: sek
+    price: 669
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-den-forbjudna-konsten-magikratutgava.html
+cover_image: https://cdn.abicart.com/shop/images/201992759-origpic-f84969/ws51/49251/art51/h2759/Magi_magikrat_photo.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-19e1ae.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-bb5d57.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-861f93.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-d2a7a7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-df929f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-7a018d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-e9b8f6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2759/201992759-origpic-b590c6.jpg
+downloads:
+  - label: Eon Magi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tNh4HDNneKEx90QBrkG8kSSa61c-INPZ

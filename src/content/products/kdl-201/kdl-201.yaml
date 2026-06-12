@@ -1,0 +1,17 @@
+product_number: KDL-201
+title: 'Small Dice set for KULT: Divinity Lost '
+description: 'A dice set with two custom-made d10 for KULT: Divinity Lost.'
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-27'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 11
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-dice-set.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h5347/161185347-origpic-ff6e53.png

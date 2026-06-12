@@ -1,0 +1,31 @@
+product_number: NEO-105D
+title: Neotech Edge System [PDF]
+description: |-
+  Moddad. Injackad. Övervakad.  
+  Neotech Edge är ett nydanande cyberpunk-rollspel i en framtid där miljön och
+  tekniken löpt amok. Grundregelbok, 312s PDF.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-05-17'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 20
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-system-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3837/176633837-origpic-9751a6.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3837/176633837-origpic-fae501.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3837/176633837-origpic-454eb8.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3837/176633837-origpic-76dbd7.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3837/176633837-origpic-ac8d28.png
+downloads:
+  - label: System (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1ePp0te-fcKR7hhePh7zbqwCKx8APmvpl
+  - label: Eqip (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1mIyVDvihpY3r7qHrSmUIjeFbYZaFMcSj

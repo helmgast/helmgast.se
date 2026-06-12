@@ -1,0 +1,29 @@
+product_number: EON-508
+title: Eon – Kartpaket
+description: |-
+  Kartpaket till Eon bestående av följande kartor:  
+
+    * 100×70 cm, hela Mundana
+    * A2, Södra kontinenten
+    * A2, Stora arkipelagen
+    * A3, Mûhad & Jargien
+    * A3 Asharina och Takalorr
+    * A3 Thalamur & Consaber
+    * A3 Ebhron
+
+  Kartorna är ritade av Ferenc Mikael Mansen.
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: available
+created_date: '2025-07-28'
+updated_date: '2026-06-04'
+prices:
+  - currency: eur
+    price: 30
+  - currency: sek
+    price: 299
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-kartpaket.html
+cover_image: https://cdn.abicart.com/shop/images/221335211-origpic-67a10f/ws51/49251/art51/h5211/kartpaket.jpg

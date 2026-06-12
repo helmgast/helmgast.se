@@ -1,0 +1,63 @@
+product_number: EON-115D
+title: Magi - magiboken + 5 aspekter (PDF)
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2019-10-25'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 40
+  - currency: sek
+    price: 424
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-aspektpaket-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-c44b01.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-b985cc.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-fd30bc.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-c18f67.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-d380b6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-f7086e.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-9aae3f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-227cba.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-1c9831.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-fd97a4.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-1095ac.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-0c00db.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-bc178d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-fbd459.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-d83ac1.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-1a61eb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-479ebb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-c824ce.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-857832.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-01947d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-971877.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-5f575d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-ebabf3.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-438b57.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-c0fef7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-427018.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-2e3dab.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-43f732.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-cf5799.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-4ba191.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-e38dd4.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-89c20e.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0485/171510485-origpic-029786.jpg
+downloads:
+  - label: Eon Magi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tNh4HDNneKEx90QBrkG8kSSa61c-INPZ
+  - label: Eon Aspekt Biotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tiK06Lhwe66Wi8SRvYHgXvGMoGnw9fWs
+  - label: Eon Aspekt Geotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tgvqPi8wTT0yUEz6b6njX35KzkXA43Fh
+  - label: Eon Aspekt Heliotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tcF0wkEOn5sx5s-PV0YwHfVKQB7Zcdkl
+  - label: Eon Aspekt Kosmotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1t__Qk31xqyQgpycvizBP328TORg3rs7T
+  - label: Eon Aspekt Pyrotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tU4UfX2GFHnV2hd_KNMx3L-y653x73DI

@@ -1,0 +1,21 @@
+product_number: EA-202D
+title: Ereb Altor – Hjältar från Kopparhavet (pdf)
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: digital
+status: available
+created_date: '2025-10-08'
+updated_date: '2026-04-05'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-hjaltar-fran-kopparhavet-pdf.html
+cover_image: >-
+  https://cdn.abicart.com/shop/images/222422279-origpic-4d9635/ws51/49251/art51/h2279/Ereb-Altor_hjaltar_fran_kopparhavet_mockup.png
+downloads:
+  - label: ereb_altor_hjaltar_fran_kopparhavet.pdf
+    url: https://drive.google.com/file/d/1jOxLDEt7ur6wA4Jd54iy_RYGeg87q6nU/view?usp=sharing

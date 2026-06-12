@@ -1,0 +1,35 @@
+product_number: KDL-100
+title: 4th Edition Core Rules
+description: 'The hardcover Core Rules for the 4th Edition of Kult - KULT: Divinity Lost.'
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-26'
+updated_date: '2026-05-16'
+prices:
+  - currency: eur
+    price: 59
+  - currency: sek
+    price: 599
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-4th-edition-core-rules.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-cc2a1a.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-a87385.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-fd4728.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-b0b16c.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-a3ceea.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-883606.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-083920.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-3003a6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-fd1bdb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-f7d4e6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-b25e95.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-d84e98.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-de90c3.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9035/161159035-origpic-c57b98.jpg
+downloads:
+  - label: KULT Divinity Lost - 4th Edition Core Rules.pdf
+    url: https://drive.google.com/uc?export=view&id=1SUxm2gNfcWqpWxdpQXR7rLxMldWcEoPP

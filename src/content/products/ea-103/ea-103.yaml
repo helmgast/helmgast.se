@@ -1,0 +1,20 @@
+product_number: EA-103
+title: "Ereb Altor –\_Kopparhavskrönikan (svart lyxutgåva)"
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: book
+status: available
+created_date: '2025-10-18'
+updated_date: '2026-04-15'
+prices:
+  - currency: eur
+    price: 55
+  - currency: sek
+    price: 549
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-kopparhavskronikan-svart-lyxutgava.html
+cover_image: https://cdn.abicart.com/shop/images/222491123-origpic-814022/ws51/49251/art51/h1123/eablack1.png
+downloads:
+  - label: ereb_altor_kopparhavskronikan.pdf
+    url: https://drive.google.com/file/d/1dIb-ceMgbvRZnlAUVEWtijIezyVETqek/view?usp=sharing

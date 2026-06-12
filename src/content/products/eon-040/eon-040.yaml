@@ -1,0 +1,29 @@
+product_number: EON-040
+title: Magi - den förbjudna konsten
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-10-12'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 28
+  - currency: sek
+    price: 299
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-den-forbjudna-konsten.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-042bbf.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-c69fca.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-678252.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-a9385c.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-7f5ea6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-1ce358.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-07f459.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-1d3319.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4167/170984167-origpic-9b2c9b.jpg
+downloads:
+  - label: Eon Magi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tNh4HDNneKEx90QBrkG8kSSa61c-INPZ

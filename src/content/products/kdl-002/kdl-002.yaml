@@ -1,0 +1,37 @@
+product_number: KDL-002
+title: Enlightened Edition - Original Kickstarter Version - Core Rules
+description: |-
+  The Enlightened Edition of the Core Rules for KULT: Divinity Lost (limited
+  Original Kickstarter Version )
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-03-23'
+updated_date: '2026-04-08'
+prices:
+  - currency: eur
+    price: 72
+  - currency: sek
+    price: 729
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/rare-editions/enlightened-edition-original-kickstarter-version-core-rules.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-a525d3.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-c584b0.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-b40e6a.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-f8812d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-30a154.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-93e4bd.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-83791b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-6d87c5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-17dbf0.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-f34778.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-e50a75.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-d9bfc2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-348b25.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9871/165619871-origpic-8eeba7.jpg
+downloads:
+  - label: KULT Divinity Lost - 4th Edition Core Rules.pdf
+    url: https://drive.google.com/uc?export=view&id=1SUxm2gNfcWqpWxdpQXR7rLxMldWcEoPP

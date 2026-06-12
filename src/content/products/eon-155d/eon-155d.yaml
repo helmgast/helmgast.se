@@ -1,0 +1,29 @@
+product_number: EON-155D
+title: Magi - pyrotropi (PDF)
+description: |-
+  PDF:en för dig som vill spela pyromantiker (eldmagiker) som kan fylla personer
+  med aggression, sprida giftig rök och självklart sätta eld på ett och annat.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2019-10-25'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 5.6
+  - currency: sek
+    price: 59
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-pyrotropi-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0397/171510397-origpic-b37f3a.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0397/171510397-origpic-44a8c2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0397/171510397-origpic-281973.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0397/171510397-origpic-cb3ad6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0397/171510397-origpic-039808.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0397/171510397-origpic-21a88e.jpg
+downloads:
+  - label: Eon Aspekt Pyrotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tU4UfX2GFHnV2hd_KNMx3L-y653x73DI

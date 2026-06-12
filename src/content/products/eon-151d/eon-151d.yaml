@@ -1,0 +1,28 @@
+product_number: EON-151D
+title: Magi - biotropi (PDF)
+description: |-
+  PDF:en för dig som vill spela biomantiker (livsmagiker) som kan läka skador,
+  kontrollera naturen och fylla personer med känslor.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2019-10-25'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 5.6
+  - currency: sek
+    price: 59
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-biotropi-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0359/171510359-origpic-3090f3.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0359/171510359-origpic-c3652b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0359/171510359-origpic-aecf63.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0359/171510359-origpic-6b806f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0359/171510359-origpic-5e2da6.jpg
+downloads:
+  - label: Eon Aspekt Biotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tiK06Lhwe66Wi8SRvYHgXvGMoGnw9fWs

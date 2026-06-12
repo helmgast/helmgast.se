@@ -1,0 +1,34 @@
+product_number: EON-820
+title: Eon 20 Slipcase
+description: |-
+  Eon 20 är en slipcase i begränsad upplaga som innehåller två böcker,
+  grundboken för Eon IV och jubileumsmodulen "Äventyrets väg", båda med särskilt
+  jubileumsomslag.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-09-02'
+prices:
+  - currency: eur
+    price: 75.4
+  - currency: sek
+    price: 799
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-20.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0923/90540923-origpic-5e203b.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0923/90540923-origpic-b74d50.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0923/90540923-origpic-e54e99.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0923/90540923-origpic-63a035.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0923/90540923-origpic-d57bfd.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0923/90540923-origpic-59a938.jpg
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM
+  - label: Eon Äventyrets Väg.pdf
+    url: https://drive.google.com/uc?export=view&id=1M1JWWfViya4nvK6evsrjHj7HgzVvSuVk

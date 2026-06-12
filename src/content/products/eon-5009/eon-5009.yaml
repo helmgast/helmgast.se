@@ -1,0 +1,20 @@
+product_number: EON-5009
+title: 'Eon III: Jarla - Äventyr & Stadskampanj'
+description: |-
+  En gedigen genomgång av staden Jarla, komplett med kartor, personer och
+  politiska intriger. Dessutom medföljer ett komplett äventyr.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/jarla-aventyr-stadskampanj.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4475/90644475-origpic-d114b6.jpg

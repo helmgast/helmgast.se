@@ -1,0 +1,31 @@
+product_number: NEO-110
+title: Neotech Edge Pro Slipcase-paket
+description: |-
+  Lyxigt startpaket för cyberpunkspelet Neotech Edge, begränsad mängd kvar från
+  Kickstarter då bara totalt 210 exemplar tryckts
+language: sv
+world: neotech
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-09-11'
+updated_date: '2025-12-17'
+prices:
+  - currency: eur
+    price: 145
+  - currency: sek
+    price: 1549
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-slipcase-set.html
+cover_image: https://cdn.abicart.com/shop/images/170392711-origpic-1834bc/ws51/49251/art51/h2711/IMG_1174-3.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2711/170392711-origpic-224690.png
+downloads:
+  - label: System (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1ePp0te-fcKR7hhePh7zbqwCKx8APmvpl
+  - label: Eqip (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1mIyVDvihpY3r7qHrSmUIjeFbYZaFMcSj
+  - label: anon (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1GvdoL-MfjtTuOJFk75aGkvjCn5J7_DoM
+  - label: PRD (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1PmL1XT8TZMXdDpb-1qINIIcbO1zlf4hj

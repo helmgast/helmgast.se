@@ -1,0 +1,28 @@
+product_number: EON-050
+title: Magi - aspektpaket
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2019-10-12'
+updated_date: '2026-03-01'
+prices:
+  - currency: eur
+    price: 84
+  - currency: sek
+    price: 895
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-aspektpaket.html
+cover_image: https://cdn.abicart.com/shop/images/170984561-origpic-c6cee3/ws51/49251/art51/h4561/Banner_alla_bocker.jpg
+downloads:
+  - label: Eon Aspekt Biotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tiK06Lhwe66Wi8SRvYHgXvGMoGnw9fWs
+  - label: Eon Aspekt Geotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tgvqPi8wTT0yUEz6b6njX35KzkXA43Fh
+  - label: Eon Aspekt Heliotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tcF0wkEOn5sx5s-PV0YwHfVKQB7Zcdkl
+  - label: Eon Aspekt Kosmotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1t__Qk31xqyQgpycvizBP328TORg3rs7T
+  - label: Eon Aspekt Pyrotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tU4UfX2GFHnV2hd_KNMx3L-y653x73DI

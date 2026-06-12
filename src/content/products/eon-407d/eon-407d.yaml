@@ -1,0 +1,36 @@
+product_number: EON-407D
+title: Eon IV, grundbok (PDF)
+description: PDF för Grundboken - ladda ned nu!
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: digital
+status: available
+created_date: '2018-03-01'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 14.1
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/bok-eon-grundbok-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-a879be.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-f1f779.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-82a203.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-7f4045.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-44409e.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-7d0cb5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-aa7fb7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-692cfc.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-27cec9.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8142/156508142-origpic-6bf2bb.jpg
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM
+  - label: Grundbok-crowdfunderedition.pdf
+    url: https://helmgast.se/asset/download/grundbok-crowdfunderedition.pdf

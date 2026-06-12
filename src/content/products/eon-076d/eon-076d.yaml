@@ -1,0 +1,26 @@
+product_number: EON-076D
+title: Klostrets klagan, PDF
+description: |-
+  PDF av Klostrets klagan. Äventyret utspelas i det lilla klostret Nya Termina
+  ute i ödemarken, och munkarna ber nu om hjälp.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: out_of_stock
+created_date: '2022-04-03'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 5.9
+  - currency: sek
+    price: 59
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/klostrets-klagan-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h6939/190196939-origpic-12d595.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6939/190196939-origpic-f9b167.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6939/190196939-origpic-85af98.jpg
+downloads:
+  - label: klostrets_klagan.pdf
+    url: https://drive.google.com/file/d/1ljqZnbmrYDDH2zJuMVsU7dhA-_YAe7uU/view?usp=sharing

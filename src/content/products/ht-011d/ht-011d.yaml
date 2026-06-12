@@ -1,0 +1,38 @@
+product_number: HT-011D
+title: 'Startpaket: Hjältarnas tid [PDF]'
+description: |-
+  Hjältarnas tid är ett fantasyrollspel som öppnar porten till fantastiska
+  äventyr. Du tar rollen av en hjälte som försöker nå ära och berömmelse genom
+  att överkomma faror, besegra fiender, och finna skatter. Tillsammans med dina
+  vänner skapar du berättelsen och äventyret.
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-05-20'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 15
+  - currency: sek
+    price: 150
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/startpaket-hjaltarnas-tid-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-f5d7ea.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-6afd20.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-0144d2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-e3cdc6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-c2f62a.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-b707e7.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-6696a7.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-294733.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-26d8ec.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-ef506b.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-57833e.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-e80439.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2205/176822205-origpic-1e404d.png
+downloads:
+  - label: Hjältarnas Tid Grundbox 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1WWA6fc8u9ETWvB8_0GQBNq9jIAfNQC99

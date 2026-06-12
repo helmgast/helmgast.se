@@ -1,0 +1,33 @@
+product_number: KH-009D
+title: Kopparhavets hjältar - Grundbok [PDF]
+description: |-
+  Välkommen till en ny värld! Kopparhavets hjältar är ett spännande
+  äventyrsrollspel, med 230 sidor spelvärld, regler och äventyr. Denna digitala
+  grundbok innehåller allt du behöver för att spela Kopparhavets hjältar,
+  förutom fantasi, tärningar och rollformulär.
+language: sv
+world: kopparhavets-hjaltar
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-07-30'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 25
+  - currency: sek
+    price: 249
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kopparhavets-hjaltar/kopparhavets-hjaltar-grundbok-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1417/177841417-origpic-a6265c.png
+downloads:
+  - label: Kopparhavets Hjältar Grundbok v1.pdf
+    url: https://drive.google.com/open?id=1OCGNAUl-7-0LsaNOGsb1kpJMu5EAi16C
+  - label: kopparhavets-hjaltar/kopparhavet-karta-färg.pdf
+    url: https://drive.google.com/open?id=1v-zV720EPZDwTE06I2bjpRBLhSQwP88k
+  - label: bakgrundsblad-montarkun.pdf
+    url: https://drive.google.com/open?id=10JhNzkxwwbP_mdplcqjtPTSYXlu3RLUi
+  - label: bakgrundsblad-karuh.pdf
+    url: https://drive.google.com/open?id=1CFGvlvg0y6DD_mhuhrTaWbrR_dZlSnV3
+  - label: bakgrundsblad-baals-brygga.pdf
+    url: https://drive.google.com/open?id=1VErv3_bIBjqoVimrdiD5Mhai6VsvG1Gs

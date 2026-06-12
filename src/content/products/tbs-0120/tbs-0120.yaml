@@ -1,0 +1,26 @@
+product_number: TBS-0120
+title: The Ghost Knight Scenario Book (Standard Edition)
+description: |-
+  A castle. A ghost. A big surprise.  
+  A spooky mystery adventure which takes the characters to an alpine castle
+  hotel, to investigate the strange forces haunting it! Can the troubleshooters
+  reveal the secrets of the Ghost Knight?  
+  The adventure is suitable for 3-5 players.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2024-10-31'
+updated_date: '2026-05-28'
+prices:
+  - currency: eur
+    price: 28
+  - currency: sek
+    price: 324
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/the-ghost-knight-scenario-book-standard-edition.html
+cover_image: https://cdn.abicart.com/shop/images/216102363-origpic-a6fecb/ws51/49251/art51/h2363/Mockup-The-Ghost-Knight.jpg
+downloads:
+  - label: TBS-0120-The-Ghost-Knight-v1.pdf
+    url: https://drive.google.com/file/d/1g-IHPn_q-Wm_MCCsYlPoxNbM2yqZVZfF/view

@@ -1,0 +1,20 @@
+product_number: EON-509
+title: "Eon –\_Tärningsset"
+description: |-
+  8 sexsidiga tärningar med specialsymbol för obegränsade tärningsslag på sida 6  
+  1 tiosidig tärning 0–9  
+  1 tiosidig tärning 00–90
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: available
+created_date: '2025-07-28'
+updated_date: '2026-06-02'
+prices:
+  - currency: eur
+    price: 14
+  - currency: sek
+    price: 149
+shop_url: https://webshop.helmgast.se/sv/eon/eon-tarningsset.html
+cover_image: https://cdn.abicart.com/shop/images/221335225-origpic-301a24/ws51/49251/art51/h5225/eon5_foto_white2.png

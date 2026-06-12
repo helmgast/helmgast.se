@@ -1,0 +1,36 @@
+product_number: EON-932
+title: Eon 20 & kortlekar, paket
+description: Paket med Eon 20 Slipcase, vapenkortlek 1 och taktikkortlek.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-09-02'
+prices:
+  - currency: eur
+    price: 94.3
+  - currency: sek
+    price: 999
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-20-paket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-7b6b3a.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-743183.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-b6870b.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-e61634.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-9d61e2.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-a15d70.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-0b328b.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-d3ff3c.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-060a44.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-2d1a44.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0927/90540927-origpic-04e898.jpg
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM
+  - label: Eon Äventyrets Väg.pdf
+    url: https://drive.google.com/uc?export=view&id=1M1JWWfViya4nvK6evsrjHj7HgzVvSuVk

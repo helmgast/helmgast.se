@@ -1,0 +1,28 @@
+product_number: NEO-101
+title: Neotech Edge anon
+description: |-
+  En sfärbok som innehåller svaren på dina mest förbjudna frågor om Lagren, som
+  hur du håller dig gömd från övervakningen och hackar allt omkring. 152s
+  hårdpärm.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2019-10-21'
+updated_date: '2025-12-17'
+prices:
+  - currency: eur
+    price: 31
+  - currency: sek
+    price: 349
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-anon.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1593/171461593-origpic-b9c0ac.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1593/171461593-origpic-e3c5a8.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1593/171461593-origpic-b89253.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1593/171461593-origpic-52de25.png
+downloads:
+  - label: anon (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1GvdoL-MfjtTuOJFk75aGkvjCn5J7_DoM

@@ -1,0 +1,18 @@
+product_number: EON-414
+title: Damarien Beta PDF v0.2
+description: Damarien Beta PDF v0.2 - gratis
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: hidden
+created_date: '2017-08-15'
+updated_date: '2020-05-15'
+prices:
+  - currency: sek
+    price: 0
+tax: 0
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0270/136680270-origpic-d478fb.png
+downloads:
+  - label: Eon Damarien Beta v0.2.pdf
+    url: https://drive.google.com/uc?export=view&id=0B9Yw6zTS7mOpajhvRnZPd2Z2Z2M

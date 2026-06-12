@@ -1,0 +1,24 @@
+product_number: TBS-0051D
+title: Director's Control Display PDF [DIGITAL]
+description: |-
+  Hide your secrets from your players with the Director's Control Display. A GM
+  screen with three portrait panels, with the most vital information on the
+  inside – bilingual in French and English.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-09-12'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 15
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/directors-control-display-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0303/185160303-origpic-53a40c.png
+downloads:
+  - label: Troubleshooters GM screen.zip
+    url: https://drive.google.com/uc?export=view&id=1HOW3Jd4kUOhMickvXaeaqavqgxqRix5V

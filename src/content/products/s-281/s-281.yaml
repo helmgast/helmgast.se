@@ -1,0 +1,19 @@
+product_number: S-281
+title: Frakt (281 kr)
+description: |-
+  För separat betalning av frakt. Används endast när frakt särskilt ska
+  debiteras utanför order.
+language: sv
+publisher: helmgast.se
+type: shipping
+status: available
+created_date: '2018-10-17'
+updated_date: '2020-05-12'
+prices:
+  - currency: eur
+    price: 28
+  - currency: sek
+    price: 281
+tax: 0
+shop_url: https://webshop.helmgast.se/frakt/frakt-281-kr.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2085/162552085-origpic-90e241.png

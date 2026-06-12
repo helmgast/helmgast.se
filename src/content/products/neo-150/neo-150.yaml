@@ -1,0 +1,29 @@
+product_number: NEO-150
+title: Neotech Edge Resurspaket
+description: |-
+  Ett praktiskt paket med rollformulär och tillbehör som gör det enkelt och
+  snyggt att spela Neotech Edge.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-09-16'
+updated_date: '2026-01-04'
+prices:
+  - currency: eur
+    price: 24
+  - currency: sek
+    price: 249
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-resurspaket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h6491/170416491-origpic-dfc52e.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6491/170416491-origpic-303473.png
+downloads:
+  - label: Initiativbräde (utan bakgrund).pdf
+    url: https://drive.google.com/uc?export=view&id=1_EYHT0pJKdJOoSv2mIbaRhtQnnEdRDbl
+  - label: Initiativbräde.pdf
+    url: https://drive.google.com/uc?export=view&id=1RP_B3xw_UtTsZ0n5sh57LOrpim1v28WG
+  - label: Initiativmarkörer.pdf
+    url: https://drive.google.com/uc?export=view&id=1UnxBhCwrVrs1Y0DB_3lcDTViXiiJLnx9

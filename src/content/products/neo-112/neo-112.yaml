@@ -1,0 +1,34 @@
+product_number: NEO-112
+title: Neotech Edge Startpaket
+description: Enkelt startpaket för att börja spela Neotech Edge.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2019-10-21'
+updated_date: '2026-04-08'
+prices:
+  - currency: eur
+    price: 87
+  - currency: sek
+    price: 999
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-startpaket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1603/171461603-origpic-0697fd.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1603/171461603-origpic-92983e.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1603/171461603-origpic-fa385f.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1603/171461603-origpic-1a33c9.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1603/171461603-origpic-9f52f0.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1603/171461603-origpic-c8b7cb.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1603/171461603-origpic-fdd53b.png
+downloads:
+  - label: System (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1ePp0te-fcKR7hhePh7zbqwCKx8APmvpl
+  - label: Eqip (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1mIyVDvihpY3r7qHrSmUIjeFbYZaFMcSj
+  - label: anon (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1GvdoL-MfjtTuOJFk75aGkvjCn5J7_DoM
+  - label: PRD (flattened).pdf
+    url: https://drive.google.com/uc?export=view&id=1PmL1XT8TZMXdDpb-1qINIIcbO1zlf4hj

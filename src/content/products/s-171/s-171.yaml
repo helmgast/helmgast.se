@@ -1,0 +1,19 @@
+product_number: S-171
+title: Frakt (171 kr)
+description: |-
+  För separat betalning av frakt. Används endast när frakt särskilt ska
+  debiteras utanför order.
+language: sv
+publisher: helmgast.se
+type: shipping
+status: available
+created_date: '2018-10-17'
+updated_date: '2020-05-12'
+prices:
+  - currency: eur
+    price: 17
+  - currency: sek
+    price: 171
+tax: 0
+shop_url: https://webshop.helmgast.se/frakt/frakt-171-kr.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2077/162552077-origpic-5113eb.png

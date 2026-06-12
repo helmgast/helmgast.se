@@ -1,0 +1,21 @@
+product_number: EA-204D
+title: "Ereb Altor –\_Världskarta (PDF)"
+description: Digital version av Ereb Altor-kartan.
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: digital
+status: available
+created_date: '2025-10-26'
+updated_date: '2026-04-23'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-varldskarta-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4489/222654489-origpic-9baca2.png
+downloads:
+  - label: ereb_altor_varldskarta.pdf
+    url: https://drive.google.com/file/d/1VZh8MUg1Wi6bHMU_uRiXpQRFfacCJgsX/view?usp=drive_link

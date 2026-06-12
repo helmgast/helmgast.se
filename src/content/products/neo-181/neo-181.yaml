@@ -1,0 +1,22 @@
+product_number: NEO-181
+title: Neotech Edge T-shirt
+description: |-
+  Vi har ett fåtal exemplar kvar av Neotech Edge T-shirts, som aldrig sålts
+  föruts utan bara tilldelats medlemmar i Neotech-teamet. Passa på innan det är
+  för sent!
+language: sv
+publisher: helmgast.se
+world: neotech
+type: book
+status: out_of_stock
+created_date: '2023-04-16'
+updated_date: '2026-02-27'
+prices:
+  - currency: eur
+    price: 13
+  - currency: sek
+    price: 139
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-t-shirt.html
+cover_image: https://cdn.abicart.com/shop/images/201767605-origpic-cb36eb/ws51/49251/art51/h7605/IMG_1534.jpg
+images:
+  - https://cdn.abicart.com/shop/images/201767605-origpic-b7712f/ws51/49251/art51/h7605/IMG_1540.jpg

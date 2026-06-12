@@ -1,0 +1,32 @@
+product_number: KDL-110
+title: Beyond Darkness and Madness - Gamemaster Sourcebook
+description: |-
+  The hardcover Gamemaster sourcebook Beyond Darkness and Madness for KULT:
+  Divinity Lost
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2022-01-03'
+updated_date: '2026-06-01'
+prices:
+  - currency: eur
+    price: 40
+  - currency: sek
+    price: 399
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/beyond-darkness-and-madness-gamemaster-sourcebook.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4547/187854547-origpic-ad5655.png
+images:
+  - https://cdn.abicart.com/shop/images/187854547-origpic-8e77c7/ws51/49251/art51/h4547/BDM5.jpg
+  - https://cdn.abicart.com/shop/images/187854547-origpic-a39a35/ws51/49251/art51/h4547/BDM6.jpg
+  - https://cdn.abicart.com/shop/images/187854547-origpic-772dfa/ws51/49251/art51/h4547/BDM7.jpg
+  - https://cdn.abicart.com/shop/images/187854547-origpic-728a17/ws51/49251/art51/h4547/BDM8.jpg
+  - https://cdn.abicart.com/shop/images/187854547-origpic-abea17/ws51/49251/art51/h4547/BDM1.jpg
+  - https://cdn.abicart.com/shop/images/187854547-origpic-7614aa/ws51/49251/art51/h4547/BDM2.jpg
+  - https://cdn.abicart.com/shop/images/187854547-origpic-41ac6c/ws51/49251/art51/h4547/BDM3.jpg
+  - https://cdn.abicart.com/shop/images/187854547-origpic-3fd391/ws51/49251/art51/h4547/BDM4.jpg
+downloads:
+  - label: KULT Divinity Lost - Beyond Darkness and Madness.pdf
+    url: https://drive.google.com/file/d/1XNW-HFqXep8mRdi6XmMT9OzRYxQyK_ze/view?usp=sharing

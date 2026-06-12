@@ -1,0 +1,36 @@
+product_number: KDL-131
+title: Black Edition - Taroticum and Other Tales - Scenario collection
+description: |-
+  The “Black Edition” exclusive variant of the scenario collection book -
+  Taroticum and Other Tales - features an all-black cloth cover with the KULT
+  name in blood red. This is for the hardcore KULT-fan, looking for something
+  extraordinary.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2022-01-01'
+updated_date: '2026-05-16'
+prices:
+  - currency: eur
+    price: 60
+  - currency: sek
+    price: 599
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/black-edition-taroticum-and-other-tales-scenario-collection.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-a9afeb.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-351072.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-ffcf58.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-309312.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-1b5433.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-d90d61.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-2bce9a.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-ea3876.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-f4c98f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-991f78.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h6805/187846805-origpic-175d14.jpg
+downloads:
+  - label: KULT Divinity Lost - Taroticum and Other Tales.pdf
+    url: https://drive.google.com/uc?export=view&id=1RCH5U4HvYFrA5Ru7cx40KnORDXjNKCoU

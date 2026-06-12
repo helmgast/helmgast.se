@@ -1,0 +1,19 @@
+product_number: EON-968
+title: Eon poster Troende & Vandöd
+description: Affisch 70x50 cm
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: out_of_stock
+created_date: '2017-04-03'
+updated_date: '2025-10-20'
+prices:
+  - currency: eur
+    price: 9.4
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/eon/eon-affisch-darius-demon.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0222/120420222-origpic-b12815.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0222/120420222-origpic-72e2ad.jpg

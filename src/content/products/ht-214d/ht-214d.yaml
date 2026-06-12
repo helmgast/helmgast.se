@@ -1,0 +1,21 @@
+product_number: HT-214D
+title: 'Tillbehör: Hjältarnas väg [PDF]'
+description: En bok med fokus på rollpersonen till Hjältarnas väg.
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-05-20'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 7
+  - currency: sek
+    price: 75
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/tillbehor-hjaltarnas-vag-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h8455/176818455-origpic-ed1cad.png
+downloads:
+  - label: HT Hjältarnas Väg 20180827.pdf
+    url: https://drive.google.com/uc?export=view&id=1n71EH1ctN5SWdEuoy0mESziPgBtJOkT1

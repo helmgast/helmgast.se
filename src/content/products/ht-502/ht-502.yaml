@@ -1,0 +1,25 @@
+product_number: HT-502
+title: 'Paket: Hjältarnas Tid tillbehörspaket'
+description: Alla tillbehör till Hjältarnas Tid i ett paket!
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2017-12-07'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 39.6
+  - currency: sek
+    price: 419
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/paket-hjaltarnas-tid-tillbehorspaket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3008/154783008-origpic-de5aad.jpg
+downloads:
+  - label: HT Magins Väv 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1qmOlURC_biDq5Fp4vMyUI6dAdrRgyZcJ
+  - label: HT Sagor från Trollskogen 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1OmFXEJBJz4MOtGWiYyRyLuSTp6DyVkqI
+  - label: HT Greve Kallarys Skatt 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1Jl1VrTBIDW3EoAuJH9WtJ9SWMfotY_9i

@@ -1,0 +1,27 @@
+product_number: EA-004
+title: "Ereb Altor:\_Världskarta"
+description: |-
+  Utforska hela **Ereb Altor** med denna detaljerade **fyrfärgskarta** över den
+  klassiska fantasyvärlden.  
+  Kartans rika detaljer visar allt från Orghins isvidder till Solunas röda öknar  
+
+  PDF ingår.
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: book
+status: available
+created_date: '2025-10-08'
+updated_date: '2026-06-10'
+prices:
+  - currency: eur
+    price: 21
+  - currency: sek
+    price: 229
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-varldskarta.html
+cover_image: >-
+  https://cdn.abicart.com/shop/images/222422189-origpic-2a2b1e/ws51/49251/art51/h2189/EREB_ALTOR_VÄRLDSKARTA_Produktfoto.png
+downloads:
+  - label: ereb_altor_varldskarta.pdf
+    url: https://drive.google.com/file/d/1VZh8MUg1Wi6bHMU_uRiXpQRFfacCJgsX/view?usp=drive_link

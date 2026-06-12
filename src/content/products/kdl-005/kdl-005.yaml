@@ -1,0 +1,31 @@
+product_number: KDL-005
+title: Player's Guide - Original Kickstarter Version
+description: |-
+  The Player's Guide for KULT: Divinity Lost (limited Original Kickstarter
+  Version )
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-03-23'
+updated_date: '2025-12-21'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/rare-editions/player-s-guide-original-kickstarter-version.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-876a6d.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-d76ee3.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-6c0fd2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-a91fe0.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-2e89cb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-780fb2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-acde3c.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9879/165619879-origpic-685eb4.jpg
+downloads:
+  - label: KULT Divinity Lost - Players Guide.pdf
+    url: https://drive.google.com/uc?export=view&id=1R6tsuuzqCxGxYKHa_4xP1X9jL05zBwJb

@@ -1,0 +1,36 @@
+product_number: TBS-0020
+title: Core Rules Deluxe Edition
+description: |-
+  Where in the world will your next adventure take you?  
+  Welcome to The Troubleshooters, the action-adventure roleplaying game of
+  international mystery! Inspired by French and Belgian comics like Tintin,
+  Spirou et Fantasio, Yoko Tsuno and others, The Troubleshooters takes you on
+  exciting adventures around the globe. With gorgeous art in the same style and
+  intuitive and fast-paced rules, The Troubleshooters sucks you in to explore
+  exotic locations all over the world!
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-08-25'
+updated_date: '2025-12-17'
+prices:
+  - currency: eur
+    price: 52
+  - currency: sek
+    price: 579
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/core-rules-deluxe-edition.html
+cover_image: https://cdn.abicart.com/shop/images/184970119-origpic-0bad52/ws51/49251/art51/h0119/MUH052316.png
+images:
+  - https://cdn.abicart.com/shop/images/184970119-origpic-1527f6/ws51/49251/art51/h0119/MUH052316-dust-jacket.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0119/184970119-origpic-58b918.png
+  - https://cdn.abicart.com/shop/images/184970119-origpic-6701d3/ws51/49251/art51/h0119/tbs5.jpg
+  - https://cdn.abicart.com/shop/images/184970119-origpic-41909d/ws51/49251/art51/h0119/tbs4.jpg
+  - https://cdn.abicart.com/shop/images/184970119-origpic-fd275c/ws51/49251/art51/h0119/tbs3.jpg
+  - https://cdn.abicart.com/shop/images/184970119-origpic-ab805f/ws51/49251/art51/h0119/tbs2.jpg
+  - https://cdn.abicart.com/shop/images/184970119-origpic-300cd5/ws51/49251/art51/h0119/tbs1.jpg
+downloads:
+  - label: The-Troubleshooters-core-rules-FINAL.pdf
+    url: https://drive.google.com/uc?export=view&id=1i9S-HDYdXuau2QaR0ts3bavqtAa-a8xr

@@ -1,0 +1,29 @@
+product_number: EON-153D
+title: Magi - heliotropi (PDF)
+description: |-
+  PDF:en för dig som vill spela heliomantiker (solmagiker) som kan förbränna det
+  onda, framstå som en kunglighet eller ingjuta andra med mod.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2019-10-25'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 5.6
+  - currency: sek
+    price: 59
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-heliotropi-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0383/171510383-origpic-60de4b.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0383/171510383-origpic-ec4cf6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0383/171510383-origpic-4254e9.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0383/171510383-origpic-7d3beb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0383/171510383-origpic-cdc75b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0383/171510383-origpic-c9de8b.jpg
+downloads:
+  - label: Eon Aspekt Heliotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tcF0wkEOn5sx5s-PV0YwHfVKQB7Zcdkl

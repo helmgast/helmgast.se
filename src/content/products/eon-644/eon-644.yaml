@@ -1,0 +1,18 @@
+product_number: EON-644
+title: Taktikkortlek, tillbehör
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-08-31'
+prices:
+  - currency: eur
+    price: 14.1
+  - currency: sek
+    price: 149
+shop_url: https://webshop.helmgast.se/sv/eon/taktikkortlek.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0901/90540901-origpic-ec95fc.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0901/90540901-origpic-0d46ae.png

@@ -1,0 +1,29 @@
+product_number: KDL-122D
+title: The Black Madonna [DIGITAL PDF] - full-length campaign
+description: |-
+  The DIGITAL PDF version of the full length campaign book for KULT: Divinity
+  Lost.
+language: en
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2018-09-02'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 17
+  - currency: sek
+    price: 169
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/the-black-madonna-digital-pdf-full-length-campaign-pre-order.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h7797/161477797-origpic-d7883e.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7797/161477797-origpic-0fc7b9.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7797/161477797-origpic-8efaf7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7797/161477797-origpic-e6d9d3.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7797/161477797-origpic-bf46e2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7797/161477797-origpic-9d4baa.jpg
+downloads:
+  - label: KULT Divinity Lost - the Black Madonna.pdf
+    url: https://drive.google.com/uc?export=view&id=1DL94OcsE59EaRILJb8BZlXLFarf18zqx

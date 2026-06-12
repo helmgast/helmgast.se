@@ -1,0 +1,31 @@
+product_number: EON-902
+title: Eon IV, helmgastutgåva, grundbok
+description: PDF ingår (se mer om leverans nedan).
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-02-12'
+updated_date: '2020-05-15'
+prices:
+  - currency: eur
+    price: 61
+  - currency: sek
+    price: 649
+tax: 0.06
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-7729c0.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-9ba636.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-43c2ed.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-170ab9.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-540cb2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-0de108.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-c39a93.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-7ce0da.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0357/164790357-origpic-b72d38.jpg
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM

@@ -1,0 +1,27 @@
+product_number: TBS-0009
+title: Core Rules Octopus Edition
+description: |-
+  RARE OCTOPUS EDITION, LEATHER IMITATION
+
+  Where in the world will your next adventure take you?  
+  Welcome to The Troubleshooters, the action-adventure roleplaying game of
+  international mystery! Inspired by French and Belgian comics like Tintin,
+  Spirou et Fantasio, Yoko Tsuno and others, The Troubleshooters takes you on
+  exciting adventures around the globe. With gorgeous art in the same style and
+  intuitive and fast-paced rules, The Troubleshooters sucks you in to explore
+  exotic locations all over the world!
+language: en
+publisher: helmgast.se
+world: the-troubleshooters
+type: book
+status: out_of_stock
+created_date: '2024-12-23'
+updated_date: '2026-01-04'
+prices:
+  - currency: eur
+    price: 91
+  - currency: sek
+    price: 999
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/internal-core-rules-octopus-edition.html
+cover_image: https://cdn.abicart.com/shop/images/217116209-origpic-ebc0ee/ws51/49251/art51/h6209/01-Core-book-octopus.png

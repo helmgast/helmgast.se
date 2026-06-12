@@ -1,0 +1,28 @@
+product_number: HT-501
+title: 'Paket: Sommarlovspaket'
+description: |-
+  Ett prisvärt rollspels-startpaket med grundboxen till Hjältarnas tid plus
+  äventyret Sagor från Trollskogen
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2017-06-11'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 42.3
+  - currency: sek
+    price: 448
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/paket-sommarlovspaket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9932/129199932-origpic-dd49e3.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9932/129199932-origpic-b682a1.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9932/129199932-origpic-8cfa21.png
+downloads:
+  - label: Hjältarnas Tid Grundbox 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1WWA6fc8u9ETWvB8_0GQBNq9jIAfNQC99
+  - label: HT Sagor från Trollskogen 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1OmFXEJBJz4MOtGWiYyRyLuSTp6DyVkqI

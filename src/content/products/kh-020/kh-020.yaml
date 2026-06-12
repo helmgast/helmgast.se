@@ -1,0 +1,22 @@
+product_number: KH-020
+title: Kopparhavets hjältar - Rollformulärsblock
+description: |-
+  Innan Ereb Altor gavs ut till nya Drakar och Demoner gavs Kopparhavets hjältar
+  ut med regelmotorn från Hjältarnas tid. Detta är INTE kompatibelt med nya Ereb
+  Altor men passa på att skaffa de sista exemplaren för en komplett samling!
+
+  Rollformulärsblock med 20 formulär.
+language: sv
+world: kopparhavets-hjaltar
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2020-07-27'
+updated_date: '2026-01-20'
+prices:
+  - currency: eur
+    price: 15
+  - currency: sek
+    price: 149
+shop_url: https://webshop.helmgast.se/sv/kopparhavets-hjaltar/kopparhavets-hjaltar-rollformularsblock.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1033/177821033-origpic-31e41c.png

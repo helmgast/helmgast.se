@@ -1,0 +1,19 @@
+product_number: HT-512
+title: 'Posters: Hjältarnas Tid och Järn'
+language: sv
+publisher: helmgast.se
+world: hjaltarnas-tid
+type: book
+status: out_of_stock
+created_date: '2018-08-11'
+updated_date: '2025-11-27'
+prices:
+  - currency: eur
+    price: 9.4
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/jarn/posters-hjaltarnas-tid-och-jarn.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1735/160711735-origpic-39ec84.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1735/160711735-origpic-1329fd.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1735/160711735-origpic-fdd0e5.jpg

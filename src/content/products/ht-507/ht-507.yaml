@@ -1,0 +1,31 @@
+product_number: HT-507
+title: 'Paket: Hjältarnas Tid-paketet'
+description: Hjältarnas Tid med (nästan) alla tillbehör som ett paket!
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-04-10'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 105.78
+  - currency: sek
+    price: 1095
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/paket-hjaltarnas-tid-paketet.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4800/157144800-origpic-d0d7c5.png
+downloads:
+  - label: Hjältarnas Tid Grundbox 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1WWA6fc8u9ETWvB8_0GQBNq9jIAfNQC99
+  - label: HT Magins Väv 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1qmOlURC_biDq5Fp4vMyUI6dAdrRgyZcJ
+  - label: HT Sagor från Trollskogen 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1OmFXEJBJz4MOtGWiYyRyLuSTp6DyVkqI
+  - label: HT Greve Kallarys Skatt 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1Jl1VrTBIDW3EoAuJH9WtJ9SWMfotY_9i
+  - label: HT Sorgeveden 20180827.pdf
+    url: https://drive.google.com/uc?export=view&id=1j4Uxm2kCr6Fd7nMj7nw117NJvNLyMjiV
+  - label: HT Hjältarnas Väg 20180827.pdf
+    url: https://drive.google.com/uc?export=view&id=1n71EH1ctN5SWdEuoy0mESziPgBtJOkT1

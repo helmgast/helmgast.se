@@ -1,0 +1,19 @@
+product_number: KDL-999
+title: 'Posters for KULT: Divinity Lost'
+description: |-
+  This bundle consists of 4 posters with themes from the new 4th Edition of Kult
+  - KULT: Divinity Lost - as well as the 1st edition.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-27'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 46
+  - currency: sek
+    price: 459
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-posters.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4891/161184891-origpic-2cca83.png

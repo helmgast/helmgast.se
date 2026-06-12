@@ -1,0 +1,20 @@
+product_number: EON-5017
+title: 'Eon III: Consaber'
+description: |-
+  En hel bok om kungariket Consaber, dess avancerade sjöfart, hederliga riddare,
+  väldiga borgar och försvarsverken mot ärkefienden Thalamur!
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/consaber.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4397/90644397-origpic-17af86.jpg

@@ -1,0 +1,20 @@
+product_number: EA-102
+title: "Ereb Altor –\_Hjältar från Kopparhavet (svart lyxutgåva)"
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: book
+status: available
+created_date: '2025-10-18'
+updated_date: '2026-04-15'
+prices:
+  - currency: eur
+    price: 55
+  - currency: sek
+    price: 549
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-hjaltar-fran-kopparhavet-svart-lyxutgava.html
+cover_image: https://cdn.abicart.com/shop/images/222491121-origpic-cdc52a/ws51/49251/art51/h1121/eablack3.png
+downloads:
+  - label: ereb_altor_hjaltar_fran_kopparhavet.pdf
+    url: https://drive.google.com/file/d/1jOxLDEt7ur6wA4Jd54iy_RYGeg87q6nU/view?usp=sharing

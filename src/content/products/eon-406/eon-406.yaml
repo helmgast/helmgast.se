@@ -1,0 +1,33 @@
+product_number: EON-406
+title: Eon IV, grundbok
+description: PDF ingår (se mer om leverans nedan).
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: book
+status: out_of_stock
+created_date: '2015-06-10'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 33
+  - currency: sek
+    price: 349
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-grundbok.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-ed83ce.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-82e09f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-3cb1e5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-21001c.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-9e6be3.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-dac382.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-ed6993.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-19e7f7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4776/28604776-origpic-5db619.jpg
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM

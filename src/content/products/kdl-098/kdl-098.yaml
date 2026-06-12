@@ -1,0 +1,36 @@
+product_number: KDL-098
+title: Archon Collector's Edition - Core Rules [Chokmah] - KICKSTARTER LIMITED EDITION
+description: >-
+  This is the Kickstarter Limited Edition of the Core Rules, Archon Collector's Edition designated to the Archon
+  Chokmah. This book is printed in one copy only.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-09-02'
+updated_date: '2020-05-15'
+prices:
+  - currency: eur
+    price: 699
+  - currency: sek
+    price: 6995
+tax: 0.06
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-6a87d1.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-6d1fc8.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-a447af.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-77d742.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-5fd49b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-f73a38.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-db74fb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-a71925.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-65a7a6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-54ceeb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-289457.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-cfc463.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-26787d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7833/161477833-origpic-fb9367.jpg
+downloads:
+  - label: KULT Divinity Lost - 4th Edition Core Rules.pdf
+    url: https://drive.google.com/uc?export=view&id=1SUxm2gNfcWqpWxdpQXR7rLxMldWcEoPP

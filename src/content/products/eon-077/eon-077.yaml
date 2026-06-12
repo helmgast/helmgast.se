@@ -1,0 +1,28 @@
+product_number: EON-077
+title: Piratöarna
+description: |-
+  I äventyret Piratöarna är rollpersonerna inkvisitorer i en nybildad grupp,
+  speciellt sammansatt för att frita primod Arminius och reliken S:t Alexius
+  avhuggna hand.  
+  PDF ingår.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2022-04-03'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 16.9
+  - currency: sek
+    price: 169
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/piratoarna.html
+cover_image: https://cdn.abicart.com/shop/images/190198527-origpic-dd8ef8/ws51/49251/art51/h8527/mockup-piratöarna.png
+images:
+  - https://cdn.abicart.com/shop/images/190198527-origpic-0f05d1/ws51/49251/art51/h8527/piratoarna_4-5_okarta.jpg
+  - https://cdn.abicart.com/shop/images/190198527-origpic-5fbbd7/ws51/49251/art51/h8527/piratoarna_20-21.jpg
+downloads:
+  - label: piratoarna.pdf
+    url: https://drive.google.com/file/d/1lhvkhkhjBEZ1ZQ4rr_jg0GJKwMv0GNgc/view?usp=sharing

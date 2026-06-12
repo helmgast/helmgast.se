@@ -1,0 +1,32 @@
+product_number: EON-808
+title: Strid - kalla sinnen och härdat stål (helmgastutgåva)
+description: |-
+  Välkommen till krigarnas syskonskara! Denna modul utökar grundbokens
+  stridskapitel och gör att du kan ta stridens konsekvenser till en ny nivå. Här
+  finner du nya regler för strid, ordnar och sällskap, tillsammans med vapen och
+  rust­ningar och hur man tillverkar dem.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-09-23'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 51.9
+  - currency: sek
+    price: 549
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/strid-kalla-sinnen-och-hardat-stal-helmgastutgava.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h7353/170597353-origpic-cb52aa.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7353/170597353-origpic-dfd03b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7353/170597353-origpic-da9f55.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7353/170597353-origpic-447ad3.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7353/170597353-origpic-f41847.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7353/170597353-origpic-6e6a3a.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7353/170597353-origpic-f8dd1e.jpg
+downloads:
+  - label: Eon Strid.pdf
+    url: https://drive.google.com/uc?export=view&id=1-OSo2p5Dw9Xyfab0NwmTBnt8w1x2hW08

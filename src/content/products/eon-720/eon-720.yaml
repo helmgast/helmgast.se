@@ -1,0 +1,13 @@
+product_number: EON-720
+title: Codex Mundana - Nermada (PDF)
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-08-09'
+updated_date: '2021-08-09'
+prices:
+  - currency: sek
+    price: 39
+shop_url: https://webshop.helmgast.se/eon/codex-mundana-nermada-pdf.html

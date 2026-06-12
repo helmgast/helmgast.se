@@ -1,0 +1,20 @@
+product_number: EA-206D
+title: "Ereb Altor –\_Portolanen karta (PDF)"
+description: Digital version av Portolanen-kartan
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: digital
+status: available
+created_date: '2025-10-26'
+updated_date: '2026-04-23'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-portolanen-karta-pdf.html
+downloads:
+  - label: portolanen.pdf
+    url: https://drive.google.com/file/d/117RIzyTginAmjQG-napgqgoV_NV80XzX/view?usp=drive_link

@@ -1,0 +1,30 @@
+product_number: HT-012
+title: 'Grundbok: Hjältarnas Tid reviderad&uppdaterad'
+description: |-
+  Hjältarnas tid är ett fantasyrollspel som öppnar porten till fantastiska
+  äventyr. Du tar rollen av en hjälte som försöker nå ära och berömmelse genom
+  att överkomma faror, besegra fiender, och finna skatter. Tillsammans med dina
+  vänner skapar du berättelsen och äventyret. Denna bok är en reviderad och
+  uppdaterad utgåva med samma innehåll som boxen.
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-06-03'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 21.9
+  - currency: sek
+    price: 219
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/grundbok-hjaltarnas-tid-revideraduppdaterad.html
+cover_image: https://cdn.abicart.com/shop/images/184164347-origpic-2fb633/ws51/49251/art51/h4347/HT-reviderad-och-uppdaterad.png
+images:
+  - >-
+    https://cdn.abicart.com/shop/images/184164347-origpic-5b35ad/ws51/49251/art51/h4347/HT-reviderad-och-uppdaterad-pdf.png
+downloads:
+  - label: Hjältarnas Tid Reviderad Uppdaterad.pdf
+    url: https://helmgast.se/asset/download/hjaltarnas-tid-reviderad-uppdaterad.pdf
+    description: Hjältarnas Tid reviderad och uppdaterad

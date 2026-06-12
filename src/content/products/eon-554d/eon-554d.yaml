@@ -1,0 +1,20 @@
+product_number: EON-554D
+title: Mellan tid och ljus (pdf)
+language: sv
+publisher: helmgast.se
+world: eon
+type: digital
+status: available
+created_date: '2025-07-28'
+updated_date: '2026-01-23'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/mellan-tid-och-ljus-pdf.html
+cover_image: https://cdn.abicart.com/shop/images/221335305-origpic-2d39ef/ws51/49251/art51/h5305/mellan_tid_ljus_pdf.jpg
+downloads:
+  - label: mellan_tid_och_ljus.pdf
+    url: https://drive.google.com/file/d/1hjWTIi4EEJpuuquK8bZ9dGFDaotq-9wY/view

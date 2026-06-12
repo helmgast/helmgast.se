@@ -1,0 +1,28 @@
+product_number: FE-51
+title: 'Paket: Allt till Järn'
+description: SWEDISH PRODUCT BUNDLE
+language: sv
+world: jarn
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-10'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/jarn/paket-allt-till-jarn.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3551/160703551-origpic-b90739.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3551/160703551-origpic-dfcac7.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3551/160703551-origpic-0ea3ea.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3551/160703551-origpic-f88141.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h3551/160703551-origpic-f98d88.png
+downloads:
+  - label: Järn Grundbok US Comic.pdf
+    url: https://drive.google.com/uc?export=view&id=1oSbJ3GhDpEX18SJ1BHpTyZ5JmO9PTslA
+  - label: Järn Världsträdets grenar 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1Cdg4wk-RTz8zd3POHGkWiJtUjrXMlUIA

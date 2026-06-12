@@ -1,0 +1,24 @@
+product_number: TBS-0080
+title: International Passport Set
+description: |-
+  Never leave your passport at home when going on an adventure! A set of five 32
+  page booklets to keep track of your Troubleshooter's adventures and personal
+  data, each with a different cover with an international theme.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2021-09-12'
+updated_date: '2026-05-31'
+prices:
+  - currency: eur
+    price: 30
+  - currency: sek
+    price: 299
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/international-passport-set.html
+cover_image: https://cdn.abicart.com/shop/images/185159713-origpic-a3cf5c/ws51/49251/art51/h9713/MUH052326.png
+downloads:
+  - label: TBS-0080-international-passport.zip
+    url: https://drive.google.com/uc?export=view&id=1foF1s6vwYLg18alNWfGwKNWuphNVUfE_

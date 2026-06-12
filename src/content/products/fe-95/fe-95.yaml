@@ -1,0 +1,19 @@
+product_number: FE-95
+title: 'Poster: Järn'
+description: Affisch 70x50 cm
+language: sv
+world: jarn
+publisher: helmgast.se
+type: digital
+status: out_of_stock
+created_date: '2017-04-03'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 9.4
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/jarn/jarn-affisch-omslag.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4162/120424162-origpic-174162.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4162/120424162-origpic-98e09d.jpg

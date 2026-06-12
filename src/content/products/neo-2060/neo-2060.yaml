@@ -1,0 +1,18 @@
+product_number: NEO-2060
+title: Neotech 2 Digitalt Paket
+description: Allt utgivet material till Neotech 2 i PDF-format.
+language: sv
+publisher: helmgast.se
+world: neotech
+type: digital
+status: available
+created_date: '2026-04-07'
+updated_date: '2026-04-07'
+prices:
+  - currency: eur
+    price: 28
+  - currency: sek
+    price: 299
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-2-digitalt-paket.html
+cover_image: https://cdn.abicart.com/shop/images/224446825-origpic-7f242e/ws51/49251/art51/h6825/N2-Digitalt-Paket.jpg

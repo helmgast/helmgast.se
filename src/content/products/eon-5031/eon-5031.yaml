@@ -1,0 +1,18 @@
+product_number: EON-5031
+title: 'Eon III: Alver - Sångarens Ätt'
+description: Boken om Mundanas Alver
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 23.5
+  - currency: sek
+    price: 249
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/alver-sangarens-att.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3333/90643333-origpic-dddec5.jpg

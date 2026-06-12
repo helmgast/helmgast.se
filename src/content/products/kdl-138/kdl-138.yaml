@@ -1,0 +1,26 @@
+product_number: KDL-138
+title: 'Together Unto Death - Scenario Book '
+description: Softcover Scenario Book
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2024-11-28'
+updated_date: '2026-05-11'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/together-unto-death-scenario-book.html
+cover_image: https://cdn.abicart.com/shop/images/216607125-origpic-31033f/ws51/49251/art51/h7125/image2.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7125/216607125-origpic-b21dbc.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7125/216607125-origpic-903d94.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h7125/216607125-origpic-6d29a7.png
+downloads:
+  - label: 'KULT: Divinity Lost - Together Unto Death.pdf'
+    url: https://drive.google.com/file/d/1JoEw0TJntmbNhv72x443WD9_ULO96B95/view
+    description: Together unto Death

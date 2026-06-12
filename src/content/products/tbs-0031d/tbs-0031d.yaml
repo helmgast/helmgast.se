@@ -1,0 +1,28 @@
+product_number: TBS-0031D
+title: The U-boat Mystery PDF [DIGITAL]
+description: |-
+  An exciting adventure which takes you from Paris to a lost u-boat on the other
+  side of the world! Can the adventurers figure out who is behind the
+  kidnapping, and find the secret of the lost u-boat from WW2? The adventure is
+  suitable for 3-5 players.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-09-12'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 13
+  - currency: sek
+    price: 129
+tax: 0.06
+shop_url: https://webshop.helmgast.se/troubleshooters/the-u-boat-mystery-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0241/185160241-origpic-fe207f.png
+images:
+  - https://cdn.abicart.com/shop/images/185160241-origpic-015aae/ws51/49251/art51/h0241/tbsub2.jpg
+  - https://cdn.abicart.com/shop/images/185160241-origpic-545e48/ws51/49251/art51/h0241/tbsub1.jpg
+downloads:
+  - label: The-U-Boat-Mystery-FINAL.pdf
+    url: https://drive.google.com/uc?export=view&id=1qbbgDBRG04WHHk3IPsE1QsmbFgXUN8hs

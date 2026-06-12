@@ -1,0 +1,20 @@
+product_number: EON-5029
+title: 'Eon III: Riddaren'
+description: |-
+  Texter om feodalismen, riddarens plikter och privilegier och viktiga ideal,
+  gästabud, jakter och tornerspel
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/riddaren.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3183/90653183-origpic-15dd81.jpg

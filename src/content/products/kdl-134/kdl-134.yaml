@@ -1,0 +1,32 @@
+product_number: KDL-134
+title: Black Edition - Screams and Whispers - Scenario Collection
+description: |-
+  The “Black Edition” exclusive variant of the scenario collection - Screams and
+  Whispers - features an all-black cloth cover with the KULT name in blood red.
+  This is for the hardcore KULT-fan, looking for something extraordinary.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2022-01-03'
+updated_date: '2026-05-16'
+prices:
+  - currency: eur
+    price: 60
+  - currency: sek
+    price: 599
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/black-edition-screams-and-whispers-scenario-collection.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4581/187854581-origpic-e9383c.png
+images:
+  - https://cdn.abicart.com/shop/images/187854581-origpic-b5d4e4/ws51/49251/art51/h4581/SW5.jpg
+  - https://cdn.abicart.com/shop/images/187854581-origpic-c52679/ws51/49251/art51/h4581/SW6.jpg
+  - https://cdn.abicart.com/shop/images/187854581-origpic-1f663c/ws51/49251/art51/h4581/SW7.jpg
+  - https://cdn.abicart.com/shop/images/187854581-origpic-e4e958/ws51/49251/art51/h4581/SW1.jpg
+  - https://cdn.abicart.com/shop/images/187854581-origpic-97dc02/ws51/49251/art51/h4581/SW2.jpg
+  - https://cdn.abicart.com/shop/images/187854581-origpic-6e09b1/ws51/49251/art51/h4581/SW3.jpg
+  - https://cdn.abicart.com/shop/images/187854581-origpic-e9fd6d/ws51/49251/art51/h4581/SW4.jpg
+downloads:
+  - label: KULT Divinity Lost - Screams and Whispers.pdf
+    url: https://drive.google.com/file/d/1keVG50q3I6OqHZm3uTGf1osNzjrw8oEJ/view?usp=sharing

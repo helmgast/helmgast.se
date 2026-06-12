@@ -1,0 +1,16 @@
+product_number: TEST-1
+title: TEST
+description: TEST
+language: sv
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2019-04-09'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 2
+  - currency: sek
+    price: 2
+shop_url: https://webshop.helmgast.se/sv/frakt/test.html
+cover_image: https://cdn.abicart.com/shop/images/165981323-origpic-a53698/ws51/49251/art51/h1323/spare_512px.png

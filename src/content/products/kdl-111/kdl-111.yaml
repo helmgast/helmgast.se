@@ -1,0 +1,34 @@
+product_number: KDL-111
+title: Black Edition - Beyond Darkness and Madness - Gamemaster Sourcebook
+description: |-
+  The “Black Edition” exclusive variant of the Gamemaster sourcebook - Beyond
+  Darkness and Madness - features an all-black cloth cover with the KULT name in
+  blood red. This is for the hardcore KULT-fan, looking for something
+  extraordinary.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2022-01-03'
+updated_date: '2026-05-16'
+prices:
+  - currency: eur
+    price: 60
+  - currency: sek
+    price: 599
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/black-edition-beyond-darkness-and-madness-gamemaster-sourcebook.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4551/187854551-origpic-163473.png
+images:
+  - https://cdn.abicart.com/shop/images/187854551-origpic-2f5f8c/ws51/49251/art51/h4551/BDM3.jpg
+  - https://cdn.abicart.com/shop/images/187854551-origpic-184e69/ws51/49251/art51/h4551/BDM4.jpg
+  - https://cdn.abicart.com/shop/images/187854551-origpic-024e16/ws51/49251/art51/h4551/BDM5.jpg
+  - https://cdn.abicart.com/shop/images/187854551-origpic-15c0dc/ws51/49251/art51/h4551/BDM6.jpg
+  - https://cdn.abicart.com/shop/images/187854551-origpic-2681a1/ws51/49251/art51/h4551/BDM7.jpg
+  - https://cdn.abicart.com/shop/images/187854551-origpic-29ece6/ws51/49251/art51/h4551/BDM8.jpg
+  - https://cdn.abicart.com/shop/images/187854551-origpic-7a047b/ws51/49251/art51/h4551/BDM1.jpg
+  - https://cdn.abicart.com/shop/images/187854551-origpic-53682b/ws51/49251/art51/h4551/BDM2.jpg
+downloads:
+  - label: KULT Divinity Lost - Beyond Darkness and Madness.pdf
+    url: https://drive.google.com/file/d/1XNW-HFqXep8mRdi6XmMT9OzRYxQyK_ze/view?usp=sharing

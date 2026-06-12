@@ -1,0 +1,17 @@
+product_number: FE-62
+title: 'Tillbehör: Järn rollpersonsjournal'
+description: SWEDISH PRODUCT
+language: sv
+world: jarn
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2015-06-10'
+updated_date: '2025-10-20'
+prices:
+  - currency: eur
+    price: 9.4
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/jarn/jarn-rollpersonsjournal.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4792/28604792-origpic-0f0c93.jpg

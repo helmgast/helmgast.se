@@ -1,0 +1,27 @@
+product_number: EON-503
+title: Eon V – Bestiariet
+description: |-
+  Monsterbok till Eon, pdf ingår.
+
+  I Bestiariet har vi samlat alla varelser som tidigare publicerats i
+  Eonböckerna Monster & varelser, Monster i Mundana, Bestialiska folk och Codex
+  Mundana. Utöver det är alla lägre drakar från Drakar med och en hel del
+  nyskrivna bestar.
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: out_of_stock
+created_date: '2025-07-24'
+updated_date: '2026-04-26'
+prices:
+  - currency: eur
+    price: 49
+  - currency: sek
+    price: 499
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-v-bestiariet.html
+cover_image: https://cdn.abicart.com/shop/images/221324515-origpic-a8e832/ws51/49251/art51/h4515/eon5_mockup_monster_lq.png
+downloads:
+  - label: eon5_bestiariet.pdf
+    url: https://drive.google.com/file/d/18XCoibZMSHhtGf0badYru8W8ZMfs6fi6/view?usp=sharing

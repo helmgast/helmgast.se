@@ -1,0 +1,16 @@
+product_number: FE-63
+title: 'Tillbehör: Järn stridskort'
+description: SWEDISH PRODUCT
+language: sv
+world: jarn
+publisher: helmgast.se
+type: item
+status: out_of_stock
+created_date: '2015-06-10'
+updated_date: '2020-05-15'
+prices:
+  - currency: eur
+    price: 13.2
+  - currency: sek
+    price: 139
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4788/28604788-origpic-a33e7a.jpg

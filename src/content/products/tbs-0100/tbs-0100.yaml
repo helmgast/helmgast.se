@@ -1,0 +1,19 @@
+product_number: TBS-0100
+title: Troubleshooters Red Dice Pack
+description: |-
+  Play The Troubleshooters as it was meant to be played with these custom dice!
+  Seven six-sided dice and two ten-sided dice in red with white faces.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-09-12'
+updated_date: '2026-06-10'
+prices:
+  - currency: eur
+    price: 22
+  - currency: sek
+    price: 219
+shop_url: https://webshop.helmgast.se/troubleshooters/troubleshooters-dice-pack.html
+cover_image: https://cdn.abicart.com/shop/images/185159745-origpic-785f36/ws51/49251/art51/h9745/MUH052327.png

@@ -1,0 +1,36 @@
+product_number: EON-203
+title: Eon IV, helgonutgåva, grundbok
+description: |-
+  ENSTAKA EX AV DENNA PRODUKT FINNS TILL FÖRSÄLJNING, PASSA PÅ  
+    
+  PDF ingår (se mer om leverans nedan).
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: book
+status: out_of_stock
+created_date: '2019-02-12'
+updated_date: '2025-09-02'
+prices:
+  - currency: eur
+    price: 71
+  - currency: sek
+    price: 749
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-iv-helgon-grundbok.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-2ab47f.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-77936b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-9512a6.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-406bf2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-d9443b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-d5d825.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-6aafe8.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-ca5b10.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0321/164790321-origpic-e397ba.jpg
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM

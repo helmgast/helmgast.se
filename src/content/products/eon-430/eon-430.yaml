@@ -1,0 +1,27 @@
+product_number: EON-430
+title: Äventyrets väg, äventyrsmodul
+description: |-
+  En unik modul med bl.a. ett helt kapitel om Eons historia, skrivet av Eons
+  mest tongivande författare genom tiderna.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 28.2
+  - currency: sek
+    price: 299
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/aventyrets-vag.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0925/90540925-origpic-22b7c3.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0925/90540925-origpic-472fea.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0925/90540925-origpic-15ea88.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0925/90540925-origpic-4115cc.jpg
+downloads:
+  - label: Eon Äventyrets Väg.pdf
+    url: https://drive.google.com/uc?export=view&id=1M1JWWfViya4nvK6evsrjHj7HgzVvSuVk

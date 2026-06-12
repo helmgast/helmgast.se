@@ -1,0 +1,23 @@
+product_number: TBS-0061D
+title: Deck of Things PDF [DIGITAL]
+description: |-
+  Keep track of your troubleshooter's equipment with the handy deck of gear
+  kits. 54 bilingual cards of gear kits, in English on one side and French on
+  the other.
+language: en
+world: the-troubleshooters
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-09-12'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/troubleshooters/deck-of-things-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0307/185160307-origpic-97661b.png
+downloads:
+  - label: TBS deck of things deck 20210329.pdf
+    url: https://drive.google.com/uc?export=view&id=1aZZF_eXmAdqcVY5P7R0M3A1lFvPLXUt5

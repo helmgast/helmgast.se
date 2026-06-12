@@ -1,0 +1,87 @@
+product_number: EON-899
+title: Spelpaketet
+description: >-
+  PDF:er för Spelpaketet. Ladda ner PDF:erna nedan, fler tillkommer allt eftersom! Vi kommer även att uppdatera
+  existerande filer om det dyker upp några felaktigheter i dem.
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: book
+status: out_of_stock
+created_date: '2014-05-30'
+updated_date: '2020-05-12'
+cover_image: https://drive.google.com/uc?export=view&id=0BwReOs1sJB1FX1JJN3h1UUktTjA
+downloads:
+  - label: eon-3-mystik-magi.pdf
+    url: https://helmgast.se/asset/download/eon-3-mystik-magi.pdf
+    description: Modulen Mystik & Magi från 1998
+  - label: stadsmodul-zhirim-mian.pdf
+    url: https://helmgast.se/asset/download/stadsmodul-zhirim-mian.pdf
+    description: 12 sidor om staden Zhirim Mian i södra Melorion
+  - label: eon-3-spelarbok.pdf
+    url: https://helmgast.se/asset/download/eon-3-spelarbok.pdf
+    description: Eon III Spelarens bok (2004)
+  - label: kampanjmaterial-utmark.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-utmark.pdf
+    description: 14 sidor om Utmark norr om Drunok. Inkluderar folkslaget Utmarkare.
+  - label: landsmodul-cermira.pdf
+    url: https://helmgast.se/asset/download/landsmodul-cermira.pdf
+    description: 20 sidor om landet Cermira norr om Asharien
+  - label: regler-daakkyrkans-mysterier.pdf
+    url: https://helmgast.se/asset/download/regler-daakkyrkans-mysterier.pdf
+    description: Sammanfattning av Daakkyrkans mysterier
+  - label: kampanjmaterial-trollbane.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-trollbane.pdf
+    description: 16 sidor om äventyrsplatsen Baroniet Trollbane i Soldarn
+  - label: varelsemodul-vilddjur-och-styggelser.pdf
+    url: https://helmgast.se/asset/download/varelsemodul-vilddjur-och-styggelser.pdf
+    description: 20 sidor med monster och varelser
+  - label: landsmodul-nermada.pdf
+    url: https://helmgast.se/asset/download/landsmodul-nermada.pdf
+    description: 36 sidor om landet Nermada söder om Thalamur. Inkluderar folkslaget Nermadier samt en bakgrundstabell.
+  - label: kampanjmaterial-tarkas.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-tarkas.pdf
+    description: 16 sidor om Tarkas. Inkluderar magistormstabell och folkslaget Östzhaner
+  - label: berattelse-underjorden.pdf
+    url: https://helmgast.se/asset/download/berattelse-underjorden.pdf
+    description: 6 sidor som berättar om en resa ner i Underjorden
+  - label: kampanjmaterial-blodskulterna.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-blodskulterna.pdf
+    description: 22 sidor om nio olika blodskulter i Jargien
+  - label: aventyrarens-handbok.pdf
+    url: https://helmgast.se/asset/download/aventyrarens-handbok.pdf
+    description: 32 sidor med ytterligare vapen, översikt på folkslag och regler för hästar och andra riddjur.
+  - label: varelsemodul-manniskans-basta-van.pdf
+    url: https://helmgast.se/asset/download/varelsemodul-manniskans-basta-van.pdf
+    description: 8 sidor om hundar och träning
+  - label: kampanjmaterial-skymningsvagen.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-skymningsvagen.pdf
+    description: 12 sidor om äventyrsplatsen Skymningsvägen mellan Jargien och Damarien
+  - label: stadsmodul-astara.pdf
+    url: https://helmgast.se/asset/download/stadsmodul-astara.pdf
+    description: 20 sidor landet Lalasta och dess huvudstad Astara. Inkluderar en ryktestabell och folkslaget Lalaster.
+  - label: kampanjmaterial-mitheraskogen.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-mitheraskogen.pdf
+    description: 8 sidor om äventyrsplatsen Mithera norr om Asharien
+  - label: kampanjmaterial-lashorakh.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-lashorakh.pdf
+    description: 6 sidor om äventyrsplatsen Lashorakh norr om Thalamur
+  - label: kampanjmaterial-kinanean-oro.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-kinanean-oro.pdf
+    description: 8 sidor om alvboningen Kinané’an oro i Thalamur. Inkluderar folkslaget Sanari (specifika för Kinané’an oro).
+  - label: tomtar-och-troll-hjaltarnas-aterkomst.pdf
+    url: https://helmgast.se/asset/download/tomtar-och-troll-hjaltarnas-aterkomst.pdf
+    description: 'Rollspelet Tomtar & Troll: Hjältarnas återkomst av Carl-Johan Ström (1986)'
+  - label: kampanjmaterial-skugglandet.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-skugglandet.pdf
+    description: 20 sidor om Skugglandet, halvblod, äventyrsplatser, Dimmornas hav och Pärlemorhovet
+  - label: kampanjmaterial-tauperna.pdf
+    url: https://helmgast.se/asset/download/kampanjmaterial-tauperna.pdf
+    description: 16 sidor om folkslaget Tauperna. Inkluderar även "De 77 odödliga" – en förfaderstabell för tauper.
+  - label: eon-3-spelledarens-guide.pdf
+    url: https://helmgast.se/asset/download/eon-3-spelledarens-guide.pdf
+    description: Eon III Spelledarens guide (2004)
+  - label: berattelse-coluimnes-resa.pdf
+    url: https://helmgast.se/asset/download/berattelse-coluimnes-resa.pdf
+    description: 20 sidor som berättar om en resa genom Stora arkipelagen

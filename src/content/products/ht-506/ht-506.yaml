@@ -1,0 +1,19 @@
+product_number: HT-506
+title: 'Poster: Hjältarnas Tid'
+description: Affisch 70x50 cm
+language: sv
+world: hjaltarnas-tid
+publisher: helmgast.se
+type: digital
+status: out_of_stock
+created_date: '2017-04-03'
+updated_date: '2025-10-20'
+prices:
+  - currency: eur
+    price: 9.4
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/hjaltarnas-tid/hjaltarnas-tid-affisch-omslag.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4166/120424166-origpic-92892d.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4166/120424166-origpic-cbae1a.jpg

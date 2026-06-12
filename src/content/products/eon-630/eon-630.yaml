@@ -1,0 +1,15 @@
+product_number: EON-630
+title: Eon rollformulär (fyrsidiga), tillbehör
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2015-06-10'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 11.3
+  - currency: sek
+    price: 119
+shop_url: https://webshop.helmgast.se/sv/eon/eon-rollformular-fyrsidiga.html

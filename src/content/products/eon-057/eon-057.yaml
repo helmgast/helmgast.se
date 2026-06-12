@@ -1,0 +1,24 @@
+product_number: EON-057
+title: Magi - nekrotropi
+description: |-
+  Boken för dig som vill spela döds- och föruttnelsemagiker där du nedkallar
+  sjukdomar, orsakar hemska sår hos dina fiender eller hjälper folk att dra ut
+  sina skadade tänder. PDF ingår.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-10-31'
+updated_date: '2026-05-07'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 189
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-nekrotropi.html
+cover_image: https://cdn.abicart.com/shop/images/186096965-origpic-db38fd/ws51/49251/art51/h6965/nekro-omslag.jpg
+downloads:
+  - label: Aspekt_nekrotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=11rJuqof95sCAr-chYpd5nB2GQ1IenUvw

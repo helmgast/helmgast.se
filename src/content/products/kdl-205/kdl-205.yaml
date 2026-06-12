@@ -1,0 +1,23 @@
+product_number: KDL-205
+title: 'Archetype Bundle for KULT: Divinity Lost'
+description: |-
+  Bundle with archetypes, empty character sheets and player moves for easy
+  access when playing KULT: Divinity Lost.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-27'
+updated_date: '2025-12-22'
+prices:
+  - currency: eur
+    price: 13
+  - currency: sek
+    price: 129
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-archetype-bundle.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2681/161162681-origpic-3ae030.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2681/161162681-origpic-7615da.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2681/161162681-origpic-bb8b9f.png

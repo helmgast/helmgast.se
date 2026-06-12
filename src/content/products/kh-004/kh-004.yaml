@@ -1,0 +1,30 @@
+product_number: KH-004
+title: Sirenens klagan
+description: |-
+  Innan Ereb Altor gavs ut till nya Drakar och Demoner gavs Kopparhavets hjältar
+  ut med regelmotorn från Hjältarnas tid. Detta är inte kompatibelt med nya Ereb
+  Altor men passa på att skaffa de sista exemplaren för en komplett samling!
+
+  Utforska det myllrande Krilloan, utmana Kopparhavets faror och avslöja
+  sirenernas hemlighet. Sirenens klagan är kampanj, en världsmodul och en
+  regelexpansion i ett!  
+    
+  PDF ingår.
+language: sv
+world: kopparhavets-hjaltar
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2021-11-17'
+updated_date: '2026-05-27'
+prices:
+  - currency: eur
+    price: 34
+  - currency: sek
+    price: 389
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kopparhavets-hjaltar/sirenens-klagan-kampanjbok.html
+cover_image: https://cdn.abicart.com/shop/images/186880753-origpic-9213ae/ws51/49251/art51/h0753/sirenens-cover-hardcover.png
+downloads:
+  - label: Sirenens klagan-v096-DIGI.pdf
+    url: https://drive.google.com/uc?export=view&id=1h63BoSFWUy8okbGXxAEtELbHDZPkkrIm

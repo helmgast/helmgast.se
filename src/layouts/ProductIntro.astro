@@ -1,0 +1,84 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { langToFlag } from '../utils/helpers';
+
+interface Props {
+    product: CollectionEntry<'products'>;
+}
+
+const { product } = Astro.props;
+const d = product.data;
+
+const price = d.prices?.find(p => p.currency === 'sek') ?? d.prices?.[0];
+---
+
+<aside class="col-lg-3 col-md-4 col-sm-12 intro-aside margin-below">
+    {d.cover_image && (
+        <img
+            src={d.cover_image}
+            alt={d.title}
+            class="img-responsive center-block margin-below product-cover"
+        />
+    )}
+
+    {d.shop_url && d.status !== 'out_of_stock' && d.status !== 'hidden' && (
+        <p class="text-center">
+            <a class="btn btn-lg btn-success" href={d.shop_url} target="_blank" rel="noopener">
+                <span class="glyphicon glyphicon-shopping-cart"></span>
+                {price ? ` Buy — ${price.price} ${price.currency.toUpperCase()}` : ' Buy in shop'}
+            </a>
+        </p>
+    )}
+    {d.status === 'out_of_stock' && (
+        <p class="text-center">
+            <span class="btn btn-lg btn-default disabled">Out of print</span>
+        </p>
+    )}
+    {d.status === 'pre_order' && d.shop_url && (
+        <p class="text-center">
+            <a class="btn btn-lg btn-warning" href={d.shop_url} target="_blank" rel="noopener">
+                Pre-order
+            </a>
+        </p>
+    )}
+
+    <table class="table" id="product-details">
+        {d.product_number && (
+            <tr>
+                <th>Art. no.</th>
+                <td><small>{d.product_number}</small></td>
+            </tr>
+        )}
+        {d.type && (
+            <tr>
+                <th>Type</th>
+                <td><small class="text-capitalize">{d.type}</small></td>
+            </tr>
+        )}
+        {(d.publish_date || d.created_date) && (
+            <tr>
+                <th>Published</th>
+                <td><small>{d.publish_date || d.created_date}</small></td>
+            </tr>
+        )}
+        {d.language && (
+            <tr>
+                <th>Language</th>
+                <td><small>{langToFlag[d.language]} {d.language.toUpperCase()}</small></td>
+            </tr>
+        )}
+        {d.family && (
+            <tr>
+                <th>Series</th>
+                <td><small>{d.family}</small></td>
+            </tr>
+        )}
+        {d.barcode && (
+            <tr>
+                <th>EAN</th>
+                <td><small>{d.barcode}</small></td>
+            </tr>
+        )}
+    </table>
+
+</aside>

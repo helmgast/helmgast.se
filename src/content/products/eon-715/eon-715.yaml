@@ -1,0 +1,13 @@
+product_number: EON-715
+title: Codex Mundana - Coluimnes resa (PDF)
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2021-08-09'
+updated_date: '2021-08-09'
+prices:
+  - currency: sek
+    price: 29
+shop_url: https://webshop.helmgast.se/eon/codex-mundana-cermira-pdf-1.html

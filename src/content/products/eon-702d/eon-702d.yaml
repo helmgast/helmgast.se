@@ -1,0 +1,26 @@
+product_number: EON-702D
+title: Vrakplundrarna, äventyr (PDF)
+description: |-
+  Vrakplundrarna är ett pdf-äventyr till Eon IV som utspelar sig i Damarien vid
+  den ökända Vrakkusten
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2017-06-08'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 2.8
+  - currency: sek
+    price: 29
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/aventyr-vrakplundrarna-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h8272/128818272-origpic-ac18e2.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8272/128818272-origpic-fc6f16.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h8272/128818272-origpic-1d1501.jpg
+downloads:
+  - label: Eon Vrakplundrarna 20171130.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvNVFOV0M2bWVYbG8

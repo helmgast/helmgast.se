@@ -1,0 +1,22 @@
+product_number: KDL-214D
+title: 'Weapon Deck [DIGITAL PDF] for KULT: Divinity Lost'
+description: |-
+  The digital PDF version of the Weapon Deck for KULT Divinity Lost. A deck of
+  55 weapon cards for easy reference for the players during play.
+language: en
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2022-01-07'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/kult/weapon-deck-digital-pdf-for-kult-divinity-lost.html
+cover_image: https://cdn.abicart.com/shop/images/187874409-origpic-a3c4e8/ws51/49251/art51/h4409/WD-mockup.png
+downloads:
+  - label: KULT Divinity Lost - Weapon Deck.pdf
+    url: https://drive.google.com/file/d/1P4zkuGcUZEtzUz7Sye0YUKHaTcuuK97p/view?usp=sharing

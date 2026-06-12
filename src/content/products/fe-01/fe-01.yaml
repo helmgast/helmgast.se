@@ -1,0 +1,33 @@
+product_number: FE-01
+title: 'Grundbok: Järn'
+description: |-
+  Järn är magiskt. Jag har sett hur järn tas från mark och myrar. Jag har sett
+  järn tvingas fram ur stenen med eld och blåsbälgar. Jag har sett järn härdas
+  med eld och vatten. Jag har sett hjältar härdas med järn och blod. Jag har
+  sett världens öde formas av järn och hjältars dåd. För järn är magiskt.
+language: sv
+world: jarn
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2015-06-10'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 14.1
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/jarn/jarn-grundbok.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-1084e6.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-c9f3f8.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-b2f933.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-7e7be8.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-d04bc5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-e9946f.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-c40858.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4783/28604783-origpic-b583ab.jpg
+downloads:
+  - label: Järn Grundbok US Comic.pdf
+    url: https://drive.google.com/uc?export=view&id=1oSbJ3GhDpEX18SJ1BHpTyZ5JmO9PTslA

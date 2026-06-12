@@ -1,0 +1,21 @@
+product_number: EON-805
+title: Äventyrarens handbok, tillbehör
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-02-12'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 4.7
+  - currency: sek
+    price: 49
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/aventyrarens-handbok-tillbehor.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0387/164790387-origpic-f36ed6.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/164790387-origpic-205100.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/164790387-origpic-a685be.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0387/164790387-origpic-e57ed0.jpg

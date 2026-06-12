@@ -1,0 +1,28 @@
+product_number: KFG-012D
+title: Avgrunden (PDF)
+description: |-
+  Scenariosamling till rollspelet KULT: Den förlorade gudomligheten i PDF
+  Format. 120 sidor.
+language: sv
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2025-01-05'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 14
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kult/den-forlorade-gudomligheten/avgrunden-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h5071/217165071-origpic-63fd03.png
+images:
+  - https://cdn.abicart.com/shop/images/217165071-origpic-73fac1/ws51/49251/art51/h5071/A1.png
+  - https://cdn.abicart.com/shop/images/217165071-origpic-406165/ws51/49251/art51/h5071/A2.png
+  - https://cdn.abicart.com/shop/images/217165071-origpic-f29acf/ws51/49251/art51/h5071/A3.png
+  - https://cdn.abicart.com/shop/images/217165071-origpic-9b0524/ws51/49251/art51/h5071/A4.png
+downloads:
+  - label: KULT - DFG - Avgrunden Scenariosamling.pdf
+    url: https://drive.google.com/file/d/1H4dmTByd-rpJa5eoM4_0_q9sxrms70Vx/view

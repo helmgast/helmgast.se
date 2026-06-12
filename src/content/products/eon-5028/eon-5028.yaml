@@ -1,0 +1,18 @@
+product_number: EON-5028
+title: 'Eon III: Regnsynd'
+description: Ett äventyr som blandar skräck och fantasy i en liten by i Soldarn
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 11.3
+  - currency: sek
+    price: 119
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/regnsynd.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3169/90653169-origpic-eead13.jpg

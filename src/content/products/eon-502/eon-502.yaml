@@ -1,0 +1,29 @@
+product_number: EON-502
+title: Eon V – Regelboken
+description: |-
+  Regelboken innehåller följande tio kapitel: Introduktion, Världen, Regler,
+  Utmaningar & konflikter, Strid, Skador, Läkning, Gifter & droger, Mentala
+  trauman samt Mystik & magi.  
+    
+  PDF ingår.
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: available
+created_date: '2025-07-24'
+updated_date: '2026-06-04'
+prices:
+  - currency: eur
+    price: 39
+  - currency: sek
+    price: 399
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-v-regelboken.html
+cover_image: https://cdn.abicart.com/shop/images/221324489-origpic-5fee5f/ws51/49251/art51/h4489/eon5_mockup_regelboken_lq.png
+images:
+  - https://cdn.abicart.com/shop/images/221324489-origpic-e94a06/ws51/49251/art51/h4489/skador_eld.jpg
+  - https://cdn.abicart.com/shop/images/221324489-origpic-01e7a5/ws51/49251/art51/h4489/strid_avstand.jpg
+downloads:
+  - label: eon5_regelboken.pdf
+    url: https://drive.google.com/file/d/1S5Gt0vWVRGf6niLtua18cTq8GoS3u6du/view?usp=sharing

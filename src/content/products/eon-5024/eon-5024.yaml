@@ -1,0 +1,20 @@
+product_number: EON-5024
+title: 'Eon III: Legender & Hemligheter'
+description: |-
+  Allt man kan vilja veta om skapelsen och gudarna i Eon, plus diverse
+  domedagsvisioner som fullbordar det metafysiska kretsloppet.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/legender-hemligheter.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h3157/90653157-origpic-64b1e1.jpg

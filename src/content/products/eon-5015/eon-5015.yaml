@@ -1,0 +1,20 @@
+product_number: EON-5015
+title: 'Eon III: Tiraker: Mörkrets döttrar'
+description: |-
+  Bok om hela tiraksläktet, deras historia, religon och samhälle, och säregna
+  språk.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/tiraker-morkrets-dottrar.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1695/90661695-origpic-38ea96.jpg

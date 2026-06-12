@@ -1,0 +1,38 @@
+product_number: KDL-001
+title: Elysium Edition - Original Kickstarter Version - Core Rules
+description: |-
+  The “Elysium Edition” exclusive variant features an all-white cloth cover with
+  the KULT name in blood red. This version contains the Original Kickstarter
+  Version Core Rules.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-03-23'
+updated_date: '2025-12-21'
+prices:
+  - currency: eur
+    price: 89
+  - currency: sek
+    price: 899
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/rare-editions/elysium-edition-original-kickstarter-version-core-rules.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-d5cd55.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-dc806b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-3cecae.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-2ca390.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-f9ee0d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-84fd78.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-471515.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-fd5024.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-b17fdd.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-75faba.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-2e56fb.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-47e70e.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-5448a4.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9869/165619869-origpic-44774f.jpg
+downloads:
+  - label: KULT Divinity Lost - 4th Edition Core Rules.pdf
+    url: https://drive.google.com/uc?export=view&id=1SUxm2gNfcWqpWxdpQXR7rLxMldWcEoPP

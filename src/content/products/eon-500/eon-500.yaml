@@ -1,0 +1,31 @@
+product_number: EON-500
+title: Eon V – Slipcase
+description: |-
+  Slipcase till Eon V innehåller de tre böckerna Rollpersonen, Regelboken och
+  Bestiariet.
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: out_of_stock
+created_date: '2025-07-24'
+updated_date: '2026-01-19'
+prices:
+  - currency: eur
+    price: 139
+  - currency: sek
+    price: 1399
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-v-slipcase.html
+cover_image: https://cdn.abicart.com/shop/images/221324529-origpic-ecbfad/ws51/49251/art51/h4529/slipcase.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4529/221324529-origpic-dd7ddf.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4529/221324529-origpic-9503e5.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4529/221324529-origpic-d2d490.png
+downloads:
+  - label: eon5_rollpersonen.pdf
+    url: https://drive.google.com/file/d/1wTn7pXbcyJrepiLHohRlfPcsBxc7RWOR/view?usp=sharing
+  - label: eon5_regelboken.pdf
+    url: https://drive.google.com/file/d/1S5Gt0vWVRGf6niLtua18cTq8GoS3u6du/view?usp=sharing
+  - label: eon5_bestiariet.pdf
+    url: https://drive.google.com/file/d/18XCoibZMSHhtGf0badYru8W8ZMfs6fi6/view?usp=sharing

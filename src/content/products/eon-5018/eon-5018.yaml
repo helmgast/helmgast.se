@@ -1,0 +1,20 @@
+product_number: EON-5018
+title: 'Eon III: Sjöfarare & Pirater'
+description: |-
+  Allt du kan tänkas behöva veta om äventyr på haven i Mundana - pirater,
+  fartyg, hamnar, smugglare m.m.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2025-11-23'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/sjofarare-pirater.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1679/90661679-origpic-eab504.jpg

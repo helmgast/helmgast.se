@@ -1,0 +1,129 @@
+---
+import { getCollection } from 'astro:content';
+import Site from '@layouts/Site.astro';
+
+const allProducts = await getCollection('products', ({ data }) => data.status !== 'hidden');
+
+// Group by world, then by status
+const byWorld: Record<string, typeof allProducts> = {};
+for (const p of allProducts) {
+    const key = p.data.world ?? 'other';
+    if (!byWorld[key]) byWorld[key] = [];
+    byWorld[key].push(p);
+}
+
+// Sort worlds by name, products within by product_number
+const worldOrder = ['eon', 'neotech', 'kult', 'hjaltarnas-tid', 'jarn', 'kopparhavets-hjaltar', 'the-troubleshooters', 'ereb-altor', 'noir'];
+const worlds = [
+    ...worldOrder.filter(w => byWorld[w]),
+    ...Object.keys(byWorld).filter(w => !worldOrder.includes(w)).sort()
+];
+
+function productTitle(p: typeof allProducts[0]) {
+    return p.data.title ?? p.id.split('/')[0];
+}
+
+const statusLabel: Record<string, string> = {
+    pre_order: 'Pre-order',
+    available: 'Available',
+    ready_for_download: 'Download',
+    out_of_stock: 'Out of print',
+    hidden: 'Hidden',
+};
+
+const statusBadge: Record<string, string> = {
+    pre_order: 'label-warning',
+    available: 'label-success',
+    ready_for_download: 'label-info',
+    out_of_stock: 'label-default',
+};
+---
+
+<Site title="Products — Helmgast">
+    <div class="page-header">
+        <div class="container">
+            <h1>Products</h1>
+        </div>
+    </div>
+    <div class="container content">
+        {worlds.map(worldKey => (
+            <section class="margin-below">
+                <h2 class="text-capitalize">{worldKey.replace(/-/g, ' ')}</h2>
+                <div class="row cards">
+                    {byWorld[worldKey]
+                        .sort((a, b) => {
+                            const dateA = a.data.publish_date ?? a.data.created_date ?? '';
+                            const dateB = b.data.publish_date ?? b.data.created_date ?? '';
+                            return dateB.localeCompare(dateA);
+                        })
+                        .map(product => {
+                            const title = productTitle(product);
+                            const badge = statusBadge[product.data.status] ?? 'label-default';
+                            const slug = product.id.split('/')[0];
+                            return (
+                                <div class="col-product card-item">
+                                    <a href={`/products/${slug}`} class="card-link">
+                                        <div class="thumbnail">
+                                            {product.data.cover_image
+                                                ? <img src={product.data.cover_image} alt={title} loading="lazy" />
+                                                : <div class="no-cover"><span class="glyphicon glyphicon-book"></span></div>
+                                            }
+                                            <div class="caption">
+                                                <p class="card-title"><strong>{title}</strong></p>
+                                                <p>
+                                                    <span class={`label ${badge}`}>{statusLabel[product.data.status] ?? product.data.status.replace(/_/g, ' ')}</span>
+                                                    {' '}<span class="label label-default">{product.data.type}</span>
+                                                </p>
+                                                {product.data.product_number && (
+                                                    <p><small class="text-muted">{product.data.product_number}</small></p>
+                                                )}
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            );
+                        })
+                    }
+                </div>
+            </section>
+        ))}
+    </div>
+</Site>
+
+<style>
+/* 5-column grid using flex — overrides Bootstrap's float-based .row */
+.row.cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.col-product {
+    width: 20%;
+    padding: 0 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+@media (max-width: 1199px) { .col-product { width: 25%; } }
+@media (max-width: 991px)  { .col-product { width: 33.333%; } }
+@media (max-width: 767px)  { .col-product { width: 50%; } }
+.card-link { color: inherit; text-decoration: none; display: flex; height: 100%; }
+.card-link:hover { text-decoration: none; }
+.card-link:hover .thumbnail { border-color: #999; }
+.thumbnail {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.thumbnail img { width: 100%; aspect-ratio: 340/495; object-fit: cover; flex-shrink: 0; }
+.no-cover {
+    width: 100%; aspect-ratio: 340/495;
+    background: #eee; flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2em; color: #aaa;
+}
+.caption { padding: 8px; flex: 1; display: flex; flex-direction: column; }
+.card-title { font-size: 0.85em; margin-bottom: 4px; line-height: 1.3; flex: 1; }
+</style>

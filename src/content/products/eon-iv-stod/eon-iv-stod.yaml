@@ -1,0 +1,15 @@
+product_number: 10001j
+title: Eon IV - Stöd
+description: Du visar ditt stöd för oss och rollspelshobbyn och får för det ett tack i boken.
+language: sv
+world: eon
+publisher: helmgast.se
+family: Eon
+type: digital
+status: out_of_stock
+created_date: '2014-06-15'
+updated_date: '2017-06-17'
+prices:
+  - currency: eur
+    price: 5
+cover_image: https://helmgast.se/asset/download/eon-iv-stod.jpg

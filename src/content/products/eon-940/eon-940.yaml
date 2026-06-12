@@ -1,0 +1,27 @@
+product_number: EON-940
+title: Eon IV & kortlekar, paket
+description: Paket med Eons grundbok, vapenkortlek 1 och taktikkortleken.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 51.8
+  - currency: sek
+    price: 549
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/kortlekspaket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h0903/90540903-origpic-6992bd.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0903/90540903-origpic-cd4530.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0903/90540903-origpic-6e3fab.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h0903/90540903-origpic-a858e1.png
+downloads:
+  - label: Eon Grundbok Low.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbkI1VlR5YlM5RDA
+  - label: Eon Grundbok High.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvbklVTnhSSDJDUWM

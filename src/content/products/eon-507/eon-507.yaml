@@ -1,0 +1,20 @@
+product_number: EON-507
+title: Eon V – Rollformulär
+description: |-
+  Formulärspaketet till Eon V innehåller:  
+  10 fyrsidiga rollformulär  
+  10 hjälpformulär
+language: sv
+publisher: helmgast.se
+world: eon
+type: book
+status: available
+created_date: '2025-07-28'
+updated_date: '2026-06-04'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+shop_url: https://webshop.helmgast.se/sv/eon/eon-v-rollformular.html
+cover_image: https://cdn.abicart.com/shop/images/221335221-origpic-9fc78f/ws51/49251/art51/h5221/formular.jpg

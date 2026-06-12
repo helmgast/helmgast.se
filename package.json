@@ -23,6 +23,7 @@
   "devDependencies": {
     "@types/lodash": "^4.14.202",
     "@types/node": "^20.11.24",
+    "mongodb": "^7.3.0",
     "wrangler": "^4.86.0"
   }
 }

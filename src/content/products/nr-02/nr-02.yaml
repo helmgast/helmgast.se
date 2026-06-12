@@ -1,0 +1,22 @@
+product_number: NR-02
+title: Noir Spelpaket
+description: |-
+  Noir Spelpaket är en gedigen arkivmapp som innehåller allt en Noir-spelgrupp
+  behöver, från personakter, referensark till spelledarskärm.
+language: sv
+world: noir
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2018-11-18'
+updated_date: '2026-05-25'
+prices:
+  - currency: eur
+    price: 20
+  - currency: sek
+    price: 179
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/noir/noir-spelpaket.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h5103/163085103-origpic-2bcc74.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h5103/163085103-origpic-305221.jpg

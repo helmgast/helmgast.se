@@ -1,0 +1,30 @@
+product_number: EON-052
+title: Magi - geotropi
+description: |-
+  Boken för dig som vill spela geomantiker (stenmagiker) som kan förstena
+  varelser, förstärka vapen/rustning/kroppen och dämpa egna eller andras
+  känslor. PDF ingår.
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2019-10-12'
+updated_date: '2026-06-02'
+prices:
+  - currency: eur
+    price: 17
+  - currency: sek
+    price: 179
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/magi-geotropi.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4515/170984515-origpic-c88bd6.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4515/170984515-origpic-213630.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4515/170984515-origpic-5b6151.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4515/170984515-origpic-3d5f10.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4515/170984515-origpic-77ab4b.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4515/170984515-origpic-719669.jpg
+downloads:
+  - label: Eon Aspekt Geotropi.pdf
+    url: https://drive.google.com/uc?export=view&id=1tgvqPi8wTT0yUEz6b6njX35KzkXA43Fh

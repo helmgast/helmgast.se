@@ -1,0 +1,38 @@
+product_number: KDL-102
+title: Black Edition - 4th Edition Core Rules
+description: |-
+  The “Black Edition” exclusive variant features an all-black cloth cover with
+  the KULT name in blood red. These are the Core Rules for the hardcore KULT-
+  fan, looking for something extraordinary.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2018-08-27'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 89
+  - currency: sek
+    price: 899
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/kult-divinity-lost-black-edition-4th-edition-core-rules.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-393e73.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-38ace2.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-349c97.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-45d1a5.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-8e047c.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-6dfb1a.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-70997d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-a39353.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-a0b2f4.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-36199d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-554b47.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-f394fc.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-e2be28.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2507/161162507-origpic-3aee9d.jpg
+downloads:
+  - label: KULT Divinity Lost - 4th Edition Core Rules.pdf
+    url: https://drive.google.com/uc?export=view&id=1SUxm2gNfcWqpWxdpQXR7rLxMldWcEoPP

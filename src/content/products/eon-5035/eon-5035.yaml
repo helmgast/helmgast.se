@@ -1,0 +1,18 @@
+product_number: EON-5035
+title: 'Eon III: Av blod komna'
+description: Storslaget äventyr, uppföljaren till Diamantäpplet och Katres gåtor
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2016-10-23'
+updated_date: '2024-12-08'
+prices:
+  - currency: eur
+    price: 18.8
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/damarien-kickstarter/av-blod-komna.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4121/90644121-origpic-6ff0d1.jpg

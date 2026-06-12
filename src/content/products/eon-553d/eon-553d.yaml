@@ -1,0 +1,21 @@
+product_number: EON-553D
+title: Eon V – Bestiariet (pdf)
+description: Monsterbok till Eon.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2025-07-28'
+updated_date: '2026-01-23'
+prices:
+  - currency: eur
+    price: 13
+  - currency: sek
+    price: 139
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/eon-v-bestiariet-pdf.html
+cover_image: https://cdn.abicart.com/shop/images/221335303-origpic-0dc175/ws51/49251/art51/h5303/monster_pdf.jpg
+downloads:
+  - label: eon5_bestiariet.pdf
+    url: https://drive.google.com/file/d/18XCoibZMSHhtGf0badYru8W8ZMfs6fi6/view?usp=sharing

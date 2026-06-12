@@ -1,0 +1,26 @@
+product_number: EON-704D
+title: Den bottenlösa myren, äventyr (PDF)
+description: |-
+  Äventyret den bottenlösa myren är ett skräckäventyr som utspelar sig i
+  Damarien
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2017-06-12'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 2.8
+  - currency: sek
+    price: 29
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/aventyr-den-bottenlosa-myren-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2108/129372108-origpic-f33676.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2108/129372108-origpic-bda4f8.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h2108/129372108-origpic-0c1471.jpg
+downloads:
+  - label: Eon Bottenlösa Myren 20171130.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvNWFzaXc1OWNIQW8

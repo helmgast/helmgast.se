@@ -1,0 +1,39 @@
+product_number: KFG-001
+title: 'KULT: Den förlorade gudomligheten'
+description: |-
+  Grundreglerna till svenska utgåvan av Kult: Divinity Lost. En box med tre
+  böcker, rollformulär, spelardrag och 2 tärningar.
+language: sv
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2025-01-05'
+updated_date: '2026-05-16'
+prices:
+  - currency: eur
+    price: 55
+  - currency: sek
+    price: 599
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kult/den-forlorade-gudomligheten/kult-den-forlorade-gudomligheten.html
+cover_image: https://cdn.abicart.com/shop/images/217164655-origpic-8f4d21/ws51/49251/art51/h4655/Boxversionen.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4655/217164655-origpic-bfc56d.png
+  - https://cdn.abicart.com/shop/images/217164655-origpic-045d3c/ws51/49251/art51/h4655/K1.png
+  - https://cdn.abicart.com/shop/images/217164655-origpic-e95578/ws51/49251/art51/h4655/K2.png
+  - https://cdn.abicart.com/shop/images/217164655-origpic-42a137/ws51/49251/art51/h4655/K3.png
+  - https://cdn.abicart.com/shop/images/217164655-origpic-c52046/ws51/49251/art51/h4655/K4.png
+  - https://cdn.abicart.com/shop/images/217164655-origpic-b7cd99/ws51/49251/art51/h4655/K5.png
+  - https://cdn.abicart.com/shop/images/217164655-origpic-21117a/ws51/49251/art51/h4655/K6.png
+downloads:
+  - label: KULT - DFG - Spelardrag Fristående.pdf
+    url: https://drive.google.com/file/d/1YRn-ACsLvu-CIlJ8yD976b2y-iBKTFCH/view
+  - label: KULT - DFG - Rollformulär.pdf
+    url: https://drive.google.com/file/d/1kcdOO6OsVZE2I1Fkg5SblvgyR_hOOS9M/view
+  - label: KULT - DFG - Bok 3 - Sanningen.pdf
+    url: https://drive.google.com/file/d/1lfI78-Pj-GS_cRXGSJBa6mHdv0lCrtBj/view
+  - label: KULT - DFG - Bok 2 Vansinnet.pdf
+    url: https://drive.google.com/file/d/1ol-S_3gxf3VWOiIe7rcSMh6LVCXLMczE/view
+  - label: KULT - DFG - Bok 1 Lögnen.pdf
+    url: https://drive.google.com/file/d/12oyUzitWboMp9QDHPeyKHZO3xcvf47kp/view

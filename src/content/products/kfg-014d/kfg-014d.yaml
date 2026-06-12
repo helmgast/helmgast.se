@@ -1,0 +1,28 @@
+product_number: KFG-014D
+title: Passionstrilogin (PDF)
+description: |-
+  Scenariosamling till rollspelet KULT: Den förlorade gudomligheten i PDF
+  Format. 120 sidor.
+language: sv
+world: kult
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2025-01-05'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 14
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kult/den-forlorade-gudomligheten/passionstrilogin-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h5079/217165079-origpic-c2171e.png
+images:
+  - https://cdn.abicart.com/shop/images/217165079-origpic-a84a02/ws51/49251/art51/h5079/Capture.png
+  - https://cdn.abicart.com/shop/images/217165079-origpic-2ca8be/ws51/49251/art51/h5079/P2.png
+  - https://cdn.abicart.com/shop/images/217165079-origpic-2c2480/ws51/49251/art51/h5079/P3.png
+  - https://cdn.abicart.com/shop/images/217165079-origpic-38f93b/ws51/49251/art51/h5079/P4.png
+downloads:
+  - label: KULT - DFG - Passionstrilogin Scenariosamling.pdf
+    url: https://drive.google.com/file/d/1MXSYEIeAbHmHDXJuvUv_RYj43DICsnaK/view

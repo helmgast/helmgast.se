@@ -1,0 +1,21 @@
+product_number: KDL-220XXXL
+title: 'KULT: Divinity Lost T-shirt XXXL'
+description: |-
+  The official KULT: Divinity Lost T-shirt with the logotype printed on the
+  front and the Sephirot on the back.
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2019-04-23'
+updated_date: '2022-01-01'
+prices:
+  - currency: eur
+    price: 16
+  - currency: sek
+    price: 159
+shop_url: https://webshop.helmgast.se/en/kult/kult-divinity-lost-t-shirt.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4453/166434453-origpic-8936e8.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4453/166434453-origpic-331171.jpg

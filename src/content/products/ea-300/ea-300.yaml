@@ -1,0 +1,40 @@
+product_number: EA-300
+title: 'Ereb Altor: Kopparhavet'
+description: |-
+  Vårt utforskande av Ereb Altor börjar i Kopparhavet – en myllrande, färgstark
+  del av världen fylld av sjöfarande hjältar, uråldriga mysterier stormpiskade
+  kuster och saltstänkta hamnar.
+
+  Boxen innehåller två gedigna böcker och två kartor, skapade för att ge både
+  spelare och spelledare allt som behövs för att väcka Kopparhavet till liv.
+  Även PDF:er ingår!
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: book
+status: available
+created_date: '2025-10-08'
+updated_date: '2026-06-10'
+prices:
+  - currency: eur
+    price: 64
+  - currency: sek
+    price: 699
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-box.html
+cover_image: >-
+  https://cdn.abicart.com/shop/images/222422153-origpic-ed1044/ws51/49251/art51/h2153/EREB_ALTOR_Kopparhavet_Produktfoto_BOX.png
+images:
+  - >-
+    https://cdn.abicart.com/shop/images/222422153-origpic-5fa39f/ws51/49251/art51/h2153/EREB_ALTOR_Kopparhavet_Produktfoto_BOX_BÖCKER.png
+  - >-
+    https://cdn.abicart.com/shop/images/222422153-origpic-9f9799/ws51/49251/art51/h2153/EREB_ALTOR_Kopparhavet_Produktfoto_ALLT.png
+downloads:
+  - label: ereb_altor_kopparhavskronikan.pdf
+    url: https://drive.google.com/file/d/1dIb-ceMgbvRZnlAUVEWtijIezyVETqek/view?usp=sharing
+  - label: ereb_altor_hjaltar_fran_kopparhavet.pdf
+    url: https://drive.google.com/file/d/1jOxLDEt7ur6wA4Jd54iy_RYGeg87q6nU/view?usp=sharing
+  - label: portolanen.pdf
+    url: https://drive.google.com/file/d/117RIzyTginAmjQG-napgqgoV_NV80XzX/view?usp=drive_link
+  - label: kopparhavet_karta.pdf
+    url: https://drive.google.com/file/d/1HqUGur1ezRphGNnxoWDPwwSdN6_UeW1K/view?usp=drive_link

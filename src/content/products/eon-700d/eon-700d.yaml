@@ -1,0 +1,26 @@
+product_number: EON-700D
+title: Henecs Famn, äventyr (PDF)
+description: |-
+  Henecs Famn är ett pdf-äventyr till Eon IV som utspelar sig i det lilla
+  gränssamhället Henecs famn, på gränsen mellan Damarien och Västmark.
+language: sv
+world: eon
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2017-06-11'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 2.8
+  - currency: sek
+    price: 29
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/aventyr-henecs-famn-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9954/129199954-origpic-a7c42a.jpg
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9954/129199954-origpic-e86d57.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h9954/129199954-origpic-014517.jpg
+downloads:
+  - label: Eon Uppgörelse i Henecs famn 20171130.pdf
+    url: https://drive.google.com/uc?export=view&id=0B1517ElWvhJvNWtkRTFHVDE0bnM

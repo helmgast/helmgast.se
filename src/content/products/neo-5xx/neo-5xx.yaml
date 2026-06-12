@@ -1,0 +1,17 @@
+product_number: NEO-5XX
+title: Neotech Edge Uppgradering Basare till Pro
+description: ENDAST FÖR DE SOM BACKADE SOM BASARE PÅ KICKSTARTERN.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: digital
+status: out_of_stock
+created_date: '2019-10-26'
+updated_date: '2020-05-15'
+prices:
+  - currency: eur
+    price: 65
+  - currency: sek
+    price: 650
+tax: 0.06
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h9359/171539359-origpic-f11c20.png

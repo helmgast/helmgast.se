@@ -1,0 +1,21 @@
+product_number: EA-203D
+title: "Ereb Altor –\_Kopparhavskrönikan (pdf)"
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: digital
+status: available
+created_date: '2025-10-08'
+updated_date: '2026-04-05'
+prices:
+  - currency: eur
+    price: 19
+  - currency: sek
+    price: 199
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-kopparhavskronikan-pdf.html
+cover_image: >-
+  https://cdn.abicart.com/shop/images/222422265-origpic-443b20/ws51/49251/art51/h2265/Ereb-Altor_Kopparhavskrönikan_mockup.png
+downloads:
+  - label: ereb_altor_kopparhavskronikan.pdf
+    url: https://drive.google.com/file/d/1dIb-ceMgbvRZnlAUVEWtijIezyVETqek/view?usp=sharing

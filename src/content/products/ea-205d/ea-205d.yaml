@@ -1,0 +1,20 @@
+product_number: EA-205D
+title: "Ereb Altor –\_Karta över Kopparhavet (PDF)"
+description: Digital version av Karta över Kopparhavet
+language: sv
+publisher: helmgast.se
+world: ereb-altor
+type: digital
+status: available
+created_date: '2025-10-26'
+updated_date: '2026-04-23'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/ereb-altor/ereb-altor-karta-over-kopparhavet-pdf.html
+downloads:
+  - label: kopparhavet_karta.pdf
+    url: https://drive.google.com/file/d/1HqUGur1ezRphGNnxoWDPwwSdN6_UeW1K/view?usp=drive_link

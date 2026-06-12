@@ -1,0 +1,29 @@
+product_number: KDL-133
+title: Screams and Whispers - Scenario Collection
+description: 'The hardcover scenario collection Screams and Whispers for KULT: Divinity Lost'
+language: en
+world: kult
+publisher: helmgast.se
+type: book
+status: available
+created_date: '2022-01-03'
+updated_date: '2026-05-05'
+prices:
+  - currency: eur
+    price: 40
+  - currency: sek
+    price: 399
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/screams-and-whispers-scenario-collection.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4571/187854571-origpic-f11946.png
+images:
+  - https://cdn.abicart.com/shop/images/187854571-origpic-130c14/ws51/49251/art51/h4571/SW5.jpg
+  - https://cdn.abicart.com/shop/images/187854571-origpic-660adc/ws51/49251/art51/h4571/SW6.jpg
+  - https://cdn.abicart.com/shop/images/187854571-origpic-d5ff9b/ws51/49251/art51/h4571/SW7.jpg
+  - https://cdn.abicart.com/shop/images/187854571-origpic-69468d/ws51/49251/art51/h4571/SW1.jpg
+  - https://cdn.abicart.com/shop/images/187854571-origpic-7d47db/ws51/49251/art51/h4571/SW2.jpg
+  - https://cdn.abicart.com/shop/images/187854571-origpic-71500b/ws51/49251/art51/h4571/SW3.jpg
+  - https://cdn.abicart.com/shop/images/187854571-origpic-2d937a/ws51/49251/art51/h4571/SW4.jpg
+downloads:
+  - label: KULT Divinity Lost - Screams and Whispers.pdf
+    url: https://drive.google.com/file/d/1keVG50q3I6OqHZm3uTGf1osNzjrw8oEJ/view?usp=sharing

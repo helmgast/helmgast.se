@@ -1,0 +1,25 @@
+product_number: EON-800
+title: Ödesväven, äventyrsmodul
+description: Äventyrsmodul till Eon
+language: sv
+world: eon
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2015-06-10'
+updated_date: '2025-12-16'
+prices:
+  - currency: eur
+    price: 23.5
+  - currency: sek
+    price: 249
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/eon/odesvaven.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h4782/28604782-origpic-fe3f34.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4782/28604782-origpic-3728bc.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4782/28604782-origpic-67370d.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4782/28604782-origpic-6f4cb8.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4782/28604782-origpic-29f688.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4782/28604782-origpic-0169d9.jpg
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h4782/28604782-origpic-f65dab.jpg

@@ -1,0 +1,27 @@
+product_number: KDL-136
+title: The Forbidden  - Scenario Collection
+description: |-
+  The Forbidden is a scenario collection that contains three scenarios that has
+  been deemed too controversial to be sold in retail store. It also contains a
+  gallery with uncensored art from the game.
+language: en
+publisher: helmgast.se
+world: kult
+type: book
+status: out_of_stock
+created_date: '2022-11-20'
+updated_date: '2025-12-29'
+prices:
+  - currency: eur
+    price: 30
+  - currency: sek
+    price: 329
+tax: 0.06
+shop_url: https://webshop.helmgast.se/kult/the-forbidden-scenario-collection.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1451/195731451-origpic-3c1f06.png
+images:
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1451/195731451-origpic-f0856c.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1451/195731451-origpic-315cb9.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1451/195731451-origpic-724147.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1451/195731451-origpic-1f36d4.png
+  - https://cdn.abicart.com/shop/ws51/49251/art51/h1451/195731451-origpic-5e88c3.png

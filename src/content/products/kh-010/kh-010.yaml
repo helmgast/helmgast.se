@@ -1,0 +1,23 @@
+product_number: KH-010
+title: Karta över Kopparhavet
+description: |-
+  Fyrfärgskarta över Kopparhavet med symboler för viktiga ätter och
+  organisationer. Vikt karta i 50x70cm.
+language: sv
+world: kopparhavets-hjaltar
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2020-07-27'
+updated_date: '2025-12-22'
+prices:
+  - currency: eur
+    price: 15
+  - currency: sek
+    price: 149
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/kopparhavets-hjaltar/karta-over-kopparhavet.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1019/177821019-origpic-f6efaa.png
+downloads:
+  - label: map-kh-64x45.pdf
+    url: https://drive.google.com/uc?export=view&id=1v-zV720EPZDwTE06I2bjpRBLhSQwP88k

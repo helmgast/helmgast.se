@@ -1,0 +1,27 @@
+product_number: FE-13D
+title: 'Modul: Världsträdets grenar [PDF]'
+description: |-
+  Följ med på en resa i det väldiga världsträdet, en resa som tar dig till de
+  stormpiskade Järnklipporna, det bergiga Forland, till stäppland och vargland,
+  och innanför Kungarikets gränsmurar. Följ med ner i Underjorden i
+  Världsträdets stam, och högt upp i dess krona till ljusalvernas rike. Följ med
+  oss bortom Världsträdet till Drakens land i Mundana, till Västmark på Lyonia,
+  och till Missladal där Trollvintern härjar.
+language: sv
+world: jarn
+publisher: helmgast.se
+type: digital
+status: available
+created_date: '2020-05-21'
+updated_date: '2026-01-12'
+prices:
+  - currency: eur
+    price: 10
+  - currency: sek
+    price: 99
+tax: 0.06
+shop_url: https://webshop.helmgast.se/sv/jarn/modul-varldstradets-grenar-pdf.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h1541/176851541-origpic-7945e7.png
+downloads:
+  - label: Järn Världsträdets grenar 20200423.pdf
+    url: https://drive.google.com/uc?export=view&id=1Cdg4wk-RTz8zd3POHGkWiJtUjrXMlUIA

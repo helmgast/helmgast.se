@@ -1,0 +1,17 @@
+product_number: NEO-152
+title: Neotech Edge Tärningar (metall)
+description: Lyxiga och stora Neotech-formgivna tärningar i tung metall.
+language: sv
+world: neotech
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2019-09-11'
+updated_date: '2023-11-24'
+prices:
+  - currency: eur
+    price: 24
+  - currency: sek
+    price: 249
+shop_url: https://webshop.helmgast.se/sv/neotech/neotech-edge-tarningar.html
+cover_image: https://cdn.abicart.com/shop/ws51/49251/art51/h2709/170392709-origpic-17db5d.jpg

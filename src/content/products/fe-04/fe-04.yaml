@@ -1,0 +1,12 @@
+product_number: FE-04
+title: Järn Hövdingutgåvan
+language: sv
+world: jarn
+publisher: helmgast.se
+type: book
+status: out_of_stock
+created_date: '2015-04-27'
+updated_date: '2020-05-12'
+downloads:
+  - label: Järn Grundbok US Comic.pdf
+    url: https://drive.google.com/uc?export=view&id=1oSbJ3GhDpEX18SJ1BHpTyZ5JmO9PTslA
